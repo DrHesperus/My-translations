@@ -1,68 +1,95 @@
 # PARSE_ESCAPES
-item.tfspellpack\:twilight_spell_book.name=Сумеречная книга заклинаний
+tile.tfspellpack\:gilded_twilight_oak_wood.name=Позолоченное сумеречное дубовое дерево
+tile.tfspellpack\:gilded_canopy_wood.name=Позолоченное пологовое дерево
+tile.tfspellpack\:gilded_mangrove_wood.name=Позолоченное мангровое дерево
+tile.tfspellpack\:gilded_darkwood.name=Позолоченное тёмное дерево
+tile.tfspellpack\:gilded_timewood.name=Позолоченное дерево времени
+tile.tfspellpack\:gilded_transwood.name=Позолоченное дерево трансформации
+tile.tfspellpack\:gilded_minewood.name=Позолоченное шахтное дерево
+tile.tfspellpack\:gilded_sortingwood.name=Позолоченное дерево сортировки
+
+tile.tfspellpack\:twilight_oak_bookshelf.name=Книжная полка из сумеречного дуба
+tile.tfspellpack\:canopy_bookshelf.name=Книжная полка из пологового дерева
+tile.tfspellpack\:mangrove_bookshelf.name=Книжная полка из мангрового дерева
+tile.tfspellpack\:darkwood_bookshelf.name=Книжная полка из тёмного дерева
+tile.tfspellpack\:timewood_bookshelf.name=Книжная полка из дерева времени
+tile.tfspellpack\:transwood_bookshelf.name=Книжная полка из дерева трансформации
+tile.tfspellpack\:minewood_bookshelf.name=Книжная полка из шахтного дерева
+tile.tfspellpack\:sortingwood_bookshelf.name=Книжная полка из дерева сортировки
+
+tile.tfspellpack\:twilight_oak_lectern.name=Кафедра из сумеречного дуба
+tile.tfspellpack\:canopy_lectern.name=Кафедра из пологового дерева
+tile.tfspellpack\:mangrove_lectern.name=Кафедра из мангрового дерева
+tile.tfspellpack\:darkwood_lectern.name=Кафедра из тёмного дерева
+tile.tfspellpack\:timewood_lectern.name=Кафедра из дерева времени
+tile.tfspellpack\:transwood_lectern.name=Кафедра из дерева трансформации
+tile.tfspellpack\:minewood_lectern.name=Кафедра из шахтного дерева
+tile.tfspellpack\:sortingwood_lectern.name=Кафедра из дерева сортировки
+
+item.tfspellpack\:twilight_spell_book.name=Сумеречная колдовская книга
 item.tfspellpack\:twilight_scroll.name=Сумеречный свиток
 
-item.tfspellpack\:ring_twilight.name=Сумеречное кольцо
-item.tfspellpack\:ring_twilight.desc=Заклинания мощнее на 10% в сумеречном лесу
+item.tfspellpack\:ring_twilight.name=Кольцо сумрака
+item.tfspellpack\:ring_twilight.desc=Заклинания на 10%% эффективнее в сумеречном лесу.
 item.tfspellpack\:ring_hydra_kaboom.name=Кольцо злобных глаз
-item.tfspellpack\:ring_hydra_kaboom.desc=Бомбы Гидры взрываются с силой динамита
-item.tfspellpack\:ring_aurora.name=Кольцо Авроры
-item.tfspellpack\:ring_aurora.desc=Удар ледяной кареты о землю сломает блоки
-item.tfspellpack\:ring_trollsteinn.name=Кольцо Тролльштейна
-item.tfspellpack\:ring_trollsteinn.desc=Кислотный дождь отравляет цель
-item.tfspellpack\:ring_stealth_attack.name=Кольцо Ночного Плаща
-item.tfspellpack\:ring_stealth_attack.desc=Атаки из засады наносят на 50% больше урона, когда находятся под эффектом "Плащ тумана"
+item.tfspellpack\:ring_hydra_kaboom.desc=Бомбы гидры взрываются с динамитной мощью.
+item.tfspellpack\:ring_aurora.name=Кольцо авроры
+item.tfspellpack\:ring_aurora.desc=The chariot of ice ground slam уничтожает блоки.
+item.tfspellpack\:ring_trollsteinn.name=Кольцо тролльштейна
+item.tfspellpack\:ring_trollsteinn.desc=Отравляет цели кислотным дождём.
+item.tfspellpack\:ring_stealth_attack.name=Кольцо ночной маскировки
+item.tfspellpack\:ring_stealth_attack.desc=Скрытые атаки наносят 50%% больше урона, находясь под действием эффекта туманного плаща-накидки.
 
 item.tfspellpack\:amulet_steeleaf.name=Амулет из стального листа
-item.tfspellpack\:amulet_steeleaf.desc=Входящий урон снижен на 10%, если владелец одет в одеяния волшебника
+item.tfspellpack\:amulet_steeleaf.desc=Входящий урон снижен на 10%% при ношении целой чародейской брони в сумеречном лесу.
 item.tfspellpack\:amulet_carminite.name=Карминитовый амулет
-item.tfspellpack\:amulet_carminite.desc=Карминитовая сингулярность отражает снаряды
-item.tfspellpack\:amulet_life_charm.name=Кулон Золотого Сердца
-item.tfspellpack\:amulet_life_charm.desc=Чарм жизни вылечивает волшенбника и дарует дополнительное сопротивление
+item.tfspellpack\:amulet_carminite.desc=Карминитовая сингулярность отражает снаряды.
+item.tfspellpack\:amulet_life_charm.name=Кулон «золотое сердце»
+item.tfspellpack\:amulet_life_charm.desc=Амулет жизни исцеляет чародея до полного здоровья и даёт дополнительную сопротивляемость.
 
-item.tfspellpack\:charm_ice_exploder.name=Злобный Ледяной Жемчуг
-item.tfspellpack\:charm_ice_exploder.desc=Призванные ледянные ядра очень опасны
-item.tfspellpack\:charm_goblin.name=Кушак сапёра
-item.tfspellpack\:charm_goblin.desc=Призванные гоблины теперь сапёры
-item.tfspellpack\:charm_troll.name=Ледяной Тролльбер
-item.tfspellpack\:charm_troll.desc=Призванные пещерные тролли бросают ледяные бомбы в противников
-item.tfspellpack\:charm_accursed_tome.name=Проклятый Том
-item.tfspellpack\:charm_accursed_tome.desc=Страницы смерти накладывают случайные отрицательные эффекты зелья
+item.tfspellpack\:charm_ice_exploder.name=Зловредный ледяной жемчуг
+item.tfspellpack\:charm_ice_exploder.desc=Призывает нестабильно опасные ледяные ядра.
+item.tfspellpack\:charm_goblin.name=Мешок красношапочного шахтёра
+item.tfspellpack\:charm_goblin.desc=Призывает красношапочных гоблинов-подрывников.
+item.tfspellpack\:charm_troll.name=Ледяной берриасский тролль
+item.tfspellpack\:charm_troll.desc=Призывает пещерных троллей кидающих ледяные бомбы в цели.
+item.tfspellpack\:charm_accursed_tome.name=Заклятый том
+item.tfspellpack\:charm_accursed_tome.desc=Страница смерти причиняет случайные пагубные эффекты зелья.
 
 entity.tfspellpack\:fire_beetle_minion.name=Огненный жук
 entity.tfspellpack\:stable_ice_core_minion.name=Стабильное ледяное ядро
 entity.tfspellpack\:unstable_ice_core_minion.name=Нестабильное ледяное ядро
-entity.tfspellpack\:redcap_goblin_minion.name=Гоблин красношапочник
-entity.tfspellpack\:redcap_sapper_minion.name=Сапёр красношапочник
-entity.tfspellpack\:skeleton_druid_minion.name=Скелет-Друид
-entity.tfspellpack\:slime_beetle_minion.name=Слизневый жук
-entity.tfspellpack\:twilight_wraith_minion.name=Сумеречный призрак
+entity.tfspellpack\:redcap_goblin_minion.name=Красношапочный гоблин
+entity.tfspellpack\:redcap_sapper_minion.name=Красношапочный подрывник
+entity.tfspellpack\:skeleton_druid_minion.name=Скелет-друид
+entity.tfspellpack\:slime_beetle_minion.name=Жук-слизень
+entity.tfspellpack\:twilight_wraith_minion.name=Сумеречный дух
 entity.tfspellpack\:snow_guardian_minion.name=Снежный страж
-entity.tfspellpack\:carminite_ghastling_minion.name=Карминитовый гаст 
+entity.tfspellpack\:carminite_ghastling_minion.name=Карминитовый мини-гаст
 entity.tfspellpack\:cave_troll_minion.name=Пещерный тролль
 
-entity.tfspellpack\:druid_mage.name=Маг-Друид
+entity.tfspellpack\:druid_mage.name=Маг-друид
 
-entity.tfspellpack\:acid_rain_cloud.name=Кислотное дождевое облако
+entity.tfspellpack\:acid_rain_cloud.name=Кислотная туча
 entity.tfspellpack\:cinder_cloud.name=Пепельное облако
-entity.tfspellpack\:fire_jet.name=Огненный Джет
-entity.tfspellpack\:rain_of_tears.name=Дождь из слёз
+entity.tfspellpack\:fire_jet.name=Распылитель огня
+entity.tfspellpack\:rain_of_tears.name=Дождь слёз
 entity.tfspellpack\:dark_mist_cloud.name=Тёмное туманное облако
 
-entity.tfspellpack\:fiery_tear.name=Магия
-entity.tfspellpack\:magic_hydra_mortar.name=Магия
+entity.tfspellpack\:fiery_tear.name=Магический
+entity.tfspellpack\:magic_hydra_mortar.name=Магическая
 
 spell.tfspellpack\:acid_rain=Кислотный дождь
-spell.tfspellpack\:annihilation=Аннигиляция
-spell.tfspellpack\:call_of_the_horn=Зов Рога
+spell.tfspellpack\:annihilation=Истребление
+spell.tfspellpack\:call_of_the_horn=Зов рога
 spell.tfspellpack\:carminite_singularity=Карминитовая сингулярность
-spell.tfspellpack\:chariot_of_ice=Ледяная карета
+spell.tfspellpack\:chariot_of_ice=Колесница льда
 spell.tfspellpack\:cinder_cloud=Пепельное облако
-spell.tfspellpack\:death_page=Страница смерти
-spell.tfspellpack\:druid_hex=Проклятье Друида
-spell.tfspellpack\:fire_jets=Огненные Джеты
-spell.tfspellpack\:fortification=Фортификация
-spell.tfspellpack\:frost_breath=Морозное Дыхание
+spell.tfspellpack\:death_page=Мёртвая страница
+spell.tfspellpack\:druid_hex=Заговор друида
+spell.tfspellpack\:fire_jets=Распылители огня
+spell.tfspellpack\:fortification=Укрепление
+spell.tfspellpack\:frost_breath=Морозное дуновение
 spell.tfspellpack\:ghast_trap=Ловушка Гаста
 spell.tfspellpack\:hydra_bomb=Бомба Гидры
 spell.tfspellpack\:hydras_vigour=Сила Гидры
