@@ -1,32 +1,35 @@
 {
-  "itemGroup.twilightforest": "Сумеречный Лес",
+  "itemGroup.twilightforest": "Twilight Forest",
 
-  //ADVANCEMENTS
-  "advancement.twilightforest.root.desc": "Войдите в загадочные магические леса; Сумеречный лес.",
+  "_comment": "ДОСТИЖЕНИЯ",
+  "advancement.twilightforest.root.desc": "Войди в загадочное магическое редколесье: Сумеречный лес.",
 
-  //General progression
-  "advancement.twilightforest.hedge": "Арахнофоб",
-  "advancement.twilightforest.hedge.desc": "Победить паука в лабиринте хеджа.",
+  "_comment": "Общий прогресс",
+  "advancement.twilightforest.hedge": "Жукомолотилка",
+  "advancement.twilightforest.hedge.desc": "Одолей паука в %s.",
 
-  "advancement.twilightforest.hill1": "Сапоги мои!",
-  "advancement.twilightforest.hill1.desc": "Убейте шахтёра в маленьком холме.",
-  "advancement.twilightforest.hill2": "Что это за шум?",
-  "advancement.twilightforest.hill2.desc": "Убейте шахтёра-подрывника в среднем холме.",
-  "advancement.twilightforest.hill3": "Я вижу тебя насквозь",
-  "advancement.twilightforest.hill3.desc": "Встретьте и убейте призрака в большом холме.",
+  "advancement.twilightforest.kill_cicada": "Сумерки",
+  "advancement.twilightforest.kill_cicada.desc": "Убей цикаду.",
 
-  "advancement.twilightforest.quest_ram": "Непревзойдённый",
-  "advancement.twilightforest.quest_ram.desc": "Дайте Раму то, чего ему не хватает.",
+  "advancement.twilightforest.hill1": "Ботинки мои!",
+  "advancement.twilightforest.hill1.desc": "Одолей %s в %s.",
+  "advancement.twilightforest.hill2": "Что это был за шум?",
+  "advancement.twilightforest.hill2.desc": "Одолей %s в %s.",
+  "advancement.twilightforest.hill3": "Я тебя насквозь вижу",
+  "advancement.twilightforest.hill3.desc": "Одолей %s в %s.",
 
-  //Map
-  "advancement.twilightforest.magic_map_focus": "Написанное огнём",
-  "advancement.twilightforest.magic_map_focus.desc": "Сделайте магическое перо.",
-  "advancement.twilightforest.magic_map": "Далеко гляжу",
-  "advancement.twilightforest.magic_map.desc": "Создайте магическую карту.",
-  "advancement.twilightforest.maze_map": "Теперь я найду выход",
-  "advancement.twilightforest.maze_map.desc": "Создайте карту лабиринта, получив фокус от лабиринта.",
-  "advancement.twilightforest.ore_map": "Почему бы и нет?",
-  "advancement.twilightforest.ore_map.desc": "Создайте карту лабиринта/руды.",
+  "advancement.twilightforest.quest_ram": "Непревзойдённый бах",
+  "advancement.twilightforest.quest_ram.desc": "Дай %s то, что ему не хватает.",
+
+  "_comment": "Карта",
+  "advancement.twilightforest.magic_map_focus": "Она пишется огнём",
+  "advancement.twilightforest.magic_map_focus.desc": "Создай %s при помощи %s, %s, и %s.",
+  "advancement.twilightforest.magic_map": "Я вижу бесконечно",
+  "advancement.twilightforest.magic_map.desc": "Создай %s.",
+  "advancement.twilightforest.maze_map": "А теперь, найди выход",
+  "advancement.twilightforest.maze_map.desc": "Создай %s после получения фокуса из лабиринта.",
+  "advancement.twilightforest.ore_map": "Как это может быть оправдано?",
+  "advancement.twilightforest.ore_map.desc": "Создай %s.",
 
   //Mainline beginning progression
   "advancement.twilightforest.twilight_hunter": "Лесной убийца",
