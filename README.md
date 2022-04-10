@@ -1,5 +1,9 @@
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Discord](https://img.shields.io/badge/%3CDrHesperus2411%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![](https://komarev.com/ghpvc/?username=DrHesperus)
+
 # Мои переводы
-Здесь находятся мои переводы по модам Майнкрафт. Будут вопросы – обращайся! _DrHesperus#2411_
+Моя личная страница с моими переводами по модам Minecraft. Если у тебя появились вопросы – обращайся!
+
+> Мне то всё равно, где отвечать, но лучше пиши в Discord.
 
 ## ОБО МНЕ
 **Моё имя Алексей | мне 24 года | мой ник DrHesperus**. C недавних пор я __начал__ заниматься переводами по ***minecraft модам***. Моя самая первая работа по переводу была сделана по **Thaumcrafr 6** (он же мой любимый мод, начиная с 3 версии), но из-за очень старого ноутбука, я к сожалению не могу проверять проделанную работу в игре, и поэтому я смотрю **Обзоры**. Впрочем, не судите строго.
@@ -25,7 +29,7 @@
 4.
 В. Пользовался ли ты раньше Онлайн-переводчиком?
 О. С самых первых порах я учился переводить моды, грешил - да использовал. К счастью исправился уже давно и ни разу не пользуюсь переводчиком.
-Но давай будем честны. Неужели все считают, что переводчики модов не пользуются Онлайн-переводчикам, помните TimeConquer? 2 года назад он мне лично признался, что тоже пользовался переводчиком (у нас с ним было горькое обсуждение), и где он теперь? Просто некоторые переставляют слова с переводчика, чтобы не спалиться.
+Но давай будем честны. Неужели все считают, что переводчики модов не пользуются Онлайн-переводчикам, помните Andrey TimeConqueror? 2 года назад он мне лично признался, что тоже пользовался переводчиком (у нас с ним было горькое обсуждение), и где он теперь? Просто некоторые переставляют слова с переводчика, чтобы не спалиться.
 
 5.
 В. Сколько времени уходит на полный перевод мода?
@@ -54,9 +58,15 @@
 
 > Вопросы и ответы будут дополняться, в зависимости от других вопросов.
 
-### Социальные сети
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нравятся+мои+переводы?)](https://git.io/typing-svg)
+
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
+
+## Моя статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrHesperus&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrHesperus&theme=solarized_dark)
+
+### Дополнительные сведения
 1. [Я ВКонтакте](https://vk.com/drhesperus)
 2. Для вступления в ряды переводчиков — [Community Translation's Minecraft](https://discord.gg/6eFdZwAzKQ)
 3. Twitter не имею. Не могу восстановить к нему доступ. Идиотская тех-поддержка.
-
-> Мне то всё равно, где отвечать, но лучше пиши в Discord.
