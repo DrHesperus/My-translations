@@ -1,4 +1,4 @@
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Discord](https://img.shields.io/badge/%3CDrHesperus2411%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![](https://komarev.com/ghpvc/?username=DrHesperus)
+![](https://komarev.com/ghpvc/?username=DrHesperus) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Discord](https://img.shields.io/badge/%3CDrHesperus2411%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 # Мои переводы
 Моя личная страница с моими переводами по модам Minecraft. Если у тебя появились вопросы – обращайся!
@@ -70,5 +70,5 @@
 
 ### Дополнительные сведения
 1. [Я ВКонтакте](https://vk.com/drhesperus)
-2. Для вступления в ряды переводчиков — [Community Translation's Minecraft](https://discord.gg/6eFdZwAzKQ)
-3. Twitter не имею. Не могу восстановить к нему доступ. Идиотская тех-поддержка.
+2. Для вступления в ряды переводчиков — [Community Translation's Minecraft](https://discord.gg/6eFdZwAzKQ).
+3. Twitter (ссылки не будет). Не могу восстановить к нему доступ. Идиотская тех-поддержка. Тем более он заблокирован, а ВПН использовать я не хочу.
