@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=DrHesperus) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Discord](https://img.shields.io/badge/%3CDrHesperus2411%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Discord](https://img.shields.io/badge/%3CDrHesperus2411%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 # Мои переводы
 Моя личная страница с моими переводами по модам Minecraft. Если у тебя появились вопросы – обращайся!
