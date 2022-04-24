@@ -76,3 +76,5 @@
 2. **Для `вступления` в ряды переводчиков** — [Community Translation's Minecraft](https://discord.gg/6eFdZwAzKQ).
 3. [Мой проект переводов](https://github.com/users/DrHesperus/projects/4/views/1).
 4. **Twitter (ссылки не будет). Не могу восстановить к нему доступ. Идиотская тех-поддержка. Тем более он заблокирован, а ВПН использовать я не хочу.**
+
+©2022 My-translations / Mods's Translations.
