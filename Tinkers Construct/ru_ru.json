@@ -2429,6 +2429,7 @@
 "command.tconstruct.stat_type.not_found": "Неизвестный тип характеристики %s",
 "command.tconstruct.stat_type.wrong_type": "Недопустимый тип характеристики %s, должен унаследовать из %s",
 "command.tconstruct.material.not_found": "Неизвестный материал %s",
+"command.tconstruct.modifier.not_found": "Неизвестный модификатор %s",
 "command.tconstruct.modifier_usage": "Используемый модификатор успешно записан в журнал игры.",
 
 "command.tconstruct.modifiers.success.add.single": "Модификатор %s применён к %s предмету.",
