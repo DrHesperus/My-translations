@@ -422,6 +422,30 @@
 "fluid.tconstruct.flowing_blazing_blood": "Текучая пылающая кровь",
 "item.tconstruct.blazing_blood_bucket": "Ведро с пылающей кровью",
 
+
+"_comment": "Food",
+
+"block.tconstruct.honey_fluid": "Мёд",
+"fluid.tconstruct.honey": "Мёд",
+"fluid.tconstruct.flowing_honey": "Текучий мёд",
+"item.tconstruct.honey_bucket": "Ведро с мёдом",
+
+"block.tconstruct.beetroot_soup_fluid": "Свекольный суп",
+"fluid.tconstruct.beetroot_soup": "Свекольный суп",
+"fluid.tconstruct.flowing_beetroot_soup": "Текучий свекольный суп",
+"item.tconstruct.beetroot_soup_bucket": "Ведро со свекольным супом",
+
+"block.tconstruct.mushroom_stew_fluid": "Тушёные грибы",
+"fluid.tconstruct.mushroom_stew": "Тушёные грибы",
+"fluid.tconstruct.flowing_mushroom_stew": "Текучие тушёные грибы",
+"item.tconstruct.mushroom_stew_bucket": "Ведро с тушёными грибами",
+
+"block.tconstruct.rabbit_stew_fluid": "Тушёный кролик",
+"fluid.tconstruct.rabbit_stew": "Тушёный кролик",
+"fluid.tconstruct.flowing_rabbit_stew": "Текучий тушёный кролик",
+"item.tconstruct.rabbit_stew_bucket": "Ведро с тушёным кроликом",
+
+
 "_comment": "Slime",
 
 "block.tconstruct.blood_fluid": "Кровь",
@@ -1094,14 +1118,16 @@
 "gui.tconstruct.fluid.bucket": "%s в",
 "gui.tconstruct.fluid.millibucket": "%s мв",
 
-"gui.tconstruct.fluid.block": "%s блок(а, ов)",
-"gui.tconstruct.fluid.ingot": "%s слиток(а, ов)",
-"gui.tconstruct.fluid.nugget": "%s кусочек(а, ов)",
-"gui.tconstruct.fluid.gem": "%s самоцвет(а, ов)",
-  "gui.tconstruct.fluid.shard": "%s осколок(а, ов)",
-"gui.tconstruct.fluid.pane": "%s панель(и, ей)",
-"gui.tconstruct.fluid.slimeball": "%s Слизневый(ых) шарик(а,ов)",
-"gui.tconstruct.fluid.brick": "%s кирпич(а, ей)",
+"gui.tconstruct.fluid.block": "%s блок (а, ов)",
+"gui.tconstruct.fluid.ingot": "%s слиток (а, ов)",
+"gui.tconstruct.fluid.nugget": "%s кусочек (а, ов)",
+"gui.tconstruct.fluid.gem": "%s самоцвет (а, ов)",
+"gui.tconstruct.fluid.shard": "%s осколок (а, ов)",
+"gui.tconstruct.fluid.pane": "%s панель (и, ей)",
+"gui.tconstruct.fluid.slimeball": "%s Слизневый (ых) шарик (а,ов)",
+"gui.tconstruct.fluid.brick": "%s кирпич (а, ей)",
+"gui.tconstruct.fluid.bowl": "%s миска (ок)",
+"gui.tconstruct.fluid.bottle": "%s бутылочка (ов)",
 
 "gui.tconstruct.fluid.hold_shift": "Держи §e§oShift§r§7 для количества вёдер.",
 
@@ -1621,6 +1647,9 @@
 "modifier.tconstruct.haste.5": "Супер быстрее",
 "modifier.tconstruct.haste.flavor": "Сноровка!",
 "modifier.tconstruct.haste.description": "Магическая красная пыль заставляет инструмент добывать быстрее!",
+"modifier.tconstruct.haste_armor": "Спешная",
+"modifier.tconstruct.haste_armor.flavor": "Наука!",
+"modifier.tconstruct.haste_armor.description": "Магическая красная пыль заставляет все удерживаемые инструменты добывать быстрее!",
 
 "modifier.tconstruct.blasting": "Взрывчатый",
 "modifier.tconstruct.blasting.flavor": "Взрывная добыча!",
