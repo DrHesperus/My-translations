@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:golden",
   "text": [
     {
-      "text": "Causes piglins to be friendly towards you. Only one piece out of the whole set needs to be golden."
+      "text": "Заставляет пиглинов стать дружелюбны к тебе. Только одна часть из общего числа целого набора должен быть золотой."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level per piece",
-    "Requires 1 defense slot"
+    "Максимально 1 уровень за часть",
+    "Требует 1 слот обороны"
   ]
 }

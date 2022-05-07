@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:shiny",
   "text": [
     {
-      "text": "Makes the tool glow as if enchanted. That's all, it's just decorative."
+      "text": "Делает инструмент переливающимся, как будто он зачарованный. И ничего больше, это просто декоративно."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Single use",
-    "Slotless"
+    "Разовое применение",
+    "Безслотовый"
   ]
 }

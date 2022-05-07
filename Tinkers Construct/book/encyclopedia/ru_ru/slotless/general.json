@@ -1,6 +1,8 @@
 {
-  "title": "General",
+  "title": "Общие",
   "text": [
-    { "text": "General slotless modifiers provide special effects, but do not require any upgrade or ability slots." }
+    {
+		"text": "Общие безслотовые модификаторы предоставляют особые эффекты, но тем не менее не требуют каких-либо слотов улучшений/способности."
+	}
   ]
 }

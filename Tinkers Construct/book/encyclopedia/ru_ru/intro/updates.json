@@ -1,11 +1,11 @@
 {
-  "title": "Updates",
+  "title": "Обновления",
   "text": [
     {
-      "text": "Due to copyright issues, I could not simply include all the contents from other authors in this book unless the reader also owns the source book. Using the magic of gold, I managed to make the book automatically add new sections as you create the other books."
+      "text": "В связи с наступлением проблем с авторскими правами, я не могу просто вносить всё содержимое от других авторов в эту книгу, кроме тех случаев, когда читатель ещё и владеет первоисточником. Использование магического золота, мне удаётся сделать книгу, которая автоматически добавляет новые разделы по мере создания других книг."
     },
     {
-      "text": "To get the full contents of this book, you will need to obtain copies of Materials and You, Puny Smelting, Mighty Smelting, Fantastic Foundry, and Tinkers' Gadgetry.",
+      "text": "Чтобы получить полное содержание этой книги, тебе нужно получить экземпляры: Материалы и Ты, Слабая выплавка, Сильная выплавка, Фантастическая литейная, и Оборудование литейщика.",
       "paragraph": true
     }
   ]

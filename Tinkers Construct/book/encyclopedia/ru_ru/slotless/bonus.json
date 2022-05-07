@@ -1,14 +1,16 @@
 {
-  "title": "Bonus",
+  "title": "Дополнительные",
   "text": [
-    { "text": "Bonus modifiers are a group of slotless modifiers that grant additional modifier slots." },
     {
-      "text": "By default, most small tools start with 3 upgrade slots, and most broad tools start with 2. Modifiers can add an additional 4 slots to the tool.",
-      "paragraph": true
+		"text": "Дополнительные модификаторы — это группа безслотовых модификаторов, которые дают дополнительные слоты модификаторов."
+	},
+    {
+		"text": "По общему правилу, большинство малых инструментов начинаются с 3-мя слотами улучшений, а вот большинство широколезвийных инструментов начинаются с 2-мя. Модификаторы могут добавить ещё 4 слота в инструмент.",
+		"paragraph": true
     },
     {
-      "text": "In addition, most tools start with 1 ability slot. Modifiers can add an additional ability slot to the tool.",
-      "paragraph": true
+		"text": "Кроме того, большинство инструментов начинаются с 1 слотом способности. Модификаторы могут добавить ещё слот способности в инструмент.",
+		"paragraph": true
     }
   ]
 }

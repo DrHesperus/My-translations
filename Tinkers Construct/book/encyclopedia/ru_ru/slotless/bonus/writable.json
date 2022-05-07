@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:writable",
   "text": [
     {
-      "text": "Grants +1 upgrade slot."
+      "text": "Даёт +1 слот улучшения."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Single use",
-    "Slotless"
+    "Разовое применение",
+    "Безслотовый"
   ]
 }

@@ -288,8 +288,8 @@
 
 "_comment": "Tool Handle Gold Casts",
 
-"pattern.tconstruct.tool_handle": "Ручка для инструмента",
-"pattern.tconstruct.tough_handle": "Прочная ручка",
+"pattern.tconstruct.tool_handle": "Рукоятка инструмента",
+"pattern.tconstruct.tough_handle": "Прочная рукоятка",
 
 
 "_comment": "Tinkers Gold Casts",
@@ -329,8 +329,8 @@
 
 "_comment": "Tool Handle Gold Casts",
 
-"item.tconstruct.tool_handle_cast": "Золотая форма: Ручка для инструмента",
-"item.tconstruct.tough_handle_cast": "Золотая форма: Прочная ручка",
+"item.tconstruct.tool_handle_cast": "Золотая форма: Рукоятка инструмента",
+"item.tconstruct.tough_handle_cast": "Золотая форма: Прочная рукоятка",
 
 
 "_comment": "Tinkers Sand Casts",
@@ -370,8 +370,8 @@
 
 "_comment": "Tool Handle Sand Casts",
 
-"item.tconstruct.tool_handle_sand_cast": "Песочная форма: Ручка для инструмента",
-"item.tconstruct.tough_handle_sand_cast": "Песочная форма: Прочная ручка",
+"item.tconstruct.tool_handle_sand_cast": "Песочная форма: Рукоятка инструмента",
+"item.tconstruct.tough_handle_sand_cast": "Песочная форма: Прочная рукоятка",
 
 
 "_comment": "Tinkers Red Sand Casts",
@@ -411,8 +411,8 @@
 
 "_comment": "Tool Handle Red Sand Casts",
 
-"item.tconstruct.tool_handle_red_sand_cast": "Краснопесочная форма: Ручка для инструмента",
-"item.tconstruct.tough_handle_red_sand_cast": "Краснопесочная форма: Прочная ручка",
+"item.tconstruct.tool_handle_red_sand_cast": "Краснопесочная форма: Рукоятка инструмента",
+"item.tconstruct.tough_handle_red_sand_cast": "Краснопесочная форма: Прочная рукоятка",
 
 
 "_comment": "Tinkers Fluids",
@@ -879,8 +879,8 @@
 "item.tconstruct.small_blade": "Малое лезвие",
 "item.tconstruct.broad_blade": "Широкое лезвие",
 
-"item.tconstruct.tool_handle": "Ручка для инструмента",
-"item.tconstruct.tough_handle": "Прочная ручка",
+"item.tconstruct.tool_handle": "Рукоятка инструмента",
+"item.tconstruct.tough_handle": "Прочная рукоятка",
 "item.tconstruct.tool_binding": "Оковка инструмента",
 "item.tconstruct.round_plate": "Круглая заготовка",
 "item.tconstruct.large_plate": "Большая пластина",
@@ -1618,7 +1618,7 @@
 "modifier.tconstruct.diamond.description": "Увеличивает прочность и характеристики!",
 "modifier.tconstruct.worldbound": "Связь с миром",
 "modifier.tconstruct.worldbound.flavor": "Древний!",
-"modifier.tconstruct.worldbound.description": "Сырая версия незерита, предоставляющий иммунитет к внешнему урону, как огонь, но без излишней силы.",
+"modifier.tconstruct.worldbound.description": "Сырая версия незерита, дающий невосприимчивость внешнему урону, например огню, но без излишней силы.",
 "modifier.tconstruct.soulbound": "Связь с душой",
 "modifier.tconstruct.soulbound.flavor": "Связь на всю жизнь!",
 "modifier.tconstruct.soulbound.description": "После смерти инструмент остаётся в инвентаре!",
@@ -1724,18 +1724,18 @@
 "modifier.tconstruct.swiftstrike.1": "Быстрый удар",
 "modifier.tconstruct.swiftstrike.2": "Быстрее удар",
 "modifier.tconstruct.swiftstrike.3": "Более быстрый удар",
-"modifier.tconstruct.swiftstrike.4": "Ещё более быстрый удар",
+"modifier.tconstruct.swiftstrike.4": "Ещё быстрее удар",
 "modifier.tconstruct.swiftstrike.5": "Совсем быстрый удар",
 "modifier.tconstruct.swiftstrike.flavor": "Магия!",
 "modifier.tconstruct.swiftstrike.description": "Магические пурпурные самоцветы заставляют оружие легче и проще размахивать!",
 
 "_comment": "Armor",
-"modifier.tconstruct.knockback_resistance": "Отбросостойкость",
-"modifier.tconstruct.knockback_resistance.flavor": "Тяжёлый предмет",
+"modifier.tconstruct.knockback_resistance": "Сопротивление отбрасыванию",
+"modifier.tconstruct.knockback_resistance.flavor": "Тяжёлый предмет.",
 "modifier.tconstruct.knockback_resistance.description": "Наковальни тяжёлые, так что он должен защитить тебя от удара, верно?",
 "modifier.tconstruct.golden": "Золотистый",
-"modifier.tconstruct.golden.flavor": "Золото, как золото",
-"modifier.tconstruct.golden.description": "Даёт тебе доп. золотой блеск, пиглины любят золото!",
+"modifier.tconstruct.golden.flavor": "Золото, как золото.",
+"modifier.tconstruct.golden.description": "Даёт тебе дополнительный золотой блеск, пиглины любят золото!",
 "modifier.tconstruct.ricochet": "Рикошет",
 "modifier.tconstruct.ricochet.flavor": "Особо упругий",
 "modifier.tconstruct.ricochet.description": "При нападении снаряды отскакивают для эффективных побегов.",
@@ -2384,7 +2384,7 @@
 "gui.tconstruct.tinker_station.repair": "Ремонт и Изменение",
 "gui.tconstruct.tinker_station.repair_limited.description": "Позволяет создание всех начальных инструментов и применение большинства модификаторов. Выбери чертёж из кнопок слева, чтобы начать.",
 "gui.tconstruct.tinker_station.repair": "Ремонт и Изменение",
-"gui.tconstruct.tinker_station.repair.description": "Создай как малые, так и широколезвийные инструменты и модифицируй имеющиеся инструменты, чтобы осуществить свои мечты! Выбери чертёж из кнопок слева, чтобы начать.",
+"gui.tconstruct.tinker_station.repair.description": "Создай как ручные, так и широколезвийные инструменты и модифицируй имеющиеся инструменты, чтобы осуществить свои мечты! Выбери чертёж из кнопок слева, чтобы начать.",
 "gui.tconstruct.tinker_station.modifiers": "Модификаторы",
 "gui.tconstruct.tinker_station.upgrades": "Улучшения и Способности",
 "gui.tconstruct.tinker_station.traits": "Особенности",
@@ -2570,7 +2570,7 @@
 "advancements.tconstruct.tools.glass_cannon.title": "Стеклянное орудие",
 "advancements.tconstruct.tools.glass_cannon.description": "Создай инструмент, наносящий свыше двадцати урона при наличии более ста прочности.",
 "advancements.tconstruct.tools.tool_smith.title": "Кузнец инструментов",
-"advancements.tconstruct.tools.tool_smith.description": "Создай каждый стандартный малый инструмент.",
+"advancements.tconstruct.tools.tool_smith.description": "Создай каждый стандартный ручной инструмент.",
 "advancements.tconstruct.tools.material_master.title": "Мастер в материалах",
 "advancements.tconstruct.tools.material_master.description": "Используй каждый стандартный материал как минимум 1 раз.",
 
