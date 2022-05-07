@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:spilling",
   "text": [
     {
-      "text": "Drains a small amount of fluid (typically between 10 mb to 50 mb) to boost attacks with special effects, or in counterattack when applied on a chestplate. "
+      "text": "Вычерпывает малое количество жидкости (обычно, между 10 мв до 50 мв) для повышения урона атак при помощи особых эффектов, или при нанесении ответного удара, когда модификатор приложен в нагрудник. "
     },
     {
-      "text": "Effects may include lighting the target on fire, bonus damage, mob effects such as poison, or clearing status effects like milk."
+      "text": "К числу эффектов могут относиться поджигание цели, дополнительный урон, эффекты от монстра, например, отравление, или же очистка эффектов подобно молоку."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot",
-    "Fill by using tool on a fluid tank"
+    "Максимально 1 уровень",
+    "Требует 1 слот способн."
+    "Наполняется с помощью инструмента с жидкостным баком."
   ]
 }
