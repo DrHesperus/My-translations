@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:shield_strap",
   "text": [
     {
-      "text": "Добавляет +1 слот для левой руки за уровень, позволяя сменять предмет для левой руки путём взаимодействия с поножами."
+      "text": "Adds +1 offhand slot per level, allowing swapping the offhand item by interacting with the leggings."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Требует 1 слот способн."
+    "Requires 1 ability slot"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:autosmelt",
   "text": [
     {
-      "text": "Заставляет предметам выпадать переплавленными из добытых блоков, как в печи."
+      "text": "Causes items dropped from mined blocks to be smelted, as if in a furnace."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

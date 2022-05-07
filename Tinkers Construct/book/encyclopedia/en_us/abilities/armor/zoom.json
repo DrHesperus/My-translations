@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:zoom",
   "text": [
     {
-      "text": "Позволяет приближать поле зрения при приседании и нажатии привязки клавиши для шлема."
+      "text": "Allows zooming in the field of view while sneaking and pressing the helmet keybind."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

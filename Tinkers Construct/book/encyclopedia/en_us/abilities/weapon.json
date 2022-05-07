@@ -1,12 +1,7 @@
 {
-  "title": "Орудийные способности",
+  "title": "Weapon Abilities",
   "text": [
-    {
-		"text": "Орудийные способности наиболее практичны в инструментах предназначенные для боя, вне зависимости от того, меч это или же видоизменённый инструмент для добычи."
-	},
-    {
-		"text": "Некоторые орудийные способности также работают в нагрудниках, требующие, чтобы в первую очередь применялся модификатор рукопашная атака. Это повлияет только на атаки, выполненные от пустой руки.",
-		"paragraph": true
-	}
+    { "text": "Weapon abilities are most effective on tools built for combat, whether it's a sword or a repurposed harvest tool." },
+    { "text": "Some weapon abilities also work on chestplates, requring the unarmed modifier to be applied first. These will only affect attacks performed from an empty hand.", "paragraph": true }
   ]
 }

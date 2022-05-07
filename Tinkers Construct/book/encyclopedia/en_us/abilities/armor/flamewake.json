@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:flamewake",
   "text": [
     {
-      "text": "Зажигает огни там, где ты ходишь. Область действия повышено под действием модификатора расширенный."
+      "text": "Ignites fires around where you step. Area of effect increased by expanded."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:reach",
   "text": [
     {
-      "text": "Повышает максимальную дальность от игрока этим инструментом, который может добывать или помещать блоки на 1 блок дальше на каждый уровень. В нагруднике, повышает досягаемость инструмента, который ты держишь."
+      "text": "Increases the maximum distance from the player this tool can mine or place blocks by 1 block per level. On chestplates, increases reach of your held tool."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Без максимального уровня",
-    "Требует 1 слот способности на каждый уровень"
+    "No max level",
+    "Requires 1 ability slot per level"
   ]
 }

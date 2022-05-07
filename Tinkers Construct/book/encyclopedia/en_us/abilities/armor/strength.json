@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:strength",
   "text": [
     {
-      "text": "Даёт +10% урона на все оружия на каждый уровень."
+      "text": "Grants +10% attack damage to all weapons per level."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Можно налаживать уровни поступательно.",
-    "Требует 1 слот способности на каждый уровень."
+    "Can apply levels incrementally",
+    "Requires 1 ability slot per level"
   ]
 }

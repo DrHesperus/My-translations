@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:path_maker",
   "text": [
     {
-      "text": "Уплотняет траву в порядке наступления, оставляя после себя тропинку. Модификатор расширенный повышает область действия."
+      "text": "Flattens grass as you step, leaving a path behind. Expanded increases the area of effect."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

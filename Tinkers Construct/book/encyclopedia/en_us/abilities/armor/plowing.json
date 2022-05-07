@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:plowing",
   "text": [
     {
-      "text": "Возделывает землю под твоими ботинками. За счёт модификатора расширенный повышена область действия."
+      "text": "Tills the earth beneath your feet. Area of effect expanded by the expanded modifier."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

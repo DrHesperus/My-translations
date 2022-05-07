@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:bouncy",
   "text": [
     {
-      "text": "Заставляет тебя отпрыгивать вверх в момент приземления, предотвращая урон от падения при фиксировании 90% твоей скорости."
+      "text": "Causes you to bounce upon landing, preventing fall damage while applying 90% of your velocity upwards."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способности"
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

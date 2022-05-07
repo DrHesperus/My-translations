@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:tool_belt",
   "text": [
     {
-      "text": "Позволяет переставлять первые 4 слота горячей панели, используя взаимодействие для понож. Второй уровень позволит переставлять до 8 слотов горячей панели. А ещё наложи Карманную связь, чтобы получить все 9 слотов."
+      "text": "Allows swapping the first 4 hotbar slots using the leggings interact. Second level allows swapping up to 8 hotbar slots. Also apply pocket chain to get all 9 slots."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Требует 1 слот способн.",
-    "Макс. 2 уровня."
+    "Requires 1 ability slot",
+    "Max 2 levels"
   ]
 }

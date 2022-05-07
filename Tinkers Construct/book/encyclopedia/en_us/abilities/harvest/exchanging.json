@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:exchanging",
   "text": [
     {
-      "text": "Заменяет добытые блоки на блоки, удерживаемые в левой руке."
+      "text": "Replaces mined blocks with the block held in the offhand."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

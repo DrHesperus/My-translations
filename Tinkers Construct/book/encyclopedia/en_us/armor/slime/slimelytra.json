@@ -1,19 +1,14 @@
 {
   "tool": "tconstruct:slime_chestplate",
   "text": [
-    {
-		"text": "Слизневые элитры — это новейшая технология для полёта."
-	},
-    {
-		"text": "Создаётся под действием разлива Эндер-слизи на Элитры, эти крылья можно починить при помощи мембран фантома.",
-		"paragraph": true
-	}
+    { "text": "The slimelytra is the latest in flight technology." },
+    { "text": "Created by pouring enderslime on an elytra, these wings can also be repaired with phantom membranes.", "paragraph": true }
   ],
   "properties": [
-    "Прочность 672",
-    "Слоты улучшений 5",
-    "Слоты защиты 0",
-    "Слот способности 1",
-    "Крылья"
+    "672 Durability",
+    "5 Upgrade Slots",
+    "0 Defense Slots",
+    "1 Ability Slot",
+    "Wings"
   ]
 }

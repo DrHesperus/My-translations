@@ -1,17 +1,15 @@
 {
   "tool": "tconstruct:travelers_boots",
   "text": [
-    {
-		"text": "Ботинки путешественника — это комплектные ботинки, со слабой защитой, и средним количеством слотов улучшений/защиты."
-	}
+    { "text": "Traveler's Boots are balanced boots, with low protection, and average upgrade and defense slots." }
   ],
   "properties": [
-    "Прочность 130",
-    "Броня +1",
-    "Слоты улучшений 3",
-    "Слоты защиты 2",
-    "Слот способности 1",
-    "Утеплённые",
-    "Можно ходить по пушистому снегу"
+    "130 Durability",
+    "+1 Armor",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot",
+    "Insulated",
+    "Can walk on powdered snow"
   ]
 }

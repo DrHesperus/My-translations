@@ -1,20 +1,15 @@
 {
   "tool": "tconstruct:slime_boots",
   "text": [
-    {
-		"text": "Слизневые ботинки — это быстроходные ботинки, у которых нет защиты или слотов обороны, а также максимум слотов улучшений."
-	},
-    {
-		"text": "Их можно создать под действием разлива «Эндер-слизи» на кроличьи лапки, и починить при помощи Кроличьей шкурки.",
-		"paragraph": true
-	}
+    { "text": "Slime Boots are high mobility boots, with no protection or defense slots and high upgrade slots." },
+    { "text": "They can be created by pouring enderslime on a rabbits foot, and are repaired with rabbit hide.", "paragraph": true }
   ],
   "properties": [
-    "Прочность 546",
-    "Слоты улучшений 5",
-    "Слоты обороны 0",
-    "Слот способности 1",
-    "Упругость",
-    "Скачка I"
+    "546 Durability",
+    "5 Upgrade Slots",
+    "0 Defense Slots",
+    "1 Ability Slot",
+    "Bouncy",
+    "Leaping I"
   ]
 }

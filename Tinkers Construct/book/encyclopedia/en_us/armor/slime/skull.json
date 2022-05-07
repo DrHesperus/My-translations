@@ -1,18 +1,13 @@
 {
   "tool": "tconstruct:slime_helmet",
   "text": [
-    {
-		"text": "Слизневый череп — это череп, копирующий способности с монстров. Он создаётся от заливки Эндер-слизи на голову монстра, с типом головы, определяющий эффекты."
-	},
-    {
-		"text": "В разделе книги о Слизневых черепах есть более подробная информация с разновидностями.",
-		"paragraph": true
-	}
+    { "text": "The slimeskull is a helmet that copies abilities from monsters. It is created from pouring enderslime on a mob head, with the head type determining the effects." },
+    { "text": "The slimeskull section of the book has more information on variants.", "paragraph": true }
   ],
   "properties": [
-    "Доп. прочность +362",
-    "Слоты улучшений 5",
-    "Слоты защиты 0",
-    "Слот способности 1",
+    "+362 Bonus Durability",
+    "5 Upgrade Slots",
+    "0 Defense Slots",
+    "1 Ability Slot"
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "title": "Показатели брони",
+  "title": "Armor Abilities",
   "text": [
-    { "text": "Показатели брони, как правило, эффективны на однотипной броне. Каждый тип брони имеет отличающийся особый признак:" },
-    { "text": "\n- Шлемами можно управлять, используя привязку клавиши для особых эффектов." },
-    { "text": "\n- Нагрудники могут получить взаимодействующие показатели, которые используются, когда руки пусты. Большинство освещаются в разделе «Взаимодействие»." },
-    { "text": "\n- Поножи имеют показатели с привязкой к инвентарю игрока и пассивные усилители." },
-    { "text": "\n- Ботинки предоставляют движение и прыжок на основе показателей." }
+    { "text": "Armor abilities are typically effective on a single type of armor. Each type of armor has a different special attribute:" },
+    { "text": "\n- Helmets can be controlled using a keybinding for special effects." },
+    { "text": "\n- Chestplates can receive interaction abilities that are used when hands are empty. Most are covered in the interaction section." },
+    { "text": "\n- Leggings have inventory based abilities and passive boosts to the player." },
+    { "text": "\n- Boots provide movement and jump based abilities." }
   ]
 }

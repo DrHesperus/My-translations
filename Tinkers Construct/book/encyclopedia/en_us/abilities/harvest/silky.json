@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:silky",
   "text": [
     {
-	"text": "Причиняет добытым блокам выпадать не изменёнными. На мечах, разрубщиках, косах, а также кинжалам, в дополнение к этому позволяет  стричь мобов."
+	"text": "Causes mined blocks to drop themselves unmodified. For swords, cleavers, scythes, and daggers, additionally allows shearing mobs."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

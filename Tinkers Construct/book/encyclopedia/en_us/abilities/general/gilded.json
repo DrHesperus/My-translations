@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:gilded",
   "text": [
     {
-      "text": "Обменивает 1 слот способности на 2 слота улучшения."
+      "text": "Trades 1 ability slot for 2 upgrade slots."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Без максимального уровня",
-    "Требует 1 слот способности на каждый уровень"
+    "No max level",
+    "Requires 1 ability slot per level"
   ]
 }

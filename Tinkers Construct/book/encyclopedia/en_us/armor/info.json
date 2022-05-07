@@ -1,8 +1,6 @@
 {
-  "title": "Сведения брони",
+  "title": "Armor Information",
   "text": [
-    {
-		"text": "Броня создаётся в Мастерской вместо Литейного рабочего места или Наковальни. Прежде всего все части имеют 1 слот способности, но и переменное количество улучшений и слотов способностей. В отличии от инструментов, большинство модификаторов требуют ношение брони, чтобы они работали."
-	}
+    { "text": "Armor is crafted in the Crafting Station instead of the Tinker Station or Anvil. All pieces start with 1 ability slot, but have varying number of upgrade and ability slots. Unlike tools, most modifiers require wearing the armor to be applicable." }
   ]
 }

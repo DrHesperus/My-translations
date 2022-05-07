@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:melting",
   "text": [
     {
-      "text": "Заставляет переплавлять выпавшие предметы, так и атакованных сущностей в бак инструмента. Максимальное количество жидкости на удар снижено примерно на 4 урона за наибольшее количество монстров. А ещё повышает объём бака инструмента на 1000 мв. "
+      "text": "Causes dropped items and attacked entities to be melted into the tools tank. Maximum fluid per hit produced at around 4 damage for most mobs. Also increases the tools tank capacity by 1000 mb. "
     },
     {
-      "text": "Инструменты с «Выплавка» могут заполняться и опустошаться, взаимодействуя с жидкостными баками."
+      "text": "Tools with melting have the ability to be filled and drained by interacting with fluid tank blocks."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

@@ -1,16 +1,14 @@
 {
   "tool": "tconstruct:travelers_helmet",
   "text": [
-    {
-		"text": "Очки путешественника — это комплектный шлем, со слабой защитой, и средним количеством слотов улучшений/защиты."
-	}
+    { "text": "Traveler's Goggles are a balanced helmet, with low protection, and average upgrade and defense slots." }
   ],
   "properties": [
-    "Прочность 110",
-    "Броня +1",
-    "Слот улучшений 3",
-    "Слота защиты 2",
-    "Слот способности 1",
-    "Утеплённые"
+    "110 Durability",
+    "+1 Armor",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "1 Ability Slot",
+    "Insulated"
   ]
 }

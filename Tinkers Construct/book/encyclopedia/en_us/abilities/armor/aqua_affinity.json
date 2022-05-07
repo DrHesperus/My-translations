@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:aqua_affinity",
   "text": [
     {
-      "text": "Под водой позволяет добывать на полной скорости, взамен на 20% скорости."
+      "text": "Allows mining at full speed underwater, instead of at 20% speed."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

@@ -1,15 +1,13 @@
 {
   "tool": "tconstruct:plate_boots",
   "text": [
-    {
-		"text": "Латные ботинки — это оборонительные ботинки, с хорошей защитой, а вот у них минимум слотов улучшений, и максимум слотов обороны."
-	}
+    { "text": "Plate Boots are defensive boots, with high protection, and low upgrade slots and high defense slots." }
   ],
   "properties": [
-    "Прочность 390",
-    "Броня +2",
-    "Слоты улучшений 1",
-    "Слоты защиты 4",
-    "Слот способности 1"
+    "390 Durability",
+    "+2 Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
   ]
 }

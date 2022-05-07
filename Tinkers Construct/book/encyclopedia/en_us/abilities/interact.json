@@ -1,15 +1,15 @@
 {
-  "title": "Взаимодействующие способности",
+  "title": "Interaction Abilities",
   "text": [
     {
-      "text": "Взаимодействующие способности меняют инструменту способ взаимодействовать с блоками, сущностями, и даже воздухом."
+      "text": "Interaction abilites change the way the tool interacts with blocks, entities, and even air."
     },
     {
-      "text": "Благодаря их свойствам, они зачастую строго конфликтуют с другими крайне взаимодействующими способностями.",
+      "text": "Due to their nature, they will often severely conflict with other interaction abilities.",
       "paragraph": true
     },
     {
-      "text": "Большинство взаимодействующих способностей ещё работают в нагрудниках, требующие для использования пустую руку. Их можно использовать основной и левой рукой.",
+      "text": "Many interaction abilities also work on chestplates, requring an empty hand to be used. They can be used from the main or offhand",
       "paragraph": true
     }
   ]

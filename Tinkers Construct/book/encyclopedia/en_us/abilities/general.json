@@ -1,8 +1,6 @@
 {
-  "title": "Общие способности",
+  "title": "General Abilities",
   "text": [
-    {
-		"text": "Общие способности действуют на большинстве инструментов, включая оружия ближнего боя и жатвенные инструменты, а также броня."
-	}
+    { "text": "General abilities are effective on most tools, including melee and harvest tools along with armor." }
   ]
 }

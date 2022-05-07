@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:unarmed",
   "text": [
     {
-      "text": "Позволяет налаживать модификаторы для повышения урона пустой руки, причём позволяет ударять с левой руки."
+      "text": "Allows applying modifiers to boost the damage of an empty hand, and allows punching with the offhand."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

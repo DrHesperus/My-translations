@@ -1,8 +1,6 @@
 {
-  "title": "Жатвенные способности",
+  "title": "Harvest Abilities",
   "text": [
-    {
-		"text": "Жатвенные способности наиболее практичны в инструментах, которые разрушают блоки, такие как кирки или лопаты."
-	}
+    { "text": "Harvest abilities are most useful on tools that break blocks, such as pickaxes or shovels." }
   ]
 }

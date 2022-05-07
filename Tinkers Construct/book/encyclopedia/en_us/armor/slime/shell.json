@@ -1,19 +1,14 @@
 {
   "tool": "tconstruct:slime_leggings",
   "text": [
-    {
-		"text": "Слизневый панцирь использует силу шалкера, увеличивая инвентарь и защиту."
-	},
-    {
-		"text": "Он создаётся под действием разлива «Эндер слизи» на «Панцирь шалкера», и чинятся при помощи хоруса.",
-		"paragraph": true
-	}
+    { "text": "The slimeshell harnesses the power of the shulker, increasing inventory and defense." },
+    { "text": "They are created by pouring enderslime on a shulker shell, and repaired with popped chorus.", "paragraph": true }
   ],
   "properties": [
-    "Прочность 630",
-    "Слоты улучшений 5",
-    "Слоты защиты 0",
-    "Слот способности 1",
-    "Защита I"
+    "630 Durability",
+    "5 Upgrade Slots",
+    "0 Defense Slots",
+    "1 Ability Slot",
+    "Protection I"
   ]
 }

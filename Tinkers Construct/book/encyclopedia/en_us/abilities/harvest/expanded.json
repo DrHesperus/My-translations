@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:expanded",
   "text": [
     {
-      "text": "Повышает область действия инструмента. Особые эффекты описаны на страницах «Инструменты»."
+      "text": "Increases the tool's area of effect. Specific effects are described on the tool pages."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Без максимального уровня",
-    "Требует 1 слот способности на каждый уровень"
+    "No max level",
+    "Requires 1 ability slot per level"
   ]
 }

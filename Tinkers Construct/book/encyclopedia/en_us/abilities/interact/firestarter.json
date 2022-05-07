@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:firestarter",
   "text": [
     {
-      "text": "Позволяет инструменту создавать огни при использовании, расходуя 1 прочность."
+      "text": "Allows the tool to create fires on use, consuming 1 durability."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Максимально 1 уровень",
-    "Требует 1 слот способн."
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
   ]
 }

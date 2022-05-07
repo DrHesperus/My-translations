@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:pockets",
   "text": [
     {
-      "text": "Даёт 9 добавочных слотов, к которым можно получить доступ при помощи приседания и нажатия клавиши воздействия понож или во время удержания штанов."
+      "text": "Grants an extra 9 slots that can be accessed by sneaking and pressing the leggings interact key or while holding the pants."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Требует 1 слот способн."
+    "Requires 1 ability slot"
   ]
 }

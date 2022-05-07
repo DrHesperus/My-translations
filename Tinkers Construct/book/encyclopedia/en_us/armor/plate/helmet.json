@@ -1,15 +1,13 @@
 {
   "tool": "tconstruct:plate_helmet",
   "text": [
-    {
-		"text": "Латный шлем — это оборонительный шлем, с хорошей защитой, а вот у них минимум слотов улучшений, и максимум слотов обороны."
-	}
+    { "text": "Plate Helmet is a defensive helmet, with high protection, and low upgrade slots and high defense slots." }
   ],
   "properties": [
-    "Прочность 330",
-    "Броня +2",
-    "Слоты улучшений 1",
-    "Слоты обороны 4",
-    "Слот способности 1"
+    "330 Durability",
+    "+2 Armor",
+    "1 Upgrade Slots",
+    "4 Defense Slots",
+    "1 Ability Slot"
   ]
 }
