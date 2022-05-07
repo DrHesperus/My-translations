@@ -1,7 +1,12 @@
 {
-  "title": "Small Tools",
+  "title": "Ручные инструмент",
   "text": [
-    { "text": "All small tools can be created in either the Tinker Station or the Tinker's Anvil. They require between 2 to 3 parts, granting 2 to 3 traits. Most small tools start with 1 ability slot and 3 upgrade slots as well." },
-    { "text": "Most tools have an attack damage bonus, which is added to the head stats and multiplied by the handle stats. In addition, some tools have an attack modifier, which multiplies attack damage from all sources on the tool, including modifiers. Some tools also start with tool traits, which are applied to fully built tools similarly to material traits.", "paragraph": true }
+    {
+		"text": "Всевозможные ручные инструменты можно создать либо в Литейном рабочем месте или в Наковальне литейщика. Им требуется в интервале от 2 до 3 деталей, предоставляя от 2 до 3 особенностей. Большинство ручные инструменты начинаются с 1 слотом способности да ещё и 3 слотами улучшения."
+	},
+    {
+		"text": "Большинство инструментов имеют дополнительный урон атаки, который добавляется к характеристикам головы и умножается на характеристики рукоятки. В дополнение к этому, некоторые инструменты имеют модификатор на атаку, который умножает урон атаки из всех источников на инструменте, в том числе и модификаторы. А ещё некоторые инструменты начинаются с особенностями инструмента, которые применяются к полностью собранным инструментам по аналогии особенностей материалов.",
+		"paragraph": true
+	}
   ]
 }

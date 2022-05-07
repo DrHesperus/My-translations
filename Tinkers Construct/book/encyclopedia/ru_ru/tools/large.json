@@ -1,7 +1,12 @@
 {
-  "title": "Broad Tools",
+  "title": "Широколезвийные инструменты",
   "text": [
-    { "text": "All broad tools require the Tinker's Anvil to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot." },
-    { "text": "Large tools have both attack bonuses and modifiers like small tools, and many more have traits. In addition, many tools have a durability or a mining speed modifier that act similarly to the attack modifier, affecting both base stats and stat bonuses from modifiers. Finally, all broad tools have the \"two handed\" trait, which prevents use of the offhand unless a modifier such as offhanded is applied.", "paragraph": true }
+    {
+		"text": "Для создания всевозможных широколезвийных инструментов требуется Наковальня литейщика, и для замены деталей. Большинство из них требуют 4 детали инструмента, и начинаются только с 2-мя слотами улучшения и 1 слотом способности."
+	},
+    {
+		"text": "Большие инструменты имеют как дополнительную атаку, так и модификаторы как у ручных инструментов, а многие имеют особенности. Кроме того, многие инструменты имеют прочность или же модификатор на скорость добычи, который действует аналогично модификатору атаки, влияющий как на базовые характеристики, так и на дополнительную характеристику от модификаторов. В довершение ко всему, всевозможные широколезвийные инструменты имеют \"двуручную\" особенность, которая не даёт пользоваться левой рукой, кроме модификатора, как например приложенный модификатор небрежный.",
+		"paragraph": true
+	}
   ]
 }
