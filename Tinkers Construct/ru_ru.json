@@ -1,5 +1,5 @@
 {
-"_translators_comment": "Translated by DrHesperus.",
+"_translators_comment": "Переведено DrHesperus.",
 "_comment": "Tinkers Common",
 
 "block.tconstruct.sky_slime": "Блок небесной слизи",
@@ -43,21 +43,23 @@
 "block.tconstruct.clear_glass_pane": "Прозрачная оконное стекло",
 "block.tconstruct.clear_tinted_glass": "Прозрачное тонированное стекло",
 
-"block.tconstruct.obsidian_pane": "Обсидиановая панель",
+"block.tconstruct.obsidian_pane": "Обсидиановое оконное стекло",
 "block.tconstruct.gold_bars": "Золотые прутья",
-"block.tconstruct.gold_platform": "Золотая площадка",
-"block.tconstruct.iron_platform": "Железная площадка",
-"block.tconstruct.cobalt_platform": "Кобальтовая площадка",
+"block.tconstruct.gold_bars.tooltip": "Выступает в роли пустой отливной формы в разливочных столах.",
+"block.tconstruct.gold_platform": "Золотая платформенная часть",
+"block.tconstruct.gold_platform.tooltip": "Выступает в роли пустой отливной формы в разливочных ковшах.",
+"block.tconstruct.iron_platform": "Железная платформенная часть",
+"block.tconstruct.cobalt_platform": "Кобальтовая платформенная часть",
 
-"block.tconstruct.copper_platform": "Медная площадка",
-"block.tconstruct.exposed_copper_platform": "Открытая медная площадка",
-"block.tconstruct.weathered_copper_platform": "Выветрившаяся медная площадка",
-"block.tconstruct.oxidized_copper_platform": "Окисленная медная площадка",
+"block.tconstruct.copper_platform": "Медная платформенная часть",
+"block.tconstruct.exposed_copper_platform": "Подвергнувшая воздействию воды медная платформенная часть",
+"block.tconstruct.weathered_copper_platform": "Выветрившаяся медная платформенная часть",
+"block.tconstruct.oxidized_copper_platform": "Окисленная медная платформенная часть",
 
-"block.tconstruct.waxed_copper_platform": "Вощёная медная площадка",
-"block.tconstruct.waxed_exposed_copper_platform": "Открытая вощёная медная площадка",
-"block.tconstruct.waxed_weathered_copper_platform": "Выветрившаяся вощёная медная площадка",
-"block.tconstruct.waxed_oxidized_copper_platform": "Окисленная вощёная медная площадка",
+"block.tconstruct.waxed_copper_platform": "Вощёная медная платформенная часть",
+"block.tconstruct.waxed_exposed_copper_platform": "Подвергнувшая воздействию воды вощёная медная платформенная часть",
+"block.tconstruct.waxed_weathered_copper_platform": "Выветрившаяся вощёная медная платформенная часть",
+"block.tconstruct.waxed_oxidized_copper_platform": "Окисленная вощёная медная платформенная часть",
 
 "block.tconstruct.white_clear_stained_glass": "Прозрачное белое витражное стекло",
 "block.tconstruct.orange_clear_stained_glass": "Прозрачное оранжевое витражное стекло",
@@ -120,9 +122,9 @@
 "item.tconstruct.slimesteel_ingot": "Слиток слизневой стали",
 "item.tconstruct.slimesteel_nugget": "Кусочек слизневой стали",
 
-"block.tconstruct.amethyst_bronze_block": "Блок аметистовой бронзы",
-"item.tconstruct.amethyst_bronze_ingot": "Слиток аметистовой бронзы",
-"item.tconstruct.amethyst_bronze_nugget": "Кусочек аметистовой бронзы",
+"block.tconstruct.amethyst_bronze_block": "Блок бронзы с аметистом",
+"item.tconstruct.amethyst_bronze_ingot": "Слиток бронзы с аметистом",
+"item.tconstruct.amethyst_bronze_nugget": "Кусочек бронзы с аметистом",
 
 "block.tconstruct.rose_gold_block": "Блок розового золота",
 "item.tconstruct.rose_gold_ingot": "Слиток розового золота",
@@ -190,36 +192,36 @@
 
 "item.tconstruct.bacon": "Бекон",
 
-"item.tconstruct.earth_slime_crystal": "Слизневый кристалл",
-"block.tconstruct.earth_slime_crystal_block": "Блок слизневого кристалла",
-"block.tconstruct.small_earth_slime_crystal_bud": "Малая луковка слизневого кристалла",
-"block.tconstruct.medium_earth_slime_crystal_bud": "Средняя луковка слизневого кристалла",
-"block.tconstruct.large_earth_slime_crystal_bud": "Большая луковка слизневого кристалла",
-"block.tconstruct.earth_slime_crystal_cluster": "Скопление слизневого кристалла",
-"block.tconstruct.budding_earth_slime_crystal": "Распустившийся слизневый кристалл",
+"item.tconstruct.earth_slime_crystal": "Кристалл слизи",
+"block.tconstruct.earth_slime_crystal_block": "Блок кристалла слизи",
+"block.tconstruct.small_earth_slime_crystal_bud": "Малая луковка кристалла слизи",
+"block.tconstruct.medium_earth_slime_crystal_bud": "Средняя луковка кристалла слизи",
+"block.tconstruct.large_earth_slime_crystal_bud": "Большая луковка кристалла слизи",
+"block.tconstruct.earth_slime_crystal_cluster": "Гроздь кристалла слизи",
+"block.tconstruct.budding_earth_slime_crystal": "Распустившийся кристалл слизи",
 
 "item.tconstruct.sky_slime_crystal": "Кристалл небесной слизи",
-"block.tconstruct.sky_slime_crystal_block": "Блок небослизневого кристалла",
-"block.tconstruct.small_sky_slime_crystal_bud": "Малая луковка небослизневого кристалла",
-"block.tconstruct.medium_sky_slime_crystal_bud": "Средняя луковка небослизневого кристалла",
-"block.tconstruct.large_sky_slime_crystal_bud": "Большая луковка небослизневого кристалла",
-"block.tconstruct.sky_slime_crystal_cluster": "Скопление небослизневого кристалла",
+"block.tconstruct.sky_slime_crystal_block": "Блок кристалла небослизи",
+"block.tconstruct.small_sky_slime_crystal_bud": "Малая луковка кристалла небослизи",
+"block.tconstruct.medium_sky_slime_crystal_bud": "Средняя луковка кристалла небослизи",
+"block.tconstruct.large_sky_slime_crystal_bud": "Большая луковка кристалла небослизи",
+"block.tconstruct.sky_slime_crystal_cluster": "Гроздь кристалла небослизи",
 "block.tconstruct.budding_sky_slime_crystal": "Распустившийся кристалл небослизи",
 
 "item.tconstruct.ichor_slime_crystal": "Ихоровый кристалл",
 "block.tconstruct.ichor_slime_crystal_block": "Блок ихоровой слизи",
-"block.tconstruct.small_ichor_slime_crystal_bud": "Малый луковка ихорового кристалла слизи",
-"block.tconstruct.medium_ichor_slime_crystal_bud": "Средний луковка ихорового кристалла слизи",
-"block.tconstruct.large_ichor_slime_crystal_bud": "Большой луковка ихорового кристалла слизи",
-"block.tconstruct.ichor_slime_crystal_cluster": "Скопление кристалла ихоровой слизи",
-"block.tconstruct.budding_ichor_slime_crystal": "Распустившийся кристалл ихоровой слизи",
+"block.tconstruct.small_ichor_slime_crystal_bud": "Малая луковка кристалла ихорослизи",
+"block.tconstruct.medium_ichor_slime_crystal_bud": "Средняя луковка кристалла ихорослизи",
+"block.tconstruct.large_ichor_slime_crystal_bud": "Большая луковка кристалла ихорослизи",
+"block.tconstruct.ichor_slime_crystal_cluster": "Гроздь кристалла ихорослизи",
+"block.tconstruct.budding_ichor_slime_crystal": "Распустившийся кристалл ихорослизи",
 
 "item.tconstruct.ender_slime_crystal": "Кристалл эндер-слизи",
 "block.tconstruct.ender_slime_crystal_block": "Блок из кристалла эндер-слизи",
 "block.tconstruct.small_ender_slime_crystal_bud": "Малая луковка кристалла эндер-слизи",
 "block.tconstruct.medium_ender_slime_crystal_bud": "Средняя луковка кристалла эндер-слизи",
 "block.tconstruct.large_ender_slime_crystal_bud": "Большая луковка кристалла эндер-слизи",
-"block.tconstruct.ender_slime_crystal_cluster": "Скопление кристалл эндер-слизи",
+"block.tconstruct.ender_slime_crystal_cluster": "Гроздь кристалл эндер-слизи",
 "block.tconstruct.budding_ender_slime_crystal": "Распустившийся кристалл эндер-слизи",
 
 "item.tconstruct.iron_reinforcement": "Железное укрепление",
@@ -228,7 +230,7 @@
 "item.tconstruct.slimesteel_reinforcement.tooltip": "Увеличивает объём для слизневой стали.",
 "item.tconstruct.seared_reinforcement": "Обожжённое укрепление",
 "item.tconstruct.seared_reinforcement.tooltip": "Увеличивает сопротивляемость брони от огня.",
-"item.tconstruct.bronze_reinforcement": "Аметистовое бронзовое укрепление",
+"item.tconstruct.bronze_reinforcement": "Бронзовое укрепление с аметистом",
 "item.tconstruct.bronze_reinforcement.tooltip": "Увеличивает сопротивляемость брони от снарядов.",
 "item.tconstruct.gold_reinforcement": "Золотое укрепление",
 "item.tconstruct.gold_reinforcement.tooltip": "Увеличивает сопротивляемость брони от магии.",
@@ -294,67 +296,67 @@
 
 "_comment": "Tinkers Gold Casts",
 
-"item.tconstruct.blank_cast": "Пустая золотая форма",
-"item.tconstruct.ingot_cast": "Золотая форма: Слиток",
-"item.tconstruct.nugget_cast": "Золотая форма: Кусочек",
-"item.tconstruct.gem_cast": "Золотая форма: Самоцвет",
-"item.tconstruct.rod_cast": "Золотая форма: Стержень",
+"item.tconstruct.blank_cast": "Пустая золотая литейная форма",
+"item.tconstruct.ingot_cast": "Золотая литейная форма: Слиток",
+"item.tconstruct.nugget_cast": "Золотая литейная форма: Кусочек",
+"item.tconstruct.gem_cast": "Золотая литейная форма: Самоцвет",
+"item.tconstruct.rod_cast": "Золотая литейная форма: Стержень",
 
-"item.tconstruct.gear_cast": "Золотая форма: Шестерня",
-"item.tconstruct.plate_cast": "Золотая форма: Малая пластина",
-"item.tconstruct.coin_cast": "Золотая форма: Монета",
-"item.tconstruct.wire_cast": "Золотая форма: Провод",
+"item.tconstruct.gear_cast": "Золотая литейная форма: Шестерня",
+"item.tconstruct.plate_cast": "Золотая литейная форма: Малая пластина",
+"item.tconstruct.coin_cast": "Золотая литейная форма: Монета",
+"item.tconstruct.wire_cast": "Золотая литейная форма: Провод",
 
-"item.tconstruct.repair_kit_cast": "Золотая форма: Ремкомплект",
+"item.tconstruct.repair_kit_cast": "Золотая литейная форма: Ремкомплект",
 
 "_comment": "Small Head Gold Casts",
 
-"item.tconstruct.pick_head_cast": "Золотая форма: Мотыжное лезвие кирки",
-"item.tconstruct.small_axe_head_cast": "Золотая форма: Малая головка топора",
-"item.tconstruct.small_blade_cast": "Золотая форма: Малое лезвие",
-"item.tconstruct.sign_head_cast": "Золотая форма: Полотно таблички",
-"item.tconstruct.bow_limb_cast": "Золотая форма: Плечо лука",
+"item.tconstruct.pick_head_cast": "Золотая литейная форма: Мотыжное лезвие кирки",
+"item.tconstruct.small_axe_head_cast": "Золотая литейная форма: Малая головка топора",
+"item.tconstruct.small_blade_cast": "Золотая литейная форма: Малое лезвие",
+"item.tconstruct.sign_head_cast": "Золотая литейная форма: Полотно таблички",
+"item.tconstruct.bow_limb_cast": "Золотая литейная форма: Плечо лука",
 
 "_comment": "Large Head Gold Casts",
 
-"item.tconstruct.hammer_head_cast": "Золотая форма: Голова молота",
-"item.tconstruct.broad_axe_head_cast": "Золотая форма: Широколезвийная головка топора",
-"item.tconstruct.broad_blade_cast": "Золотая форма: Широкое лезвие",
+"item.tconstruct.hammer_head_cast": "Золотая литейная форма: Голова молота",
+"item.tconstruct.broad_axe_head_cast": "Золотая литейная форма: Широколезвийная головка топора",
+"item.tconstruct.broad_blade_cast": "Золотая литейная форма: Широкое лезвие",
 
 "_comment": "Binding Gold Casts",
 
-"item.tconstruct.tool_binding_cast": "Золотая форма: Оковка инструмента",
-"item.tconstruct.round_plate_cast": "Золотая форма: Круглая заготовка",
-"item.tconstruct.large_plate_cast": "Золотая форма: Большая пластина",
+"item.tconstruct.tool_binding_cast": "Золотая литейная форма: Оковка инструмента",
+"item.tconstruct.round_plate_cast": "Золотая литейная форма: Круглая заготовка",
+"item.tconstruct.large_plate_cast": "Золотая литейная форма: Большая пластина",
 
 "_comment": "Tool Handle Gold Casts",
 
-"item.tconstruct.tool_handle_cast": "Золотая форма: Рукоятка инструмента",
-"item.tconstruct.tough_handle_cast": "Золотая форма: Прочная рукоятка",
+"item.tconstruct.tool_handle_cast": "Золотая литейная форма: Рукоятка инструмента",
+"item.tconstruct.tough_handle_cast": "Золотая литейная форма: Прочная рукоятка",
 
 
 "_comment": "Tinkers Sand Casts",
 
-"item.tconstruct.blank_sand_cast": "Пустая песочная форма",
-"item.tconstruct.ingot_sand_cast": "Песочная форма: Слиток",
-"item.tconstruct.nugget_sand_cast": "Песочная форма: Кусочек",
-"item.tconstruct.gem_sand_cast": "Песочная форма: Самоцвет",
-"item.tconstruct.rod_sand_cast": "Песочная форма: Стержень",
+"item.tconstruct.blank_sand_cast": "Пустая песочная литейная форма",
+"item.tconstruct.ingot_sand_cast": "Песочная литейная форма: Слиток",
+"item.tconstruct.nugget_sand_cast": "Песочная литейная форма: Кусочек",
+"item.tconstruct.gem_sand_cast": "Песочная литейная форма: Самоцвет",
+"item.tconstruct.rod_sand_cast": "Песочная литейная форма: Стержень",
 
-"item.tconstruct.gear_sand_cast": "Песочная форма: Шестерня",
-"item.tconstruct.plate_sand_cast": "Песочная форма: Малая пластина",
-"item.tconstruct.coin_sand_cast": "Песочная форма: Монета",
-"item.tconstruct.wire_sand_cast": "Песочная форма: Провод",
+"item.tconstruct.gear_sand_cast": "Песочная литейная форма: Шестерня",
+"item.tconstruct.plate_sand_cast": "Песочная литейная форма: Малая пластина",
+"item.tconstruct.coin_sand_cast": "Песочная литейная форма: Монета",
+"item.tconstruct.wire_sand_cast": "Песочная литейная форма: Провод",
 
-"item.tconstruct.repair_kit_sand_cast": "Песочная форма: Ремкомплект",
+"item.tconstruct.repair_kit_sand_cast": "Песочная литейная форма: Ремкомплект",
 
 "_comment": "Small Head Sand Casts",
 
-"item.tconstruct.pick_head_sand_cast": "Песочная форма: Мотыжное лезвие кирки",
-"item.tconstruct.small_axe_head_sand_cast": "Песочная форма: Малая головка топора",
-"item.tconstruct.small_blade_sand_cast": "Песочная форма: Малое лезвие",
-"item.tconstruct.sign_head_sand_cast": "Песочная форма: Полотно таблички",
-"item.tconstruct.bow_limb_sand_cast": "Песочная форма: Плечо лука",
+"item.tconstruct.pick_head_sand_cast": "Песочная литейная форма: Мотыжное лезвие кирки",
+"item.tconstruct.small_axe_head_sand_cast": "Песочная литейная форма: Малая головка топора",
+"item.tconstruct.small_blade_sand_cast": "Песочная литейная форма: Малое лезвие",
+"item.tconstruct.sign_head_sand_cast": "Песочная литейная форма: Полотно таблички",
+"item.tconstruct.bow_limb_sand_cast": "Песочная литейная форма: Плечо лука",
 
 "_comment": "Large Head Sand Casts",
 
@@ -364,55 +366,55 @@
 
 "_comment": "Binding Sand Casts",
 
-"item.tconstruct.tool_binding_sand_cast": "Песочная форма: Оковка",
-"item.tconstruct.round_plate_sand_cast": "Песочная форма: Круглая заготовка",
-"item.tconstruct.large_plate_sand_cast": "Песочная форма: Большая пластина",
+"item.tconstruct.tool_binding_sand_cast": "Песочная литейная форма: Оковка",
+"item.tconstruct.round_plate_sand_cast": "Песочная литейная форма: Круглая заготовка",
+"item.tconstruct.large_plate_sand_cast": "Песочная литейная форма: Большая пластина",
 
 "_comment": "Tool Handle Sand Casts",
 
-"item.tconstruct.tool_handle_sand_cast": "Песочная форма: Рукоятка инструмента",
-"item.tconstruct.tough_handle_sand_cast": "Песочная форма: Прочная рукоятка",
+"item.tconstruct.tool_handle_sand_cast": "Песочная литейная форма: Рукоятка инструмента",
+"item.tconstruct.tough_handle_sand_cast": "Песочная литейная форма: Прочная рукоятка",
 
 
 "_comment": "Tinkers Red Sand Casts",
 
-"item.tconstruct.blank_red_sand_cast": "Пустая краснопесочная форма",
-"item.tconstruct.ingot_red_sand_cast": "Краснопесочная форма: Слиток",
-"item.tconstruct.nugget_red_sand_cast": "Краснопесочная форма: Кусочек",
-"item.tconstruct.gem_red_sand_cast": "Краснопесочная форма: Самоцвет",
-"item.tconstruct.rod_red_sand_cast": "Краснопесочная форма: Стержень",
+"item.tconstruct.blank_red_sand_cast": "Пустая краснопесочная литейная форма",
+"item.tconstruct.ingot_red_sand_cast": "Краснопесочная литейная форма: Слиток",
+"item.tconstruct.nugget_red_sand_cast": "Краснопесочная литейная форма: Кусочек",
+"item.tconstruct.gem_red_sand_cast": "Краснопесочная литейная форма: Самоцвет",
+"item.tconstruct.rod_red_sand_cast": "Краснопесочная литейная форма: Стержень",
 
-"item.tconstruct.gear_red_sand_cast": "Краснопесочная форма: Шестерня",
-"item.tconstruct.plate_red_sand_cast": "Краснопесочная форма: Малая пластина",
-"item.tconstruct.coin_red_sand_cast": "Краснопесочная форма: Монета",
-"item.tconstruct.wire_red_sand_cast": "Краснопесочная форма: Провод",
+"item.tconstruct.gear_red_sand_cast": "Краснопесочная литейная форма: Шестерня",
+"item.tconstruct.plate_red_sand_cast": "Краснопесочная литейная форма: Малая пластина",
+"item.tconstruct.coin_red_sand_cast": "Краснопесочная литейная форма: Монета",
+"item.tconstruct.wire_red_sand_cast": "Краснопесочная литейная форма: Провод",
 
-"item.tconstruct.repair_kit_red_sand_cast": "Краснопесочная форма: Ремкомплект",
+"item.tconstruct.repair_kit_red_sand_cast": "Краснопесочная литейная форма: Ремкомплект",
 
 "_comment": "Small Head Red Sand Casts",
 
-"item.tconstruct.pick_head_red_sand_cast": "Краснопесочная форма: Мотыжное лезвие кирки",
-"item.tconstruct.small_axe_head_red_sand_cast": "Краснопесочная форма: Малая головка топора",
-"item.tconstruct.small_blade_red_sand_cast": "Краснопесочная форма: Малое лезвие",
-"item.tconstruct.sign_head_red_sand_cast": "Краснопесочная форма: Полотно таблички",
-"item.tconstruct.bow_limb_red_sand_cast": "Краснопесочная форма: Плечо лука",
+"item.tconstruct.pick_head_red_sand_cast": "Краснопесочная литейная форма: Мотыжное лезвие кирки",
+"item.tconstruct.small_axe_head_red_sand_cast": "Краснопесочная литейная форма: Малая головка топора",
+"item.tconstruct.small_blade_red_sand_cast": "Краснопесочная литейная форма: Малое лезвие",
+"item.tconstruct.sign_head_red_sand_cast": "Краснопесочная литейная форма: Полотно таблички",
+"item.tconstruct.bow_limb_red_sand_cast": "Краснопесочная литейная форма: Плечо лука",
 
 "_comment": "Large Head Red Sand Casts",
 
-"item.tconstruct.hammer_head_red_sand_cast": "Краснопесочная форма: Голова молота",
-"item.tconstruct.broad_axe_head_red_sand_cast": "Краснопесочная форма: Широколезвийная головка топора",
-"item.tconstruct.broad_blade_red_sand_cast": "Краснопесочная форма: Широкое лезвие",
+"item.tconstruct.hammer_head_red_sand_cast": "Краснопесочная литейная форма: Голова молота",
+"item.tconstruct.broad_axe_head_red_sand_cast": "Краснопесочная литейная форма: Широколезвийная головка топора",
+"item.tconstruct.broad_blade_red_sand_cast": "Краснопесочная литейная форма: Широкое лезвие",
 
 "_comment": "Binding Red Sand Casts",
 
-"item.tconstruct.tool_binding_red_sand_cast": "Краснопесочная форма: Оковка инструмента",
-"item.tconstruct.round_plate_red_sand_cast": "Краснопесочная форма: Круглая заготовка",
-"item.tconstruct.large_plate_red_sand_cast": "Краснопесочная форма: Большая пластина",
+"item.tconstruct.tool_binding_red_sand_cast": "Краснопесочная литейная форма: Оковка инструмента",
+"item.tconstruct.round_plate_red_sand_cast": "Краснопесочная литейная форма: Круглая заготовка",
+"item.tconstruct.large_plate_red_sand_cast": "Краснопесочная литейная форма: Большая пластина",
 
 "_comment": "Tool Handle Red Sand Casts",
 
-"item.tconstruct.tool_handle_red_sand_cast": "Краснопесочная форма: Рукоятка инструмента",
-"item.tconstruct.tough_handle_red_sand_cast": "Краснопесочная форма: Прочная рукоятка",
+"item.tconstruct.tool_handle_red_sand_cast": "Краснопесочная литейная форма: Рукоятка инструмента",
+"item.tconstruct.tough_handle_red_sand_cast": "Краснопесочная литейная форма: Прочная рукоятка",
 
 
 "_comment": "Tinkers Fluids",
@@ -574,10 +576,10 @@
 "fluid.tconstruct.flowing_molten_slimesteel": "Текучий расплав слизневой стали",
 "item.tconstruct.molten_slimesteel_bucket": "Ведро расплавленной слизневой стали",
 
-"block.tconstruct.molten_amethyst_bronze_fluid": "Расплавленная аметистовая бронза",
-"fluid.tconstruct.molten_amethyst_bronze": "Расплав аметистовой бронзы",
-"fluid.tconstruct.flowing_molten_amethyst_bronze": "Текучий расплав аметистовой бронзы",
-"item.tconstruct.molten_amethyst_bronze_bucket": "Ведро расплавленной аметистовой бронзы",
+"block.tconstruct.molten_amethyst_bronze_fluid": "Расплавленная бронза с аметистом",
+"fluid.tconstruct.molten_amethyst_bronze": "Расплав бронзы с аметистом",
+"fluid.tconstruct.flowing_molten_amethyst_bronze": "Текучий расплав бронзы с аметистом",
+"item.tconstruct.molten_amethyst_bronze_bucket": "Ведро расплавленной бронзы с аметистом",
 
 "block.tconstruct.molten_rose_gold_fluid": "Расплавленное розовое золото",
 "fluid.tconstruct.molten_rose_gold": "Расплав розового золото",
@@ -805,13 +807,13 @@
 "block.tconstruct.part_builder": "Сборщик частей",
 
 "block.tconstruct.part_chest": "Сундук частей",
-"block.tconstruct.part_chest.tooltip": "Хранит до 256 различных инструментальных частей.",
+"block.tconstruct.part_chest.tooltip": "Хранит до 256 различных частей для инструмента.",
 
 "block.tconstruct.tinkers_chest": "Сундук литейщика",
-"block.tconstruct.tinkers_chest.tooltip": "Хранит до 16 предметов складываемых до 64.",
+"block.tconstruct.tinkers_chest.tooltip": "Хранит до 16 предметов, складываемых до 64.",
 
-"block.tconstruct.cast_chest": "Сундук отливок",
-"block.tconstruct.cast_chest.tooltip": "Хранит все важные формы.",
+"block.tconstruct.cast_chest": "Сундук для форм",
+"block.tconstruct.cast_chest.tooltip": "Хранит все важные литейные формы.",
 
 "item.tconstruct.pattern": "Модель",
 
@@ -835,7 +837,7 @@
 "item.tconstruct.sword": "Меч",
 "item.tconstruct.cleaver": "Разрубщик",
 
-"item.tconstruct.flint_and_bronze": "Кирпичное огниво",
+"item.tconstruct.flint_and_brick": "Кремень и кирпич",
 
 "item.tconstruct.travelers_helmet": "Защитные очки путешественника",
 "item.tconstruct.travelers_chestplate": "Жилетка путешественника",
@@ -964,37 +966,37 @@
 "block.tconstruct.grout.tooltip": "Я есть, цемент!",
 
 "block.tconstruct.seared_stone": "Обожжённый камень",
-"block.tconstruct.seared_stone.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_stone.tooltip": "Составляющая часть плавильни.",
 "block.tconstruct.seared_stone_slab": "Обожжённая каменная плита",
 "block.tconstruct.seared_stone_stairs": "Обожжённые каменные ступеньки",
 
 "block.tconstruct.seared_cobble": "Обожжённый булыжник",
-"block.tconstruct.seared_cobble.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_cobble.tooltip": "Составляющая часть плавильни.",
 "block.tconstruct.seared_cobble_slab": "Обожжённая булыжная плита",
 "block.tconstruct.seared_cobble_stairs": "Обожжённые булыжные ступеньки",
 "block.tconstruct.seared_cobble_wall": "Обожжённая булыжная ограда",
 
 "item.tconstruct.seared_brick": "Обожжённый кирпич",
 "block.tconstruct.seared_bricks": "Обожжённые кирпичи",
-"block.tconstruct.seared_bricks.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_bricks.tooltip": "Составляющая часть плавильни.",
 "block.tconstruct.seared_bricks_slab": "Обожжённая кирпичная плита",
 "block.tconstruct.seared_bricks_stairs": "Обожжённые кирпичные ступеньки",
 "block.tconstruct.seared_bricks_wall": "Обожжённая кирпичная ограда",
 
 "block.tconstruct.seared_paver": "Обожжённая брусчатка",
-"block.tconstruct.seared_paver.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_paver.tooltip": "Составляющая часть плавильни.",
 "block.tconstruct.seared_paver_slab": "Плита из обожжённой брусчатки",
 "block.tconstruct.seared_paver_stairs": "Ступени из обожжённой брусчатки",
 
 "block.tconstruct.seared_cracked_bricks": "Потрескавшиеся обожжённые кирпичи",
-"block.tconstruct.seared_cracked_bricks.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_cracked_bricks.tooltip": "Составляющая часть плавильни.",
 "block.tconstruct.seared_fancy_bricks": "Шикарные обожжённые кирпичи",
-"block.tconstruct.seared_fancy_bricks.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_fancy_bricks.tooltip": "Составляющая часть плавильни.",
 "block.tconstruct.seared_triangle_bricks": "Треугольные обожжённые кирпичи",
-"block.tconstruct.seared_triangle_bricks.tooltip": "Часть плавильни.",
+"block.tconstruct.seared_triangle_bricks.tooltip": "Составляющая часть плавильни.",
 
 "block.tconstruct.seared_glass": "Обожжённое стекло",
-"block.tconstruct.seared_glass.tooltip": "Часть плавильни.\nНеспособно хранить жидкотекучести.",
+"block.tconstruct.seared_glass.tooltip": "Составляющая часть плавильни.\nНеспособно хранить жидкотекучести.",
 "block.tconstruct.seared_glass_pane": "Обожжённая оконное стекло",
 "block.tconstruct.seared_glass_pane.tooltip": "Нельзя использовать в Плавильне.",
 
@@ -1051,27 +1053,27 @@
 "block.tconstruct.nether_grout.tooltip": "Мы, цемент!",
 
 "block.tconstruct.scorched_stone": "Выжженный камень",
-"block.tconstruct.scorched_stone.tooltip": "Часть литейной.",
+"block.tconstruct.scorched_stone.tooltip": "Составляющая часть литейной.",
 "block.tconstruct.polished_scorched_stone": "Полированный выжженный камень",
-"block.tconstruct.polished_scorched_stone.tooltip": "Часть литейной.",
+"block.tconstruct.polished_scorched_stone.tooltip": "Составляющая часть литейной.",
 
 "item.tconstruct.scorched_brick": "Выжженный кирпич",
 "block.tconstruct.scorched_bricks": "Выжженные кирпичи",
-"block.tconstruct.scorched_bricks.tooltip": "Часть литейной.",
+"block.tconstruct.scorched_bricks.tooltip": "Составляющая часть литейной.",
 "block.tconstruct.scorched_bricks_slab": "Выжженная кирпичная плита",
 "block.tconstruct.scorched_bricks_stairs": "Выжженная кирпичные ступеньки",
 "block.tconstruct.scorched_bricks_fence": "Выжженная кирпичная ограда",
 
 "block.tconstruct.scorched_road": "Выжженная дорожка",
-"block.tconstruct.scorched_road.tooltip": "Часть литейной.",
+"block.tconstruct.scorched_road.tooltip": "Составляющая часть литейной.",
 "block.tconstruct.scorched_road_slab": "Выжженная дорожная плита",
 "block.tconstruct.scorched_road_stairs": "Выжженные дорожные ступеньки",
 
 "block.tconstruct.chiseled_scorched_bricks": "Резные выжженные кирпичи",
-"block.tconstruct.chiseled_scorched_bricks.tooltip": "Часть литейной.",
+"block.tconstruct.chiseled_scorched_bricks.tooltip": "Составляющая часть литейной.",
 
 "block.tconstruct.scorched_glass": "Выжженное стекло",
-"block.tconstruct.scorched_glass.tooltip": "Часть литейной.\nНеспособно хранить жидкотекучести.",
+"block.tconstruct.scorched_glass.tooltip": "Составляющая часть литейной.\nНеспособно хранить жидкотекучести.",
 "block.tconstruct.scorched_glass_pane": "Выжженная оконное стекло",
 "block.tconstruct.scorched_glass_pane.tooltip": "Нельзя использовать в литейной.",
 
@@ -1092,9 +1094,9 @@
 "block.tconstruct.scorched_faucet": "Выжженный горн",
 "block.tconstruct.scorched_faucet.tooltip": "Сливает жидкотекучести из Литейн и Баков.",
 "block.tconstruct.scorched_basin": "Выжженный разливочный ковш",
-"block.tconstruct.scorched_basin.tooltip": "Отливает предметы, используя расплавленные металлы из Литейной, требует форму или золотую платформу для литья.",
+"block.tconstruct.scorched_basin.tooltip": "Отливает предметы, используя расплавленные металлы из Литейной, требует литейную форму или золотую платформенную часть для литья.",
 "block.tconstruct.scorched_table": "Выжженный разливочный стол",
-"block.tconstruct.scorched_table.tooltip": "Отливает предметы, используя расплавленные металлы из Литейной, требует форму или золотые прутья для литья.",
+"block.tconstruct.scorched_table.tooltip": "Отливает предметы, используя расплавленные металлы из Литейной, требует литейную форму или золотые прутья для литья.",
 
 "block.tconstruct.scorched_channel": "Выжженный сток",
 "block.tconstruct.scorched_channel.tooltip": "Распространяет разлитую сверху расплав.",
@@ -1129,7 +1131,7 @@
 "gui.tconstruct.fluid.bowl": "%s миска (ок)",
 "gui.tconstruct.fluid.bottle": "%s бутылочка (ов)",
 
-"gui.tconstruct.fluid.hold_shift": "Держи §e§oShift§r§7 для количества вёдер.",
+"gui.tconstruct.fluid.hold_shift": "Держи §e§oShift§r§7 с расчётом на вёдра.",
 
 
 "_comment": "Tinkers World",
@@ -1308,18 +1310,18 @@
 
 "__comment": "Tier 1 Materials",
 "material.tconstruct.wood": "Древесина",
-"material.tconstruct.wood.oak": "Дубовая древесина",
-"material.tconstruct.wood.spruce": "Еловая древесина",
-"material.tconstruct.wood.birch": "Берёзовая древесина",
-"material.tconstruct.wood.jungle": "Тропическая древесина",
-"material.tconstruct.wood.acacia": "Акациевая древесина",
-"material.tconstruct.wood.dark_oak": "Древесина тёмного дуба",
+"material.tconstruct.wood.oak": "Дуб",
+"material.tconstruct.wood.spruce": "Ель",
+"material.tconstruct.wood.birch": "Берёза",
+"material.tconstruct.wood.jungle": "Тропическое дерево",
+"material.tconstruct.wood.acacia": "Акация",
+"material.tconstruct.wood.dark_oak": "Тёмный дуб",
 "material.tconstruct.wood.crimson": "Багровые гифы",
 "material.tconstruct.wood.warped": "Искажённые гифы",
 "material.tconstruct.wood.bamboo": "Бамбук",
 "material.tconstruct.wood.format": "Деревянный %s",
 "material.tconstruct.wood.flavor": "Сколько дров может напилить сурок, если сурок может пилить дрова?", 
-"material.tconstruct.wood.encyclopedia": "За часть заставляет ремонтироваться на 50% более эффективно.",
+"material.tconstruct.wood.encyclopedia": "Делает починку на 50% более эффективно за каждую часть.",
 
 "material.tconstruct.rock": "Каменная порода",
 "material.tconstruct.rock.stone": "Камень",
@@ -1388,7 +1390,7 @@
 
 "material.tconstruct.copper": "Медь",
 "material.tconstruct.copper.flavor": "Не позволь ему очернить твой день.",
-"material.tconstruct.copper.encyclopedia": "Даёт больше скорости добычи на низкий уровнях глубин, +6 за каждые 64 блока ниже 64.",
+"material.tconstruct.copper.encyclopedia": "Даёт больше скорости добычи на низкий уровнях глубины, +6 за каждые 64 блока ниже 64.",
 "material.tconstruct.copper.skull_flavor": "Вышибает дыхание прямо из них.",
 "material.tconstruct.copper.skull_encyclopedia": "Атаки ближнего боя крадут 3 секунды воздуха из цели.",
 
@@ -1429,18 +1431,15 @@
 "material.tconstruct.nahuatl.flavor": "Это не обсидиановая деталь, если было бы так, сказал бы \"Обсидиан\".",
 "material.tconstruct.nahuatl.encyclopedia": "Имеет 50% шанс постепенно совершать до 5 урона, больше урона на более высоких уровнях.",
 
-"material.tconstruct.bronze": "Бронза",
-"material.tconstruct.tinkers_bronze": "Аметистовая бронза",
-"material.tconstruct.tinkers_bronze.flavor": "Не стоит путать с Бронзой.",
-
-"material.tconstruct.tinkers_bronze.encyclopedia": "Даёт +10% до +15% скорости добычи на каждый уровень при полной прочности, на основе других модификаторов.",
+"material.tconstruct.amethyst_bronze": "Бронза с аметистом",
+"material.tconstruct.amethyst_bronze.flavor": "Не путать с бронзой.",
+"material.tconstruct.amethyst_bronze.encyclopedia": "Даёт +0.25 скорость добычи за каждый уровень для блоков, не требующие инструменты, даже там, где инструмент не эффективен.",
 
 "material.tconstruct.pig_iron": "Чугунная чушка",
 "material.tconstruct.pig_iron.flavor": "Абсолютно лучший материал без споров.",
 "material.tconstruct.pig_iron.encyclopedia": "Можно съесть для восстановления 1 очка голода и 0.1 насыщенности на каждый уровень.",
 "material.tconstruct.pig_iron.skull_flavor": "Лучше тебе не видеть меня в гневе!",
 "material.tconstruct.pig_iron.skull_encyclopedia": "Даёт 15 секунд силы при повреждении другим монстром.",
-
 
 
 "__comment": "Tier Nether Materials",
@@ -1464,10 +1463,13 @@
 "material.tconstruct.blazing_bone.flavor": "Использовать полную мощь Крепости незера — кость и ифрит.",
 "material.tconstruct.blazing_bone.encyclopedia": "Даёт +1% урона за 1 секунду огня, до +15% из 15 секунд в лаве. Дополнительно снижается Огнестойкостью.",
 "material.tconstruct.blazing_bone.skull_flavor": "Я сказал им, что технически это огненный плевок, не огненное дыхание, но по-видимому, не я решаю, как называть придуманные мною вещи.",
-"material.tconstruct.blazing_bone.skull_encyclopedia": "Позволяет сплёвывать огненные заряды из инвентаря в виде огненных шаров. Имеет 5-ти секундный откат и не работает под водой.",
+"material.tconstruct.blazing_bone.skull_encyclopedia": "Позволяет сплёвывать огненные заряды из инвентаря в виде огненных шаров. Имеет 5-ти секундное восстановление и не работает под водой.",
 
 "material.tconstruct.soulsteel": "Сталь душ",
 
+"material.tconstruct.ancient_hide": "Древняя шкура",
+"material.tconstruct.ancient_hide.flavor": "Кожа, продублённая старым камнем.",
+"material.tconstruct.ancient_hide.encyclopedia": "Повышает шансы на выпадения с блоков, стэкуемые удачей.",
 
 "__comment": "Tier End Materials",
 "material.tconstruct.endstone": "Эндерняк",
@@ -1607,15 +1609,15 @@
 "modifier.tconstruct.reinforced.flavor": "Долговечный!",
 "modifier.tconstruct.reinforced.description": "Инструмент вряд ли будет повреждаться.",
 "modifier.tconstruct.overforced": "Перекованный",
-"modifier.tconstruct.overforced.flavor": "Защищён слизью!",
+"modifier.tconstruct.overforced.flavor": "Защищённый слизью!",
 "modifier.tconstruct.overforced.description": "Инструмент укреплён с использованием слизи, позволяющий добавить больше вместимости для сверхслизневости.",
 "modifier.tconstruct.emerald": "Изумруд",
-"modifier.tconstruct.emerald.flavor": "Жители захотят быть твоими!!",
-"modifier.tconstruct.emerald.description": "Увеличивает прочность в зависимости от базовой прочности! Повышает кпд условного урона и скорость добычи.",
+"modifier.tconstruct.emerald.flavor": "Жители захотят быть твоими!",
+"modifier.tconstruct.emerald.description": "Повышает прочность, в зависимости от базовой прочности! Повышает кпд условного урона и скорость добычи.",
 "modifier.tconstruct.emerald.attack_damage": "Урон по разбойнику",
 "modifier.tconstruct.diamond": "Алмаз",
 "modifier.tconstruct.diamond.flavor": "Роскошный!",
-"modifier.tconstruct.diamond.description": "Увеличивает прочность и характеристики!",
+"modifier.tconstruct.diamond.description": "Повышает прочность и характеристики!",
 "modifier.tconstruct.worldbound": "Связь с миром",
 "modifier.tconstruct.worldbound.flavor": "Древний!",
 "modifier.tconstruct.worldbound.description": "Сырая версия незерита, дающий невосприимчивость внешнему урону, например огню, но без излишней силы.",
@@ -1702,7 +1704,7 @@
 "modifier.tconstruct.killager": "Убийственник",
 "modifier.tconstruct.killager.flavor": "Обитатели ненавидят его!",
 "modifier.tconstruct.killager.description": "Повышает урон против жителей, обитателей, и прочих носатых существ!",
-"modifier.tconstruct.killager.attack_damage": "Урон убийственник",
+"modifier.tconstruct.killager.attack_damage": "Урон убийственника",
 "modifier.tconstruct.cooling": "Охлаждающий",
 "modifier.tconstruct.cooling.flavor": "Морозный!",
 "modifier.tconstruct.cooling.description": "Инструмент наносит доп. урон по огненным существам!",
@@ -2374,10 +2376,10 @@
 "gui.tconstruct.part_builder.cost": "Стоимость модели: %s",
 "gui.tconstruct.part_builder.trait": "Особенность",
 "gui.tconstruct.part_builder.uncraftable": "Не может формироваться.",
-"gui.tconstruct.part_builder.uncraftable.tooltip": "Материал не может быть сформирован в строителе частей. Необходимы другие методы например: форма.",
+"gui.tconstruct.part_builder.uncraftable.tooltip": "Материал не может быть сформирован в строителе частей. Необходимы другие методы например: литейная форма.",
 
 "gui.tconstruct.tinkers_chest": "Сундук литейщика",
-"gui.tconstruct.cast_chest": "Сундук отливок",
+"gui.tconstruct.cast_chest": "Сундук литейных формы",
 "gui.tconstruct.part_chest": "Сундук частей",
 
 "gui.tconstruct.tinker_station": "Литейное рабочее место",
@@ -2518,7 +2520,7 @@
 "jei.tconstruct.casting.basin": "Разливочный ковш",
 "jei.tconstruct.casting.table": "Разливочный стол",
 "jei.tconstruct.casting.cast_kept": "Заготовку можно снова использовать в недавних рецептах.",
-"jei.tconstruct.casting.cast_consumed": "Форма предмета употребляется при отливки.",
+"jei.tconstruct.casting.cast_consumed": "Форма предмета употребляется после отливки.",
 
 "jei.tconstruct.molding.title": "Формовка",
 "jei.tconstruct.molding.pattern_consumed": "Модель употребляется при изготовлении.",
