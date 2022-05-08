@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:haste_armor",
   "text": [
     {
-      "text": "Grants +10% mining speed per level for all held tools."
+      "text": "Даёт +10% скорость добычи с каждым уровнем для всех держащих инструментов."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно налаживать уровни поступательно",
+    "Максимальной 5 уровней",
+    "Требует 1 слот способности на каждый уровень."
   ]
 }

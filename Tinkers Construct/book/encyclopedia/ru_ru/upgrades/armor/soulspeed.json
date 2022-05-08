@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:soulspeed",
   "text": [
     {
-      "text": "Grants +40.5% speed on soul sand, plus an additional 10.5% added for each additional level. Reduces the slowdown from walking on soulsand."
+      "text": "Даёт +40.5% скорость по песку душ, плюс ещё 10.5% накидывается за каждый дополнительный уровень. Понижает замедление от хождения по песку душ."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 3 уровня",
+    "Требует 1 слот способности на каждый уровень."
   ]
 }

@@ -1,7 +1,12 @@
 {
-  "title": "General upgrades",
+  "title": "Основные улучшения",
   "text": [
-    { "text": "General modifiers are effective on multiple types of tools, including melee and harvest tools along with armor." },
-    { "text": "Some modifiers are only to melee and harvest, so check the list of tools displayed.", "paragraph": true }
+    {
+		"text": "Основные модификаторы действуют на некоторые типы инструментов, в частности на инструменты ближнего боя и добычи совместно с бронёй."
+	},
+    {
+		"text": "Некоторые модификаторы только для ближнего боя и добычи, поэтому, проверь список отображаемых инструментов.",
+		"paragraph": true
+	}
   ]
 }

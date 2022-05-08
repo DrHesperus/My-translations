@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:step_up",
   "text": [
     {
-      "text": "Increases the height the player can step by 0.5 blocks per level."
+		"text": "Повышает высоту, на которую игрок может возвышаться на 0.5 блока на каждом уровне."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 2 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 2 уровня.",
+    "Требует 1 слот улучшения на каждый уровень."
   ]
 }

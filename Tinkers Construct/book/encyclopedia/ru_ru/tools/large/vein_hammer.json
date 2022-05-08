@@ -1,15 +1,20 @@
 {
   "tool": "tconstruct:vein_hammer",
   "text": [
-    { "text": "The Vein Hammer mines stone blocks and adjacent blocks of the same type, up to 2 blocks away." },
-    { "text": "Each expander increases the max distance of a block by 1.", "paragraph": true }
+    {
+		"text": "Жильный молот добывает камни и прилегающие блоки того же вида, до 2 блоков вдаль."
+	},
+    {
+		"text": "Каждый расширитель повышает максимальное расстояние блока на 1.",
+		"paragraph": true
+	}
   ],
   "properties": [
-    "+3 Attack Damage",
-    "125% Attack Modifier",
-    "0.85 Attack Speed",
-    "30% Mining Modifier",
-    "500% Durability",
-    "Piercing II"
+    "+3 урон атаки",
+    "125% урон от модификатора",
+    "0.85 скорость атаки",
+    "30% добыча от модификатора",
+    "500% прочность",
+    "Пронзительный II"
   ]
 }

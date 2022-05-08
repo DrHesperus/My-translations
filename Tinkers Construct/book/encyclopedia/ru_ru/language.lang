@@ -1,46 +1,45 @@
-intro=Introduction
+intro=Ознакомление
 
-tools=Tools
-tools.group_small=Small Tools
-tools.group_large=Broad Tools
-armor=Armor
+tools=Инструменты
+tools.group_small=Ручные инструменты
+tools.group_large=Широколезвийные инструменты
+armor=Броня
 
-tier_one_materials=Tier 1 Materials
-tier_one_materials.subtext=These materials are easy to find, and can be placed in the part builder to create tool parts
-tier_two_materials=Tier 2 Materials
-tier_two_materials.subtext=These materials require melting and casting to create, and may be a bit more rare
-tier_three_materials=Tier 3 Materials
-tier_three_materials.subtext=These materials require alloying, either through an alloyer or a smeltery
-tier_four_materials=Tier 4 Materials
-tier_four_materials.subtext=These materials cannot be found without traveling to the Nether
-skull_materials=Slimeskulls
-skull_materials.subtext=This section describes the effects of all types of skulls in creating a slimeskull
+tier_one_materials=Материалы 1 уровня
+tier_one_materials.subtext=Эти материалы нетрудно найти, и могут быть размещены в Сборщике частей для создания частей инструмента.
+tier_two_materials=Материалы 2 уровня
+tier_two_materials.subtext=Эти материалы требуют расплавление и разливку, чтобы их создать и, пожалуй, немного больше редки.
+tier_three_materials=Материалы 3 уровня
+tier_three_materials.subtext=Эти материалы требуют легирования для получения сплава, либо с помощью сплавщика или плавильни.
+tier_four_materials=Материалы 4 уровня
+tier_four_materials.subtext=Эти материалы нельзя найти без путешествия в Незер.
+skull_materials=Слизневые черепа
+skull_materials.subtext=Этот раздел содержит описания эффектов из всех видов черепов во время создания слизневого черепа.
 
-upgrades=Upgrades
-upgrades.subtext=Each tool gets a limited total number of upgrades slots.
-upgrades.group_general=General
-upgrades.group_harvest=Harvest
-upgrades.group_weapon=Weapon
-upgrades.group_damage=Damage Boost
-upgrades.group_armor=Armor
-upgrades.feather_falling=Feather Fall
+upgrades=Улучшения
+upgrades.subtext=Каждый инструмент получит ограниченное суммарное количество слотов улучшений.
+upgrades.group_general=Основные
+upgrades.group_harvest=Добыча
+upgrades.group_weapon=Оружие
+upgrades.group_damage=Повышен. урон
+upgrades.group_armor=Броня
+upgrades.feather_falling=Невесомость
 
-defense=Defense
-defense.subtext=Instead of material traits, armor will include defense slots to improve protection.
-defense.group_protection=Protection
-defense.group_special=Special
+defense=Защита
+defense.subtext=Вместо особенностей материала, броня содержит слоты защиты для повышения защиты.
+defense.group_protection=Защитные
+defense.group_special=Особые
 
-slotless=Slotless
-slotless.subtext=Slotless modifiers do not require any slots.
-slotless.group_general=General
-slotless.group_bonus=Bonus
+slotless=Безслотовые
+slotless.subtext=Безслотовым модификаторам не нужны какие-либо слоты.
+slotless.group_general=Основные
+slotless.group_bonus=Дополнительные
 
-abilities=Abilities
-abilities.subtext=Ability modifiers have fewer slots than upgrades, but are stronger per slot.
-abilities.group_general=General
-abilities.group_harvest=Harvest
-abilities.group_weapon=Weapon
-abilities.group_interact=Interaction
-abilities.group_armor=Armor
-abilities.unarmed=Unarmed
-
+abilities=Способности
+abilities.subtext=Модификаторы способностей имеют мало слотов, чем улучшения, но эффектнее за слот.
+abilities.group_general=Основные
+abilities.group_harvest=Добыча
+abilities.group_weapon=Оружие
+abilities.group_interact=Взаимодействующие
+abilities.group_armor=Броня
+abilities.unarmed=Рукопашная атака

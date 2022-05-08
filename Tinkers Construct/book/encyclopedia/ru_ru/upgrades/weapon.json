@@ -1,7 +1,12 @@
 {
-  "title": "Weapon Upgrades",
+  "title": "Улучшения для оружия",
   "text": [
-    { "text": "Weapon upgrades are most effective on tools built for combat, whether it is a sword or a repurposed harvest tool." },
-    { "text": "Many of these upgrades can also be applied to chestplates with the unarmed modifier. They will only boost attacks with an empty hand.", "paragraph": true }
+    {
+		"text": "Улучшения для оружия наиболее эффективны на инструментах, предназначенных для боя, будь то меч или же видоизменённый жатвенный инструмент."
+	},
+    {
+		"text": "Многие из этих улучшений можно наложить на нагрудники с модификатором рукопашная атака. Они только усилят атаки при помощи пустой руки.",
+		"paragraph": true
+	}
   ]
 }

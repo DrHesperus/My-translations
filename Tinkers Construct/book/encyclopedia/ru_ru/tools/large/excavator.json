@@ -1,16 +1,21 @@
 {
   "tool": "tconstruct:excavator",
   "text": [
-    { "text": "The Excavator is a broad digging tool, effective on dirt, gravel, and sand in a 3x3 range." },
-    { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
+    {
+		"text": "Землекоп — это широкий инструмент копки, эффективен по отношению к земле, гравию, а также песку в диапазоне 3х3."
+	},
+    {
+		"text": "Расширители чередуются, повышая ширину и высоту.",
+		"paragraph": true
+	}
   ],
   "properties": [
-    "+1.5 Attack Damage",
-    "120% Attack Modifier",
-    "1.0 Attack Speed",
-    "30% Mining Modifier",
-    "375% Durability Modifier",
-    "Knockback II",
-    "Makes path"
+    "+1.5 урон атаки",
+    "120% атака от модификатора",
+    "1.0 скорость атаки",
+    "30% добыча от модификатора",
+    "375% прочность от модификатора",
+    "Отбрасывание II",
+    "Делает тропинки"
   ]
 }

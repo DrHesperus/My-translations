@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:speedy",
   "text": [
     {
-      "text": "Multiplies speed by an extra 10% per level."
+		"text": "Умножает скорость на дополнительно 10% на каждом уровне."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно налаживать уровни поступательно.",
+    "Максимально 3 уровня.",
+    "Требует 1 слот улучшения на каждый уровень."
   ]
 }

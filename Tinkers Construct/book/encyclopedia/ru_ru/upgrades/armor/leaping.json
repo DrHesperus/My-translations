@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:leaping",
   "text": [
     {
-      "text": "Grants +0.5 blocks jump height per level, and increases the safe fall distance by 1 block per level."
+      "text": "Даёт +0.5 блока высоты прыжка с каждым уровнем, и повышает безопасное расстояние падения на 1 блок на каждом уровне."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 2 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 2 уровня",
+    "Требует 1 слот способности на каждый уровень."
   ]
 }

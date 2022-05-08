@@ -1,16 +1,21 @@
 {
   "tool": "tconstruct:scythe",
   "text": [
-    { "text": "The Scythe is a broad reaping tool, effective on plants or monsters in a 3x3x3 range." },
-    { "text": "Expanders alternate between width/height and depth, while silky grants AOE shearing.", "paragraph": true }
+    {
+		"text": "Коса — это жатвенный инструмент с широким полотном, эффективна по отношению к урожаю или монстрам в диапазоне 3х3х3."
+	},
+    {
+		"text": "Расширители чередуются, повышая ширину/высоту и глубину, поскольку шелковистый даёт срезание по области.",
+		"paragraph": true
+	}
   ],
   "properties": [
-    "+1 Attack Damage",
-    "0.7 Attack Speed",
-    "45% Mining Modifier",
-    "250% Durability Modifier",
-    "AOE Attack",
-    "Tills dirt",
-    "Harvest plants"
+    "+1 урон атаки",
+    "0.7 скорость атаки",
+    "45% добыча от модификатора",
+    "250% прочность от модификатора",
+    "Атака по области",
+    "Пашет землю",
+    "Собирает урожай"
   ]
 }

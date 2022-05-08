@@ -899,14 +899,14 @@
 "item.tconstruct.excavator.description": "Землекоп — это широкий землеройный инструмент. Он вскапывает большие площади почвы и снега в широком диапазоне.\nТерраформирование!",
 
 "item.tconstruct.hand_axe.description": "Плотничный топор разрубает древесину и быстро справляется с листвой. Он также делает оружие эффективным.\nХоп-хоп!",
-"item.tconstruct.broad_axe.description": "Широколезвийный топор рубит малые деревья одним размахом, и быстро справляется с большими деревьями. Он делает оружие мощным и тяжёлым.\nЛесной!",
+"item.tconstruct.broad_axe.description": "Топор дровосека рубит малые деревья одним размахом, и быстро справляется с большими деревьями. Он делает оружие мощным и тяжёлым.\nЛесной!",
 
 "item.tconstruct.kama.description": "Кама — это точный инструмент жатвы, скашивающий растения и стригущий животных.\nПкм: Собрать и пересадить урожай.",
-"item.tconstruct.scythe.description": "Коса — это широкий инструмент жатвы, скашивает растения в широком диапазоне.\nПкм: Собрать и пересадить урожай.",
+"item.tconstruct.scythe.description": "Коса — это жатвенный инструмент с широким полотном, скашивает растения в широком диапазоне.\nПкм: Собрать и пересадить урожай.",
 
 "item.tconstruct.dagger.description": "Кинжал — это лёгкое оружие, способный к быстрым ударам с любой руки.",
-"item.tconstruct.sword.description": "Меч — это универсальное оружие. Размахивающие атаки сдерживают орды врагов на расстоянии.\nТакже хорош против паутин!",
-"item.tconstruct.cleaver.description": "Тесак — это оружие для Мастера плавильни. Высокий радиус атак пробивается сквозь самый жестокий врагов.",
+"item.tconstruct.sword.description": "Меч — это универсальное оружие. Разящие атаки сдерживают орды врагов на расстоянии.\nТакже хорош против паутин!",
+"item.tconstruct.cleaver.description": "Разрубщик — это оружие для Мастера плавильни. Высокий радиус атак пробивается сквозь самый жестокий врагов.",
 
 
 "_comment": "Smeltery shared",
@@ -1685,7 +1685,7 @@
 "modifier.tconstruct.necrotic.lifesteal": "Кража жизни",
 
 "_comment": "Damage boost",
-"modifier.tconstruct.piercing": "Пронзительный",
+"modifier.tconstruct.piercing": "Острый",
 "modifier.tconstruct.piercing.flavor": "Стать кактусом!",
 "modifier.tconstruct.piercing.description": "Инструмент наносит доп. урон, атакующий сквозь броню!",
 "modifier.tconstruct.piercing.attack_damage": "Пронзающий урон",
@@ -1794,7 +1794,7 @@
 "modifier.tconstruct.thorns.description": "Использовать силу стражника, причиняя нападающим иногда получать урон.",
 "modifier.tconstruct.thorns.attack_damage": "Пронзающий урон",
 "modifier.tconstruct.sticky": "Липучий",
-"modifier.tconstruct.sticky.flavor": "Как хэллоуин",
+"modifier.tconstruct.sticky.flavor": "Как Хэллоуин",
 "modifier.tconstruct.sticky.description": "Нападающие могут заклиниваться на месте, или по крайней мере замедлиться.",
 "modifier.tconstruct.springy": "Пружинистый",
 "modifier.tconstruct.springy.flavor": "Ка-бум!",
@@ -1832,14 +1832,14 @@
 "modifier.tconstruct.unarmed.description": "Заставляет нагрудным модификаторам повысить рукопашный урон от атаки.",
 "recipe.tconstruct.modifier.unarmed": "Сначала нужно добавить Модификатор: Рукопашная атака.",
 "modifier.tconstruct.wings": "Крылья",
-"modifier.tconstruct.wings.flavor": "Небо в твоих руках",
+"modifier.tconstruct.wings.flavor": "Небо в твоих руках.",
 "modifier.tconstruct.wings.description": "Позволяет тебе витать по воздуху, прыгнув в воздухе.",
 
 "_comment": "Armor - leggings",
 "modifier.tconstruct.speedy": "Скорый",
 "modifier.tconstruct.speedy.flavor": "Всё идёт и идёт и идёт...",
 "modifier.tconstruct.speedy.description": "Достижение скорости ближе к кроликам.",
-"modifier.tconstruct.step_up": "Ступенчатое повышение",
+"modifier.tconstruct.step_up": "Ступенчатое возвышение",
 "modifier.tconstruct.step_up.flavor": "Не пропусти День ног.",
 "modifier.tconstruct.step_up.description": "Позволяет лазать на высокие блоки, как будто они ступеньки.",
 "modifier.tconstruct.leaping": "Скачка",
@@ -2252,7 +2252,7 @@
 "modifier.tconstruct.piglin_brute_disguise.description": "Делает тебя быть похожим на жестокого пиглина с другими жестокими пиглинами.",
 "modifier.tconstruct.zombified_piglin_disguise": "Камуфляж зомбифицированного пиглина",
 "modifier.tconstruct.zombified_piglin_disguise.flavor": "Это свинья? Человек? Зомби?",
-"modifier.tconstruct.zombified_piglin_disguise.description": "Делает тебя быть похожим на зомбифицированного пиглина  с другими  зомбифицированными пиглинами",
+"modifier.tconstruct.zombified_piglin_disguise.description": "Делает тебя быть похожим на зомбифицированного пиглина с другими  зомбифицированными пиглинами",
 
 "_comment": "Compat Modifiers",
 "modifier.tconstruct.the_one_probe": "Зонд",
@@ -2384,7 +2384,7 @@
 
 "gui.tconstruct.tinker_station": "Литейное рабочее место",
 "gui.tconstruct.tinker_station.repair": "Ремонт и Изменение",
-"gui.tconstruct.tinker_station.repair_limited.description": "Позволяет создание всех начальных инструментов и применение большинства модификаторов. Выбери чертёж из кнопок слева, чтобы начать.",
+"gui.tconstruct.tinker_station.repair_limited.description": "Позволяет создавать всевозможные начальные инструменты и налаживать большинство модификаторов. Выбери чертёж из кнопок слева, чтобы начать.",
 "gui.tconstruct.tinker_station.repair": "Ремонт и Изменение",
 "gui.tconstruct.tinker_station.repair.description": "Создай как ручные, так и широколезвийные инструменты и модифицируй имеющиеся инструменты, чтобы осуществить свои мечты! Выбери чертёж из кнопок слева, чтобы начать.",
 "gui.tconstruct.tinker_station.modifiers": "Модификаторы",

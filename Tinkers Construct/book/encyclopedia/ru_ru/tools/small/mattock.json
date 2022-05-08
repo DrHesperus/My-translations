@@ -1,16 +1,21 @@
 {
   "tool": "tconstruct:mattock",
   "text": [
-    { "text": "The Mattock is a farming tool, effective on logs, dirt, gravel, and sand. It is also faster on wood." },
-    { "text": "Expanders cause adjacent blocks of the same type to also be mined, with range based on the number of expanders.", "paragraph": true }
+    {
+		"text": "Киркомотыга — это земледельческий инструмент, эффективна по отношению к брёвнам, земле, гравию, а также песку. А ещё она быстрее по отношению к древесине."
+	},
+    {
+		"text": "Расширители заставляют соседние блоки того же типа также добываться, с радиусом на основе количества расширителей.",
+		"paragraph": true
+	}
   ],
   "properties": [
-    "+1.5 Attack Damage",
-    "110% Attack Modifier",
-    "0.9 Attack Speed",
-    "110% Mining Modifier",
-    "125% Durability Modifier",
-    "Knockback I",
-    "Tills dirt"
+    "+1.5 урон атаки",
+    "110% атака от модификатора",
+    "0.9 скорость атаки",
+    "110% добыча от модификатора",
+    "125% прочность от модификатора",
+    "Отбрасывание I",
+    "Пашет землю"
   ]
 }

@@ -2,14 +2,15 @@
   "modifier_id": "tconstruct:item_frame",
   "text": [
     {
-      "text": "Adds slots to the helmet which will render on the UI when the helmet is worn."
+		"text": "Добавляет слоты в шлем, которые будут отображаться на интерфейсе игрока, когда надет шлем."
     },
     {
-      "text": "Helmet inventory can be opened by interacting with it while holding.", "paragraph": true
+		"text": "Инвентарь шлема можно открыть путём взаимодействия с ним во время удержания.",
+		"paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Requires 1 upgrade slot per level"
+    "Требует 1 слот способности на каждый уровень."
   ]
 }
