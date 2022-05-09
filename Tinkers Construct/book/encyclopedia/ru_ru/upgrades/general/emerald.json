@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:emerald",
   "text": [
     {
-      "text": "Grants +50% durability and +5% knockback resistance. Increases the tool's harvest level to iron, and boosts conditional attack damage and mining speed by 25%."
+		"text": "Даёт +50% прочность и +5% сопротивление отбрасыванию. Повысит уровень добычи инструмента до железного, и повысит обусловленный урон атаки и скорость добычи на 25%."
     },
     {
-      "text": "Tools and armor will only receive applicable stat boosts, for instance held tools will not receive knockback resistance.",
-      "paragraph": true
+		"text": "Инструменты и броня получают только соответствующие прибавки к характеристикам, например, держащие инструменты не получают сопротивление отбрасыванию.",
+		"paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 upgrade slot"
+    "Максимально 1 уровень.",
+    "Требует 1 слот улучшения."
   ]
 }

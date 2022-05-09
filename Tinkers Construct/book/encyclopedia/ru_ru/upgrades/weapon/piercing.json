@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:piercing",
   "text": [
     {
-      "text": "Adds +1 piercing damage per level, at the cost of -0.5 regular damage per level. Overall gain of +0.5 damage per level."
+      "text": "Добавляет +1 пронзающего урона с каждым уровнем, ценой -0.5 обычного урона с каждым уровнем. Общий коэффициент усиления +0.5 урона с каждым уровнем."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно применять уровни поступательно.",
+    "Максимально 5 уровня.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:the_one_probe",
   "text": [
     {
-      "text": "Shows information about the targeted block, just like the one probe item."
+		"text": "Отображает сведения о нацеленном блоке, точь-в-точь как The one probe."
     },
     {
-      "text": "Must be wearing the helmet to get information, or holding the tool in either hand.",
-      "paragraph": true
+		"text": "Должен быть надет шлем для получения информации, или же держать инструмент в какой-либо руке.",
+		"paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Single level",
-    "Requires 1 upgrade slot"
+    "Одноуровневый.",
+    "Требует 1 слот улучшения."
   ]
 }

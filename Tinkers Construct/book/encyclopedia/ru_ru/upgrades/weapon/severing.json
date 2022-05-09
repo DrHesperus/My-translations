@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:severing",
   "text": [
     {
-      "text": "Grants a 5% chance per level (plus an extra 5% per level of luck) for a mob to drop its head or other body parts. Against rare mobs such as bosses, the chance is doubled."
+      "text": "Даёт 5% вероятности с каждым уровнем (плюс дополнительные 5% за уровень удачи), что с монстра выпадет его же голова или другие части тела. Против редких монстров, а именно Боссов, вероятность удваивается."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 5 уровня.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

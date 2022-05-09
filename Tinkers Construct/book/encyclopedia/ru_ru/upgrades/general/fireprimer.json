@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:fireprimer",
   "text": [
     {
-      "text": "Increases the area of effect of flint and bronze by 1. Equivelent to 1 level of expanded, but only requires an upgrade slot."
+		"text": "Повышает радиус поражения кремня и кирпича на 1. Приравнивается к 1 уровню расширенный, но требует только слот улучшения."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires 1 upgrade slot"
+    "Максимально 1 уровень.",
+    "Требует 1 слот улучшения."
   ]
 }

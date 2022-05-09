@@ -2,17 +2,17 @@
   "modifier_id": "tconstruct:magnetic",
   "text": [
     {
-      "text": "After mining blocks or attacking mobs (for tools) or passively (for armor), pulls items within 3 blocks towards the player, ignoring gravity."
+		"text": "После добычи блоков или атаки монстров (для инструментов) или пассивно (для брони), притянет предмет в пределах 3 блоков к игроку, игнорируя гравитацию."
     },
     {
-      "text": "Each level adds 1 extra block of range, and increases the speed.",
-      "paragraph": true
+		"text": "Каждый уровень добавить ещё 1 блок дальности, и повысит скорость.",
+		"paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level for armor per piece",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 1 уровень на каждую часть брони.",
+    "Максимально 5 уровней.",
+    "Требует 1 слот улучшения на каждом уровне."
   ]
 }

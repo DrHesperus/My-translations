@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:fiery",
   "text": [
     {
-      "text": "Causes attacked mobs to burn, for 5 seconds per level."
+      "text": "Заставляет атакованных монстров гореть, на 5 секунд с каждым уровнем."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно применять уровни поступательно.",
+    "Максимально 5 уровня.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

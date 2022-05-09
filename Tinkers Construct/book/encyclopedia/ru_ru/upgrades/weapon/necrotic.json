@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:necrotic",
   "text": [
     {
-      "text": "Critical hits heal a percentage of the damage dealt. Heals 25% at level 1, 45% chance at level 2, 60% at level 3, 70% at level 4, and 75% at level 5. Tool loses 1 extra durability per level."
+      "text": "Критические удары исцеляют на % наносимого урона. Исцеляет 25% на 1 уровне, 45% вероятность на 2 уровне, 60% на 3 уровне, 70% на 4 уровне, и 75% на 5 уровне. Инструмент теряет дополнительно одну прочность с каждым уровнем."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 5 уровня.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

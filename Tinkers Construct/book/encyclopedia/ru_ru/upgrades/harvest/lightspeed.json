@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:lightspeed",
   "text": [
     {
-      "text": "Grants +1 mining speed per level at light levels of 5, +3 mining speed per level at light levels of 10, and +9 mining speed per level at light levels of 15."
+		"text": "Даёт +1 скорость добычи с каждым уровнем при уровне освещения 5, +3 скорость добычи с каждым уровнем при уровне освещения 10, и +9 скорость добычи с каждым уровнем при уровне освещения 15."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно налаживать уровни поступательно.",
+    "Максимально 5 уровней.",
+    "Требует 1 слот улучшения на каждом уровне."
   ]
 }

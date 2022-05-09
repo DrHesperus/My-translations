@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:sharpness",
   "text": [
     {
-      "text": "Grants +0.75 damage per level."
+      "text": "Даёт +0.75 урона с каждым уровнем."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно применять уровни поступательно.",
+    "Максимально 5 уровня.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

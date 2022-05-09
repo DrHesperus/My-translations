@@ -2,15 +2,16 @@
   "modifier_id": "tconstruct:turtle_shell",
   "text": [
     {
-      "text": "Grants +8% resistance when underwater. Caps at 80% across the whole set, or 10 levels."
+		"text": "Даёт +8% сопротивление находясь под водой. Ограничивает максимальное значение в размере 80% по всему комплекту, или, что ещё лучше 10 уровней."
     },
     {
-      "text": "Increases swim speed by 5% per level.", "paragraph": true
+		"text": "Повышает скорость плавания на 5% с каждым уровнем.",
+		"paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Requires 1 defense slot"
+    "Можно применять уровни поступательно.",
+    "Требует 1 слот обороны."
   ]
 }

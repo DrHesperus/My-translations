@@ -2,17 +2,17 @@
   "modifier_id": "tconstruct:netherite",
   "text": [
     {
-      "text": "Grants +20% durability, +20% attack damage, +25% mining speed, +5% knockback resistance, and +1 armor toughness. Increases the mining level to netherite, and makes the tool invulnerable when dropped."
+      "text": "Даёт +20% прочность, +20% урон атаки, +25% скорость добычи, +5% сопротивлению отбрасыванию, и +1 твёрдость брони. Повышает уровень добычи до незеритового, и сделает инструмент неуязвимым при выбрасывании."
     },
     {
-      "text": "Tools and armor will only receive applicable stat boosts.",
+      "text": "Инструменты и броня получают только соответствующие прибавки к характеристикам.",
       "paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 1 level",
-    "Requires Diamond or Emerald to be applied",
-    "Requires 1 upgrade slot"
+    "Максимально 1 уровень.",
+    "Для наложения требует Алмазный или Изумрудный.",
+    "Требует 1 слот улучшения."
   ]
 }

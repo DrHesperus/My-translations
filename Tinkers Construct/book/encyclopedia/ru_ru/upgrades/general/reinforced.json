@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:reinforced",
   "text": [
     {
-      "text": "Reduces the chance for the tool to take damage. Has a 75% chance of taking damage at level 1, 55% chance at level 2, 40% at level 3, 30% at level 4, and 25% at level 5."
+		"text": "Понижает вероятность поломки инструмента. Получает 75% вероятность от поломки на 1 уровне, 55% вероятность на 2 уровне, 40% на 3 уровне, 30% на 4 уровне, и 25% на 5 уровне."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно налаживать уровни поступательно.",
+    "Максимально 5 уровней.",
+    "Требует 1 слот улучшения на каждом уровне."
   ]
 }

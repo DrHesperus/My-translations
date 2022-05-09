@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:tank",
   "text": [
     {
-      "text": "Increases the tank capacity of the tool by 1 bucket per level. Useful alongside abilities such as bucketing or melting."
+		"text": "Повышает объём бака инструмента на 1 ведро с каждым уровнем. Полезен наряду со способностями, как например сливание или выплавка."
     },
     {
-      "text": "Tools with tanks have the ability to be filled and drained by interacting with fluid tank blocks. On armor the piece must be held to fill or empty a tank.",
-      "paragraph": true
+		"text": "Инструменты с баками могут наполняться и опустошаться путём взаимодействия с жидкостными баками. На какой нибудь части брони её нужно удерживать, чтобы наполнить или опустошить бак.",
+		"paragraph": true
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Максимально 5 уровней.",
+    "Требует 1 слот улучшения на каждом уровне."
   ]
 }

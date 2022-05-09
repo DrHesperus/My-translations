@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:overforced",
   "text": [
     {
-      "text": "Grants +75 overslime per level."
+		"text": "Даёт +75 слизневого покрытия с каждым уровнем."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно налаживать уровни поступательно.",
+    "Максимально 5 уровней.",
+    "Требует 1 слот улучшения на каждом уровне."
   ]
 }

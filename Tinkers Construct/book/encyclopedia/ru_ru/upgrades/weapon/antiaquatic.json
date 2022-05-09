@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:antiaquatic",
   "text": [
     {
-      "text": "Grants +2 damage per level against aquatic mobs."
+      "text": "Даёт +2 урона против водяных монстров с каждым уровнем."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
+    "Можно применять уровни поступательно.",
+    "Максимально 5 уровня.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }
