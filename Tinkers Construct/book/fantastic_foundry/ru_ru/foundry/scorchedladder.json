@@ -1,11 +1,9 @@
 {
-  "title": "Выжженная лестница",
-  "item": {
-    "id": "tconstruct:scorched_ladder"
-  },
+  "title": "Scorched Ladder",
+  "item": "tconstruct:scorched_ladder",
   "text": [
     {
-      "text": "Выжженная лестница может быть использована для лёгкого подъёма или спуска с вашей литейной печи, что полезно, если вы планируете построить её ещё выше!",
+      "text": "The scorched ladder can be used to easily climb up or out of your foundry without invalidating the structure, useful for if you plan to build it bigger later!",
       "paragraph": true
     }
   ]

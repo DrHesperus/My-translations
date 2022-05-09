@@ -1,57 +1,14 @@
 {
-  "title":"Характеристики",
+  "title": "Features",
   "text": [
-    {
-      "text": "• Даёт +6 кусочков за руду"
-    },
-	{
-      "text": "\n"
-    },
-	 {
-      "text": "• Даёт побочные продукты из руд"
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Литейная печь не может создавать сплавы, что является большим прорывов, поэтому вам больше не придется беспокоиться о случайном смешивании материалов."
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Может вмещать несколько металлов"
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Расширяемая ёмкость"
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Вместительность хранилища намного больше, чем у жалкой плавильни"
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Может расплавлять блоки, которые дают несколько материалов"
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Эффективность потребления топлива зависит от размера "
-    },
-	{
-      "text": "\n"
-    },
-	{
-      "text": "• Пригодится для работы в Незере и хранения большого количества жидкостей "
-    }
-    
+    { "text": "• Gives +6 nuggets per ore" },
+    { "text": "\n• Gives byproducts from ores" },
+    { "text": "\n• The foundry cannot alloy which is a superior breakthrough so you never have to worry about accidentally mixing materials again" },
+    { "text": "\n• Can hold multiple metals" },
+    { "text": "\n• Extendable capacity" },
+    { "text": "\n• Much larger storage capacity than the puny smeltery" },
+    { "text": "\n• Can melt blocks that give multiple outputs" },
+    { "text": "\n• Fuel efficiency depends on size " },
+    { "text": "\n• Useful for Nether-only runs and mass storage of liquids " }
   ]
 }

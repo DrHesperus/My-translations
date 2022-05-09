@@ -1,25 +1,10 @@
-// Sections - Fantastic Foundry
-intro=Вступление
-alloyer=Смешиватель
-tier_four_materials=Материалы 4-го уровня
+intro=Ознакомление
+alloyer=Сплавщик
+foundry=Литейная
+blazing_blood=Пылающая кровь
 
-foundry=Литейная печь
-foundry.features=Характеристики
-foundry.byproducts=Побочная продукция
-foundry.controller=Контроллер
-foundry.structure=Структура
-foundry.structurereq=Требования к структуре
-foundry.scorched_tanks=Выжженные резервуары
-foundry.scorched_blocks=Выжженные блоки
-foundry.scorched_ladder=Выжженная лестница
-foundry.scorched_glass=Выжженное стекло
-foundry.scorched_drain=Выжженный слив
-foundry.scorched_duct=Выжженный туннель
-foundry.scorched_chute=Выжженный жёлоб
-foundry.fgui1=Графический интерфейс Литейной Печи
-foundry.fgui2=Foundry GUI Explination
+armor=Латы
+armor.subtext=Броня создаётся в Мастерской вместо Литейного рабочего места или Наковальни. Мощные латы похвастается высокой защитой, но менее модифицируемая. Кому нужны лишние функции, когда ты можешь быть защищён?
 
-blazing_blood=Огненная кровь
-blazing_blood.carry=Перемещение существ
-blazing_blood.foundry=Литейная печь
-blazing_blood.melting=Переплавка
+tier_four_materials=Материалы 4 уровня
+tier_four_materials.subtext=Материалы, требующие пылающую кровь для создания.

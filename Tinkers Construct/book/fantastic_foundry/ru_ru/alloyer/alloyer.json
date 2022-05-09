@@ -1,12 +1,12 @@
 {
-  "title":"Смешиватель",
-    "image": {
-     "file": "tconstruct:book/images/alloyer.png"
+  "title": "Сплавщик",
+  "image": {
+    "file": "tconstruct:book/images/alloyer.png"
   },
   "text": [
     {
-      "text": "Сплавы вперёд!",
-      "paragraph": true
+		"text": "Сплавное будущее!",
+		"paragraph": true
     }
 	]
 }

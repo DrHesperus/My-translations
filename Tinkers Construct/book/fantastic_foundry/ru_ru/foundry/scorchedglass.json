@@ -1,15 +1,13 @@
 {
-  "title": "Выжженное стекло",
-  "item": {
-    "id": "tconstruct:scorched_glass"
-  },
+  "title": "Scorched Glass",
+  "item": "tconstruct:scorched_glass",
   "text": [
     {
-      "text": "Через это стекло можно смотреть на ваши фантастические расплавленные материалы, не замедляя работу литейной печи. Обратите внимание, что в отличие от резервуаров, в нём нельзя хранить жидкость.",
+      "text": "Looking at your mighty marvels of molten materials without invalidating your fantastic foundry can be done with this glass. Do note it doesn't store fluid unlike tanks.",
       "paragraph": true
     },
 	{
-      "text": "Стекло нельзя использовать для пола литейной печи.",
+      "text": "Glass cannot be used for the floor of the foundry.",
       "paragraph": true
     }
   ]

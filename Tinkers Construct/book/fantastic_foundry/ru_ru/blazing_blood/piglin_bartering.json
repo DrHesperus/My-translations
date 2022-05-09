@@ -1,5 +1,5 @@
 {
-  "title": "Обмен",
+  "title": "Bartering",
   "image": {
     "file": "tconstruct:book/images/bartering.png",
     "width": 128,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "А Вы не склонны к насилию?  Ну, я видел, как некоторые из этих пиглинов несли фонари, наполненные какой-то огненной жидкостью, думаю, они используют её для освещения. Они могут расстаться с ними за определённую плату.",
+      "text": "What, you a non-violent type? Well, I have seen some of those piglins carrying lanterns filled with some blazing liquid, think they use it for lighting. They might part with it for a price.",
       "paragraph": true
     }
   ]

@@ -1,11 +1,9 @@
 {
-  "title": "Выжженный жёлоб",
-  "item": {
-    "id": "tconstruct:scorched_chute"
-  },
+  "title": "Scorched Chute",
+  "item": "tconstruct:scorched_chute",
   "text": [
     {
-      "text": "Жёлоб — это способ ввода/вывода предметов в литейную печь и из неё. Лучше всего поставить его где-нибудь в легкодоступном для воронки месте.",
+      "text": "The scorched chute is your way to input/output items in and out of the foundry. Best placed somewhere easily accessible by a hopper.",
       "paragraph": true
     }
 	]

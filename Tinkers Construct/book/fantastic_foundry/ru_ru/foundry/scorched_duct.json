@@ -1,15 +1,13 @@
 {
-  "title": "Выжженный туннель",
-  "item": {
-    "id": "tconstruct:scorched_duct"
-  },
+  "title": "Scorched Duct",
+  "item": "tconstruct:scorched_duct",
   "text": [
     {
-      "text": "Выжженный туннель — это способ извлечь определённую жидкость из литейной печи. Жидкость выбирается путём помещения медного сосуда или ведра, наполненного жидкостью, в слот фильтра туннеля.",
+      "text": "The seared duct is your way to pull a specific fluid out of the foundry. The fluid is chosen by putting a copper can or bucket full of that liquid in the duct's filter slot.",
       "paragraph": true
     },
 	{
-      "text": "Жидкость, которую вы выбрали для фильтрации, будет отображаться в центре туннеля.",
+      "text": "The fluid that you have selected to be filtered will show on the middle of the duct.",
       "paragraph": true
     }
 	]

@@ -957,7 +957,7 @@
 "multiblock.tconstruct.generic.invalid_floor_frame": "Недопустимый блок на краях пола.",
 "multiblock.tconstruct.generic.invalid_ceiling_frame": "Недопустимый блок на краях потолка.",
 
-"multiblock.tconstruct.tiny.no_fuel_tank": "Для работы топливный резервуар / нагреватель должен ставиться выше.",
+"multiblock.tconstruct.tiny.no_fuel_tank": "Для работы топливный бак или нагреватель должен ставиться выше.",
 
 
 "_comment": "Tinkers Smeltery",
@@ -1425,7 +1425,7 @@
 "__comment": "Tier 3 Materials",
 "material.tconstruct.slimesteel": "Слизневая сталь",
 "material.tconstruct.slimesteel.flavor": "Ты можешь стащить слизь для получения слизневой стали.",
-"material.tconstruct.slimesteel.encyclopedia": "Даёт 25 доп. слизневого покрытия, +50% общей на каждый уровень.",
+"material.tconstruct.slimesteel.encyclopedia": "Даёт 25 дополнительного слизневого покрытия, +50% общей на каждый уровень.",
 
 "material.tconstruct.nahuatl": "Науатль",
 "material.tconstruct.nahuatl.flavor": "Это не обсидиановая деталь, если было бы так, сказал бы \"Обсидиан\".",
@@ -1790,11 +1790,11 @@
 
 "_comment": "Armor - counterattack",
 "modifier.tconstruct.thorns": "Шипы",
-"modifier.tconstruct.thorns.flavor": "Довольно металлический",
+"modifier.tconstruct.thorns.flavor": "Довольно металлические.",
 "modifier.tconstruct.thorns.description": "Использовать силу стражника, причиняя нападающим иногда получать урон.",
 "modifier.tconstruct.thorns.attack_damage": "Пронзающий урон",
 "modifier.tconstruct.sticky": "Липучий",
-"modifier.tconstruct.sticky.flavor": "Как Хэллоуин",
+"modifier.tconstruct.sticky.flavor": "Как Хэллоуин.",
 "modifier.tconstruct.sticky.description": "Нападающие могут заклиниваться на месте, или по крайней мере замедлиться.",
 "modifier.tconstruct.springy": "Пружинистый",
 "modifier.tconstruct.springy.flavor": "Ка-бум!",
@@ -2602,7 +2602,7 @@
 "_comment": "Foundry Advancements",
 "advancements.tconstruct.foundry.fantastic_foundry.title": "Выплавка в незере",
 "advancements.tconstruct.foundry.fantastic_foundry.description": "Создай фантастическую литейную, справочник выплавка в незере.",
-"advancements.tconstruct.foundry.alloyer.title": "Основной сплавитель",
+"advancements.tconstruct.foundry.alloyer.title": "Основной сплавщик",
 "advancements.tconstruct.foundry.alloyer.description": "Создай начальную конструкцию легирования используя сплавитель, топливный резервуар, несколько резервуаров для слитков, разливочный стол, разливочный ковш и горн.",
 "advancements.tconstruct.foundry.structure.title": "Фантастическая литейная",
 "advancements.tconstruct.foundry.structure.description": "Создай регулятор литейной из расплавленного обсидиана, построй литейную и открой интерфейс литейной.",
