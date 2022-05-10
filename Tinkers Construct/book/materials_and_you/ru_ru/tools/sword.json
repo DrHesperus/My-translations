@@ -2,14 +2,14 @@
   "tool": "tconstruct:sword",
   "text": [
     {
-      "text": "Меч — это универсальное оружие. Он имеет средний урон и позволяет вам отбиваться сразу от нескольких врагов с помощью разящей атаки, сохраняя при этом другую руку свободной."
+      "text": "The sword is a versatile weapon. It has average damage and allows you to knock back multiple enemies at once with a sweep attack, all while keeping your other hand free."
     },
     {
       "text": "\n"
     }
   ],
   "properties": [
-    "Средний урон",
-    "Разящая атака"
+    "Medium Damage",
+    "Sweep attack"
   ]
 }

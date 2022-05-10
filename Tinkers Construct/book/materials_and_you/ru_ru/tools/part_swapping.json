@@ -1,5 +1,5 @@
 {
-  "title": "Замена частей",
+  "title": "Part Swapping",
   "image": {
     "file": "tconstruct:book/images/part_swapping.png",
     "width": 136,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Вы когда-нибудь хотели исправить ошибку прошлого? К счастью, это можно сделать на инструментах. Если Вы хотите заменить материал одной из частей, положите инструмент вместе с новой частью на Литейную Станцию. Для инструментов с несколькими одинаковыми частями, попробуйте использовать несколько разных слотов, чтобы заменить нужную. ",
+      "text": "Ever wish you could undo a past mistake? Luckily you can on tools. If you want to change the material of one of the parts, place the tool with the desired new part in the tinker station. For tools that have multiple of the same part, try a few different slots to replace the right one.",
       "paragraph": false
     }
   ]

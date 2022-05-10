@@ -1,19 +1,19 @@
 {
-  "title":"Объявления",
+  "title": "Advertisements",
   "text": [
     {
-      "text": "Скоро появится на книжных полках рядом с вами."
+      "text": "Coming soon to bookshelves near you."
     },
     {
-      "text": "ИТАК, ЛИТЕЙЩИКИ, СЛУШАЙТЕ. Я — единственный и неповторимый §lTHRUUL M'GON§r, и две мои новые книги §oВыплавка для начинающих§r и §oВыплавка для знатоков§r научат Вас использовать материалы гораздо лучше, плавить металлы, смешивать, и МНОГОМУ ДРУГОМУ.",
+      "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only §lTHRUUL M'GON§r and my two new upcoming books §oPuny Smelting§r and §oMighty Smelting§r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE.",
 	  "paragraph": true
     },
     {
-      "text": "У меня есть куча вещей из слизи, пороха и всего самого странного, что только можно придумать! Они скоро появятся в §oЛитейных гаджетах§r от Melvin",
+      "text": "I've got a whole lot of stuff made out of slime, gunpowder, and all the weirdest stuff that you could possibly think of! Coming soon in §oTinker's Gadgetry§r by Melvin",
       "paragraph": true
     },
 	 {
-      "text": "Нет ничего более фантастического, чем литьё . Узнайте об этом больше в книге §oФантастическое литьё§r от Namea",
+      "text": "There is nothing quite as fantastic as a foundry. Learn more in  §oFantastic Foundry§r by Namea",
       "paragraph": true
     }
   ]

@@ -2,18 +2,18 @@
   "tool": "tconstruct:mattock",
   "text": [
     {
-      "text": "Кирко-мотыга — это универсальный инструмент. Он эффективен для дерева и земли."
+      "text": "The Mattock is a versatile tool. It is effective on logs and dirt."
     },
     {
       "text": "\n"
     },
     {
-      "text": "Может проложить тропу к славе."
+      "text": "It can create the farm of your dreams."
     }
   ],
   "properties": [
-    "Прокладывает тропы",
-    "Эффективен для дерева и земли",
-	"Увеличивает отбрасывание"
+    "Tills dirt",
+    "Effective on dirt and logs",
+    "Extra knockback"
   ]
 }

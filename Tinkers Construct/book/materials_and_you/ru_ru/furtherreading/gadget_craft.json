@@ -1,3 +1,10 @@
 {
-    "recipe": "tconstruct:common/tinkers_gadgetry"
+  "title": "Создание оборудовании литейщика",
+  "recipe": "tconstruct:common/tinkers_gadgetry",
+  "grid_size": "small",
+  "description": [
+    {
+		"text": "Варианты применения слизи в ежедневных делах. Руководство от Melvin о том, как найти в мире материалы для манипуляции."
+	}
+  ]
 }

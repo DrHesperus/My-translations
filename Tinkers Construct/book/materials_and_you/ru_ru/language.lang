@@ -1,12 +1,12 @@
-intro=Introduction
+intro=Ознакомление
 
-tier_one_materials=Tier 1 Materials
-tier_one_materials.subtext=Materials are the first part to making any tool. These materials can be placed in the part builder to create tool parts.
+tier_one_materials=Материалы 1 уровня
+tier_one_materials.subtext=Материалы — это первая часть для создания любого рода инструмента. Эти материалы можно поместить в Сборщик частей, чтобы создать части инструмента.
 
-tools=Tools
+tools=Инструменты
 
-armor=Traveler's Gear
-armor.subtext=Traveler's Gear is crafted using a crafting station! This suit doesn't offer the best defense, but there are still many opportunities to upgrade your suit of armor! Oh what fun things will you create?
+armor=Одежда путешественника
+armor.subtext=Одежда путешественника изготавливается при использовании Мастерской! Этот костюм не обладает лучшей защитой, но тем не менее есть много возможностей для улучшения своих воинских доспехов! Какие забавные вещи ты создашь?
 
-modifiers=Modifiers
-further_reading=Further Reading
+modifiers=Модификаторы
+further_reading=Дополнительные материалы

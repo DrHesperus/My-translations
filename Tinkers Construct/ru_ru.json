@@ -111,7 +111,7 @@
 "block.tconstruct.raw_cobalt_block": "Блок рудного кобальта",
 
 "block.tconstruct.cobalt_block": "Блок кобальта",
-"block.tconstruct.cobalt_block.tooltip": "Можно применить в качестве основания маяка.",
+"block.tconstruct.cobalt_block.tooltip": "Можно использовать в качестве основания маяка.",
 "item.tconstruct.cobalt_ingot": "Слиток кобальта",
 "item.tconstruct.cobalt_nugget": "Кусочек кобальта",
 
@@ -138,22 +138,22 @@
 "__comment": "Tier 4 Metals",
 
 "block.tconstruct.manyullyn_block": "Блок манилина",
-"block.tconstruct.manyullyn_block.tooltip": "Можно применить в качестве основания маяка.",
+"block.tconstruct.manyullyn_block.tooltip": "Можно использовать в качестве основания маяка.",
 "item.tconstruct.manyullyn_ingot": "Слиток манилина",
 "item.tconstruct.manyullyn_nugget": "Кусочек манилина",
 
 "block.tconstruct.hepatizon_block": "Блок гепатизона",
-"block.tconstruct.hepatizon_block.tooltip": "Можно применить в качестве основания маяка.",
+"block.tconstruct.hepatizon_block.tooltip": "Можно использовать в качестве основания маяка.",
 "item.tconstruct.hepatizon_ingot": "Слиток гепатизона",
 "item.tconstruct.hepatizon_nugget": "Кусочек гепатизона",
 
 "block.tconstruct.queens_slime_block": "Блок из слизи королевы",
-"block.tconstruct.queens_slime_block.tooltip": "Можно применить в качестве основания маяка.",
+"block.tconstruct.queens_slime_block.tooltip": "Можно использовать в качестве основания маяка.",
 "item.tconstruct.queens_slime_ingot": "Слиток из слизи королевы",
 "item.tconstruct.queens_slime_nugget": "Кусочек из слизи королевы",
 
 "block.tconstruct.soulsteel_block": "Блок стали душ",
-"block.tconstruct.soulsteel_block.tooltip": "Можно применить в качестве основания маяка.",
+"block.tconstruct.soulsteel_block.tooltip": "Можно использовать в качестве основания маяка.",
 "item.tconstruct.soulsteel_ingot": "Слиток стали душ",
 "item.tconstruct.soulsteel_nugget": "Кусочек стали душ",
 
@@ -806,13 +806,13 @@
 
 "block.tconstruct.part_builder": "Сборщик частей",
 
-"block.tconstruct.part_chest": "Сундук частей",
+"block.tconstruct.part_chest": "Сундук для частей",
 "block.tconstruct.part_chest.tooltip": "Хранит до 256 различных частей для инструмента.",
 
 "block.tconstruct.tinkers_chest": "Сундук литейщика",
 "block.tconstruct.tinkers_chest.tooltip": "Хранит до 16 предметов, складываемых до 64.",
 
-"block.tconstruct.cast_chest": "Сундук для форм",
+"block.tconstruct.cast_chest": "Сундук для литейных форм",
 "block.tconstruct.cast_chest.tooltip": "Хранит все важные литейные формы.",
 
 "item.tconstruct.pattern": "Модель",
@@ -2379,8 +2379,8 @@
 "gui.tconstruct.part_builder.uncraftable.tooltip": "Материал не может быть сформирован в строителе частей. Необходимы другие методы например: литейная форма.",
 
 "gui.tconstruct.tinkers_chest": "Сундук литейщика",
-"gui.tconstruct.cast_chest": "Сундук литейных формы",
-"gui.tconstruct.part_chest": "Сундук частей",
+"gui.tconstruct.cast_chest": "Сундук для литейных формы",
+"gui.tconstruct.part_chest": "Сундук для частей",
 
 "gui.tconstruct.tinker_station": "Литейное рабочее место",
 "gui.tconstruct.tinker_station.repair": "Ремонт и Изменение",
@@ -2540,10 +2540,10 @@
 "jei.tconstruct.alloy.title": "Легирование",
 
 "jei.tconstruct.modifiers.title": "Модификаторы",
-"jei.tconstruct.modifiers.slot": "Требуется 1 слот %s, чтобы применить модификатор.",
-"jei.tconstruct.modifiers.slots": "Требуется %s слотов %s, чтобы применить модификатор.",
-"jei.tconstruct.modifiers.free": "Чтобы применить, слот модификатора не требуется.",
-"jei.tconstruct.modifiers.incremental": "Рецепт поэтапный, ты можешь применить входную часть для неполного эффекта.",
+"jei.tconstruct.modifiers.slot": "Требуется 1 слот %s для наложения модификатора.",
+"jei.tconstruct.modifiers.slots": "Требуется %s слотов %s для наложения модификатора.",
+"jei.tconstruct.modifiers.free": "Чтобы наложить, слот модификатора не требуется.",
+"jei.tconstruct.modifiers.incremental": "Рецепт поэтапный, ты можешь наложить входную часть для неполного эффекта.",
 "jei.tconstruct.modifiers.max": "Максимально: ",
 
 "jei.tconstruct.severing.title": "Отсечение",

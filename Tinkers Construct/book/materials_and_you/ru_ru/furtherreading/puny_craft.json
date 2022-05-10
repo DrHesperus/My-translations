@@ -1,3 +1,10 @@
 {
-    "recipe": "tconstruct:common/puny_smelting"
+  "title": "Создание слабой выплавки",
+  "recipe": "tconstruct:common/puny_smelting",
+  "grid_size": "small",
+  "description": [
+    {
+		"text": "Руководство по выплавке и литью для начинающих. Первая в серии от Thruul M'Gon о плавильне."
+	}
+  ]
 }

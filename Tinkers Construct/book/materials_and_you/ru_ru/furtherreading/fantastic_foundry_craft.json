@@ -1,3 +1,10 @@
 {
-    "recipe": "tconstruct:common/fantastic_foundry"
+  "title": "Создание фантастической литейной",
+  "recipe": "tconstruct:common/fantastic_foundry",
+  "grid_size": "small",
+  "description": [
+    {
+		"text": "Последний писк технологии в переплавке металлов. Пропусти плавильню, начни с литейной!"
+	}
+  ]
 }

@@ -2,19 +2,19 @@
   "tool": "tconstruct:pickaxe",
   "text": [
     {
-      "text": "Кирка — это точный инструмент для копания. Он эффективен для камня и руд."
+      "text": "The Pickaxe is a precise mining tool. It is effective on stone and ores."
     },
     {
       "text": "\n"
     },
     {
-      "text": "Она ломает блоки, ЯСНО?"
+      "text": "It breaks blocks, OK?"
     }
   ],
   "properties": [
-    "Базовый инструмент для добывания",
-    "Это — кирка",
-    "Добывает каменные типы блоков и подобные",
-    "Бонус в виде пронзающего урона"
+    "Basic mining tool",
+    "It's a pickaxe",
+    "Mines stone blocks and similar",
+    "Bonus piercing damage"
   ]
 }

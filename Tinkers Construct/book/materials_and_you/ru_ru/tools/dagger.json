@@ -2,15 +2,15 @@
   "tool": "tconstruct:dagger",
   "text": [
     {
-      "text": "Кинжал — универсальное оружие для быстрого воина. Он имеет низкий урон при высокой скорости, позволяющей наносить быстрые атаки. Кинжал можно использовать во второй руке для нанесения двойного удара "
+      "text": "The dagger is a versatile weapon for the quick warrior. It has low damage with higher speed allowing for quick fast attacks. The dagger is also able to be used in your off-hand for double the daggers."
     },
     {
       "text": "\n"
     }
   ],
   "properties": [
-    "Низкий урон",
-	"Высокая скорость",
-    "Можно использовать во второй руке"
+    "Low Damage",
+	"High Speed",
+    "Able to use in off-hand"
   ]
 }

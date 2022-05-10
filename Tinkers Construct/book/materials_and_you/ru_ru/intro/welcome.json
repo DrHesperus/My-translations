@@ -1,15 +1,15 @@
 {
-  "title":"Материалы и Вы",
+  "title": "Materials & You",
   "text": [
     {
-      "text": "Добро пожаловать в третье издание книги Материалы и Вы: Выживи один день или больше. Похоже, что некоторые мои литейные знания были утеряны. Но возможно, с новыми версиями они восполнятся."
+      "text": "Welcome to the third edition of Materials & You: Surviving the first day and beyond. It looks like some my Tinker's knowledge has been lost. Perhaps I'll remember more with newer versions."
     },
     {
-      "text": "Эта книга в настоящее время не завершена, но в ней содержится тот контект, который уже выпущен. Она будет обновляться по мере того, как мод будет пополняться новым контентом!",
+      "text": "This book is currently incomplete, but it contains the content that is released. It will be updated as the mod gets updated with more content!",
       "paragraph": true
     },
     {
-      "text": "Если вас интересуют изменения в последней выпущенной версии, загляните на страницу \"Что нового\", которая связана с GitHub или Дискордом SlimeKnights. К сожалению, я не смог разобраться со ссылками, поэтому не могу их вам предоставить",
+      "text": "If you are wondering about the changes in the newest version, check the \"What's New\" page, linked from GitHub or on the SlimeKnights Discord. Sadly I couldn't figure out links so I can't link them to you",
       "paragraph": true
     }
   ]
