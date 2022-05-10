@@ -1,16 +1,16 @@
 {
-  "title": "Scorched Tanks",
+  "title": "Выжженные баки",
   "item": {
     "tag": "tconstruct:scorched_tanks"
   },
   "text": [
      {
-      "text": "Tanks are good for storing molten fluids or fuels. If you want to melt metals in your foundry you'll need one! Tanks can also be poured into from the foundry if you want to store stuff for later.",
-      "paragraph": true
+		"text": "Баки хороши для хранения расплавленных жидкостей или топлива. Если тебе захочется плавить металлы в своей литейной, тебе понадобится один! Ещё в баки можно налить металлы из литейной, если ты хочешь сохранить материал на потом.",
+		"paragraph": true
     },
     {
-      "text": "Tanks cannot be used for the floor of the foundry.",
-      "paragraph": true
+		"text": "Баки не могут быть предназначены для пола литейной.",
+		"paragraph": true
     }
   ]
 }

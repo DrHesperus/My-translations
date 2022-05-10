@@ -1,11 +1,11 @@
 {
-  "title": "Foundry Controller",
+  "title": "Регулятор литейной",
   "image": {
     "file": "tconstruct:book/images/fcontroller.png"
   },
   "text": [
     {
-      "text": "Pouring one block's worth of obsidian from an alloyer on scorched bricks will grant you with this mystical Foundry Controller."
+		"text": "Вылив 1 блок обсидиана из сплавщика на выжженные кирпичи, ты получишь с этими словами мистический Регулятор литейной."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "title": "Blazing Blood",
+  "title": "Пылающая кровь",
   "image": {
     "file": "tconstruct:book/images/manyullyn_alloy.png",
     "width": 179,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "So Tinker, you are trying to make better alloys, and found lava is too weak? Why not liquefy the essence of living blazes to fuel your desires?",
+      "text": "Итак Литейщик, ты попытался сделать хорошие сплавы, и вообще найденная лава слишком слаба? Почему бы не расплавить эссенцию живых ифритов в топливо для своих потребностей?",
       "paragraph": true
     }
   ]

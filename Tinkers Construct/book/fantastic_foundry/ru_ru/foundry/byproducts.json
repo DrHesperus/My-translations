@@ -1,16 +1,16 @@
 {
-  "title": "Byproducts",
+  "title": "Побочные продукты",
   "text": [
     {
-      "text": "My Fantastic Foundry will give you byproducts from your ores. You may be asking 'But Nemea what are these byproducts?' Well just read a bit further and find out."
+		"text": "Моя фантастическая литейная будет давать тебе побочные продукты из руд. Ты, вероятно, спросишь 'Но Nemea, что это за побочные продукты?' Ну, просто прочти немного дальше и найдёшь."
     },
     {
-      "text": "Byproducts are the hidden extras inside your ores that you would not normally be able to achieve with a simple furnace. A bit of extra material of some other kind that is hidden in the rock.",
-      "paragraph": true
+		"text": "Побочные продукты — это скрытые дополнительные материалы внутри руд, которые обычно не удаётся получить с помощью обычной печи. Немного какого-то дополнительного материала, что скрыт в камне.",
+		"paragraph": true
     },
     {
-      "text": "A couple of examples: copper ore gives gold as a byproduct, and cobalt ore gives iron as a byproduct.",
-      "paragraph": true
+		"text": "Пара примеров: медная руда даст золота в качестве побочного продукта, а вот кобальтовая руда даст железо в качестве побочного продукта.",
+		"paragraph": true
     }
   ]
 }

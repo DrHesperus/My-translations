@@ -1,16 +1,16 @@
 {
-  "title": "Foundry GUI",
+  "title": "GUI литейной",
   "text": [
     {
-      "text": "1: This is where your items go that you want smelted. The number of slots will change depending on the size of your foundry."
+		"text": "1: Эта место, куда отправляются твои предметы на переплавку. Число слотов будет меняться, в зависимости от размера твоей литейной."
     },
     {
-      "text": "2: This is where your molten materials can be seen. You can click on one to select it for pouring, hovering over the blank section will give you details about the capacity of the foundry.",
-      "paragraph": true
+		"text": "2: Это место, где ты можешь видеть свои переплавленные материалы. Ты можешь нажать на одну, чтобы выбрать её на слив разливку, наведя курсор на заготовительный участок, ты получишь подробности о ёмкости литейной.",
+		"paragraph": true
     },
     {
-      "text": "3: This is where you can see your fuel. Hovering over it will show the exact amount and type.",
-      "paragraph": true
+		"text": "3: Это место, где ты можешь видеть своё топливо. Наведя курсор, покажет тебе точное количество и тип.",
+		"paragraph": true
     }
   ]
 }

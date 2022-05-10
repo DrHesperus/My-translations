@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:melting",
   "text": [
     {
-      "text": "Foundry not portable enough? Try turning your tool into a handheld foundry! Perhaps Thruul is smart enough to make something worthwhile after all."
+      "text": "Литейная недостаточно переносная? Попробуй превратить свой инструмент в ручную литейную! А ведь, весьма возможно Thruul достаточно умен, чтобы сделать что-то стоящее."
     }
   ],
   "effects": [
-    "Melts attacked mobs into the tool's tank",
-    "Dropped items also are melted if possible",
-    "Tool can be emptied into a tank or a smeltery",
-    "Requires 1 Ability Slot, single use"
+    "Плавит атакуемых монстров в бак инструмента.",
+    "По возможности плавит выпавшие предметы.",
+    "Инструмент можно опустошать в бак или плавильню.",
+    "Требует 1 слот способности, разовое применение."
   ]
 }

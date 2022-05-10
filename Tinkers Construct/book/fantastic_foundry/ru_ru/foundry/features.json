@@ -1,14 +1,32 @@
 {
-  "title": "Features",
+  "title": "Возможности",
   "text": [
-    { "text": "• Gives +6 nuggets per ore" },
-    { "text": "\n• Gives byproducts from ores" },
-    { "text": "\n• The foundry cannot alloy which is a superior breakthrough so you never have to worry about accidentally mixing materials again" },
-    { "text": "\n• Can hold multiple metals" },
-    { "text": "\n• Extendable capacity" },
-    { "text": "\n• Much larger storage capacity than the puny smeltery" },
-    { "text": "\n• Can melt blocks that give multiple outputs" },
-    { "text": "\n• Fuel efficiency depends on size " },
-    { "text": "\n• Useful for Nether-only runs and mass storage of liquids " }
+    {
+		"text": "• Даёт +6 кусочков с каждой руды."
+	},
+    {
+		"text": "\n• Даёт побочные продукты из руд."
+	},
+    {
+		"text": "\n• Литейная не может сплавлять, что является техническим достижением, поэтому тебе больше не придётся беспокоиться о случайном смешивании материалов."
+	},
+    {
+		"text": "\n• Может хранить несколько металлов."
+	},
+    {
+		"text": "\n• Расширяемая ёмкость."
+	},
+    {
+		"text": "\n• Намного больше ёмкость хранилища, чем у жалкой плавильни."
+	},
+    {
+		"text": "\n• Может плавить блоки, которые дают несколько продукции."
+	},
+    {
+		"text": "\n• Эффективность сжигания топлива зависит от размера."
+	},
+    {
+		"text": "\n• Пригодна только для работы в Незере и хранения большого количества жидкостей."
+	}
   ]
 }

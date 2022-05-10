@@ -1,5 +1,5 @@
 {
-  "title": "Bartering",
+  "title": "Торг",
   "image": {
     "file": "tconstruct:book/images/bartering.png",
     "width": 128,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "What, you a non-violent type? Well, I have seen some of those piglins carrying lanterns filled with some blazing liquid, think they use it for lighting. They might part with it for a price.",
+      "text": "Чего, ты ненасильственный тип? Ну, я видел некоторых из этих пиглинов, несущие фонари, наполненные какой-то пылающей жидкостью, думаю, они используют её для освещения. Они могут отдать его за плату.",
       "paragraph": true
     }
   ]
