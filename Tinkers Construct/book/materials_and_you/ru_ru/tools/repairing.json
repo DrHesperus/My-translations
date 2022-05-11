@@ -1,5 +1,5 @@
 {
-  "title": "Repairing",
+  "title": "Починка",
   "grid_size": "small",
   "grid": [
     [
@@ -40,7 +40,7 @@
   },
   "description": [
     {
-      "text": "Repairing your tool is an important thing to do, unless you want it to break. In Tinker Station or Tinker Anvil place the tool and material of the head/plate and it will repair. Alternatively, you can use repair kits, which work in crafting tables!",
+      "text": "Починка своего инструмента — это важное дело, если ты не хочешь его сломать. В Литейном рабочем месте или Наковальни литейщика помести инструмент и материал части головки/пластину и он починится. В качестве альтернативного варианта, ты можешь использовать ремкомплекты, которые работают в верстаках!",
       "paragraph": true
     }
 	]

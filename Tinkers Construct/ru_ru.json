@@ -175,7 +175,7 @@
 "item.tconstruct.encyclopedia.tooltip": "Справочник для каждых потребностей литейщика.\nАвтор Selena",
 
 "item.tconstruct.tinkers_gadgetry": "Оборудование литейщика",
-"item.tconstruct.tinkers_gadgetry.tooltip": "Книга применение слизи в повседневных задачах.\nАвтор Melvin.",
+"item.tconstruct.tinkers_gadgetry.tooltip": "Книга использования слизи в ежедневных задачах.\nАвтор Melvin",
 
 "item.tconstruct.puny_smelting": "Слабая выплавка",
 "item.tconstruct.puny_smelting.tooltip": "Руководство по выплавке и литью для начинающих.\nАвтор Thruul M'Gon",
@@ -2593,11 +2593,11 @@
 "advancements.tconstruct.smeltery.structure.title": "Сильная выплавка",
 "advancements.tconstruct.smeltery.structure.description": "Создай регулятор плавильни из расплавленной литейной меди, построй плавильню и открой интерфейс плавильни.",
 "advancements.tconstruct.smeltery.tinkers_anvil.title": "Прогрессивное изготовление инструментов",
-"advancements.tconstruct.smeltery.tinkers_anvil.description": "Создай наковальню литейщика используя сплавы из плавильни!",
+"advancements.tconstruct.smeltery.tinkers_anvil.description": "Создай наковальню литейщика, используя сплавы из плавильни!",
 "advancements.tconstruct.smeltery.tool_forge.title": "Инструментальная кузница",
 "advancements.tconstruct.smeltery.tool_forge.description": "Скуй каждый широколезвийный инструмент в наковальне.",
-"advancements.tconstruct.smeltery.abilities.title": "Мастер в умениях",
-"advancements.tconstruct.smeltery.abilities.description": "Примени хотя бы раз каждый стандартный модификатор умения в инструмент.",
+"advancements.tconstruct.smeltery.abilities.title": "Мастер в способностях",
+"advancements.tconstruct.smeltery.abilities.description": "Примени хотя бы раз каждый стандартный модификатор способности в инструмент.",
 
 "_comment": "Foundry Advancements",
 "advancements.tconstruct.foundry.fantastic_foundry.title": "Выплавка в незере",

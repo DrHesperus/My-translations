@@ -2,18 +2,18 @@
   "tool": "tconstruct:mattock",
   "text": [
     {
-      "text": "The Mattock is a versatile tool. It is effective on logs and dirt."
+      "text": "Киркомотыга — это универсальное инструментальное средство. Она эффективна по отношению к брёвнам и земле."
     },
     {
       "text": "\n"
     },
     {
-      "text": "It can create the farm of your dreams."
+      "text": "Она может создавать пашню твоей мечты."
     }
   ],
   "properties": [
-    "Tills dirt",
-    "Effective on dirt and logs",
-    "Extra knockback"
+    "Пашет землю.",
+    "Эффективна по отношению к брёвнам и земле.",
+    "Дополнительно отбрасывает."
   ]
 }

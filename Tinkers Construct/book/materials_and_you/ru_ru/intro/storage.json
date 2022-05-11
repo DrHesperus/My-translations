@@ -1,15 +1,15 @@
 {
-  "title": "Storage Chests",
+  "title": "Сундуки",
   "text": [
     {
-      "text": "So, you want to store your extra parts in a special chest, eh? If not, too bad you have the option anyway. "
+      "text": "Итак, тебе хочется хранить лишние части в конкретном сундуке, да? Если нет, жаль, что в любом случае у тебя выбор есть."
     },
     {
-      "text": "Part chests allow you to store an abundance of extra parts you may have. Each slot can hold a stack of 8 parts max. If you need more than that, you're doing something wrong or have very convoluted recipes.",
+      "text": "Сундуки для частей позволят тебе хранить множество дополнительных частей, которые у тебя могут быть. Каждый слот может хранить максимум стэк из 8 частей. Если тебе нужно больше, ты делаешь что-то не так или же у тебя очень сложные рецепты.",
       "paragraph": true
     },
     {
-      "text": "Oh, that chest is too restrictive? Try the tinkers' chest! It can store any item in a total of 64 slots, though each slot holds just 16 items.",
+      "text": "Ах, этот сундук слишком ограничительный? Попробуй сундук литейщика! Он может хранить любой предмет в общей сложности 64 в каждом слоте, хотя, каждый слот хранит только 16 предметов.",
       "paragraph": true
     }
   ]

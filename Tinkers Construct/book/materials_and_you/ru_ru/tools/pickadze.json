@@ -2,19 +2,19 @@
   "tool": "tconstruct:pickadze",
   "text": [
     {
-      "text": "Proper name for this tool would be a pick mattock, but people like the familiar."
+      "text": "Не патентованное название для этого инструмента должно быть киркомотыга, но людям нравится привычное."
     },
     {
       "text": "\n"
     },
     {
-      "text": "It can create paths to glory."
+      "text": "Оно может создать тропинки к триумфу."
     }
   ],
   "properties": [
-    "Creates paths",
-    "Mines stone blocks and similar",
-    "Breaks soft dirts and gravel",
-    "Harvest level limited to wood"
+    "Создаёт тропинки.",
+    "Добывает каменные и аналогичные блоки.",
+    "Разрушает мягкую землю и гравий.",
+    "Уровень добычи ограничен до деревянного"
   ]
 }

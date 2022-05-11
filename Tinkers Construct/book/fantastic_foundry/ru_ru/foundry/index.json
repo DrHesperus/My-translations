@@ -3,8 +3,22 @@
   "subText": "Нет ничего более фантастического, как Литейная.",
   "hidden": ["structurereq", "fgui2"],
   "operations": [
-    { "before": "features", "action": "add_group", "data": "Подробности" },
-    { "before": "scorched_tanks", "action": "column_break" },
-    { "before": "scorched_tanks", "action": "add_group", "data": "Блоки" }
+    {
+		"before":
+		"features",
+		"action": "add_group",
+		"data": "Подробности"
+	},
+    {
+		"before":
+		"scorched_tanks",
+		"action": "column_break"
+	},
+    {
+		"before":
+		"scorched_tanks",
+		"action": "add_group",
+		"data": "Блоки"
+	}
   ]
 }

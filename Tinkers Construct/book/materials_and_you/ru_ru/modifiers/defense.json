@@ -1,16 +1,16 @@
 {
-  "title": "Defense Modifiers",
+  "title": "Защитные модификаторы",
   "text": [
     {
-      "text": "Defense are a type of modifier exclusive to armor, boosting protection against particular threats such as fire or knockback. They provide another way to customize armor as most armor types lack material traits."
+		"text": "Защита — это тип модификатора, уникальный для брони, повышающий защиту от особых угроз, таких как огонь или отбрасывание. Они предоставляют ещё один способ модифицирования брони, поскольку большинство типов брони не имеют материальных особенностей."
     },
     {
-      "text": "Like many other modifier types, defense modifiers require defense slots to be applied. Typically, armor with a large number of defense slots start with fewer upgrade slots, meaning functionality is sacrificed for protection.",
-      "paragraph": true
+		"text": "Как и множество других типов модификатора, для налаживания защитные модификаторы требуют слоты защиты. Как правило, броня с большим количеством слотов защиты начинаются с несколькими слотами улучшения, что означает возможности жертвуются в пользу защиты.",
+		"paragraph": true
     },
 	 {
-      "text": "Mighty Smelting also has a full list of defense modifiers available on tools, along with the Encyclopedia of Tinkering.",
-      "paragraph": true
+		"text": "Ещё сильная выплавка имеет полный список защитных модификаторов, доступные для инструментов, как и в Металлургической энциклопедии.",
+		"paragraph": true
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "title": "Abilities",
+  "title": "Способности",
   "text": [
     {
-      "text": "Abilities are powerful modifiers that drastically change a tool. Modifiers such as silk touch and autosmelt are notable as both change the effects of mining blocks, while dual wielding makes tools much easier to handle."
+		"text": "Способности — это мощные модификаторы, которые коренным образом изменяют инструмент. Модификаторы, такие как шёлковое касание и автоплавка очень важны, так как оба изменяют эффекты добычи блоков, хотя Владение двумя руками делает обращение с инструментами намного легче."
     },
     {
-      "text": "Abilities require ability slots to be applied. Nearly all tools start with a single ability slot, and can only receive up to 1 more, so choose abilities wisely.",
-      "paragraph": true
+		"text": "Для наложения способностей требуется слоты способности. Почти все инструменты начинаются с одним слотом способности и могут получить только в объёме до 1 и больше, поэтому выбирай способности благоразумно.",
+		"paragraph": true
     },
     {
-      "text": "Thruul M'Gon's Mighty Smelting has a full list of abilities available on tools, along with the Encyclopedia of Tinkering.",
-      "paragraph": true
+		"text": "Сильная выплавка от Thruul M'Gon имеет полный список способностей, доступные для инструментов, как и в Металлургической энциклопедии.",
+		"paragraph": true
     }
   ]
 }

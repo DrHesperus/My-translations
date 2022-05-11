@@ -2,18 +2,18 @@
   "tool": "tconstruct:flint_and_brick",
   "text": [
     {
-      "text": "Flint and Brick is an affordable tool effective for starting fires."
+      "text": "Кремень и кирпич — это дешёвый инструмент, эффективный для разжигания огня."
     },
     {
       "text": "\n"
     },
     {
-      "text": "Unlike other most other tools, it is crafted in a crafting station or crafting table."
+      "text": "В отличие от других и большинство других инструментов, оно создаётся в мастерской или в верстаке."
     }
   ],
   "properties": [
-    "Creates fires",
-    "Starts with fiery 1",
-    "Repaired using seared or scorched bricks"
+    "Создаёт огни.",
+    "Начинается с Раскалённый 1",
+    "Чинится с помощью обожжённых/выжженных блоков."
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "title": "Slotless Modifiers",
+  "title": "Безслотовые модификаторы",
   "text": [
     {
-      "text": "Slotless modifiers do not require slots unlike all other types of modifiers. This typically means the modifier either has some significant tradeoff or the effect is minor."
+		"text": "Безслотовые модификаторы не требуют слоты, в отличие от всех прочих типов модификаторов. Это, как правило, означает, что модификатор либо имеет хоть какой-то существенный компромисс, или же эффект незначительный."
     },
     {
-      "text": "One notable type of slotless modifiers is bonus modifiers, which grant additional modifier slots. Many exist that grant more upgrade slots, and I am told some even exist to grant more ability slots.",
-      "paragraph": true
+		"text": "Одним из примечательных типов безслотовых модификаторов являются дополнительные модификаторы, которые дают дополнительные слоты для модификаторов. Существует значительное количество, которое дают больше слотов улучшений, и к тому же мне сказали, что некоторые из существующих дают больше слотов способностей.",
+		"paragraph": true
     },
     {
-      "text": "Thruul M'Gon's Puny Smelting has a full list of slotless modifiers available on tools, along with the Encyclopedia of Tinkering.",
-      "paragraph": true
+		"text": "Слабая выплавка Thruul M'Gon имеет полный список безслотовых модификаторов, доступные для инструментов, как и в Металлургической энциклопедии.",
+		"paragraph": true
     }
   ]
 }

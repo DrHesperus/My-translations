@@ -1,16 +1,16 @@
 {
-  "title": "Traits",
+  "title": "Особенности",
   "text": [
     {
-      "text": "Traits are inborne abilities related to the creation of the tool. They are brought out with superior quality, sympathetic magic, or by running enough energy into the tool that it starts exhibiting unusual properties."
+		"text": "Особенности — это врождённые способности, связанные с созданием инструмента. Они выявляются с превосходным качеством, колдовством, или осуществления достаточного количества энергии в инструмент, чтобы он начал проявлять необычные свойства."
     },
     {
-      "text": "There are two basic types of traits: material traits which come from the materials chosen for each part in the tool, and tool traits which are native to the type of tool crafted.",
-      "paragraph": true
+		"text": "Имеются 2 базовых типа особенностей: особенности от материалов, которые исходят от материалов, выбираемые для каждой части в инструмент, и особенности от инструмента, которые свойственны к типу создаваемого инструмента.",
+		"paragraph": true
     },
     {
-      "text": "This book, along with Thruul M'Gon's Puny and Mighty Smelting and Nemea's Fantastic Foundry all cover a tier of materials with a listing of material traits. Tool traits are covered both by this book and Mighty Smelting.",
-      "paragraph": true
+		"text": "Эта книга, вместе с «Слабая и Сильная выплавка», а также «Фантастическая литейная» охватывает ряд материалов со списком их особенностей. Особенности инструментов рассматриваются как в этой книге, так и в Сильной выплавке.",
+		"paragraph": true
     }
   ]
 }
