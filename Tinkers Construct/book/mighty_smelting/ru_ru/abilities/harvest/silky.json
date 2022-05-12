@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:silky",
   "text": [
     {
-      "text": "Хороший и удобный модификатор."
+      "text": "A nice comfortable modifier."
     }
   ],
   "effects": [
-    "Добываемые блоки выпадают сами",
-    "Одноуровневый",
-    "Требуется 1 слот для умений"
+    "Mined blocks drop themselves",
+    "Single Level",
+    "Requires 1 Ability Slot"
   ]
 }

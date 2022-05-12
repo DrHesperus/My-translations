@@ -1,13 +1,13 @@
 {
-  "title":"Графический интерфейс Плавильни",
-    "image": {
-     "file": "tconstruct:book/images/smeltergui.png",
-	 "width": 179,
+  "title": "Smeltery GUI",
+  "image": {
+    "file": "tconstruct:book/images/smeltergui.png",
+    "width": 179,
     "height": 74
   },
   "text": [
     {
-      "text": "Это основные элементы графического интерфейса Плавильни. Не больше, не меньше.",
+      "text": "Your basic smeltery GUI. No more, no less.",
       "paragraph": true
     }
 	]

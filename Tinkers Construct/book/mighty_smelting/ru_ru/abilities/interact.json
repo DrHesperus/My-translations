@@ -1,11 +1,11 @@
 {
-  "title":"Умения для взаимодействия",
+  "title": "Interaction Abilities",
   "text": [
     {
-      "text": "Все эти умения влияют на ваше взаимодействие."
+      "text": "These abilities all affect your interactions."
     },
     {
-      "text": "В силу своей природы некоторые умения взаимодействия будут конфликтовать.",
+      "text": "Due to their nature some interaction abilities will conflict.",
       "paragraph": true
     }
   ]

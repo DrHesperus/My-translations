@@ -1,16 +1,16 @@
 {
-  "title":"Требования к структуре",
+  "title": "Structure Requirements",
   "text": [
     {
-      "text": "Ваша плавильня имеет некоторые требования. Сделаете её слишком большой, и она станет настолько неэффективной, что для того, чтобы поддерживать её работу, вам понадобится колонна из топливных резервуаров."
+      "text": "Your smeltery has some requirements. Make it too big and it becomes so inefficient that you'd need a tower of fuel tanks bigger than the smeltery in order to run it."
     },
-	{
-      "text": "Пол правильни должен состоять из допустимых блоков плавильни, за исключением стекла. Допустимые блоки будут показаны на следующих страницах! Ваша плавильня должна быть прямоугольной, она не может быть Г-образной, круглой или додекаэдрической формы.",
-	  "paragraph": true
+    {
+      "text": "Your smeltery must have a floor made of acceptable smeltery blocks excluding glass. Acceptable blocks will be showcased in a few pages! Your smeltery also must be rectangular, it can not be L shaped, circle shaped, or dodecahedron shaped.",
+      "paragraph": true
     },
-	{
-      "text": "Максимальный внешний размер вашей плавильни — 16x16x65; внутренний — 14x14x64.",
-	  "paragraph": true
+    {
+      "text": "The max size of your smeltery is 16x16x65 external, or 14x14x64 internal.",
+      "paragraph": true
     }
   ]
 }

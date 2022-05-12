@@ -1,28 +1,22 @@
-// Sections - Mighty Smelting
-intro=Вступление
-entity_melting=Переплавка существ
-tier_three_materials=Материалы 3-го уровня
-tools=Широкие инструменты
-tools.subtext=Для создания всех широких инструментов требуется кузня
+intro=Ознакомление
+entity_melting=Плавка сущности
+tier_three_materials=Материалы 3 уровня
+tools=Широколезвийные инструменты
+tools.subtext=Для создания всех широколезвийных инструментов необходимо использовать наковальню литейщика.
 
 smeltery=Плавильня
-smeltery.features=Характеристики
-smeltery.alloying=Смешивание
-smeltery.controller=Контроллер
-smeltery.structure=Структура
-smeltery.structurereq=Структура
-smeltery.seared_tanks=Обожжённые резервуары
-smeltery.seared_blocks=Обожжённые блоки
-smeltery.seared_ladder=Обожжённая лестница
-smeltery.seared_glass=Обожжённое стекло
-smeltery.seared_drain=Обожжённый слив
-smeltery.seared_duct=Обожжённый туннель
-smeltery.seared_chute=Обожжённый жёлоб
-smeltery.sgui1=Графический интерфейс Плавильни
-smeltery.sgui2=Smeltery GUI Explanation
 
-abilities=Умения
-abilities.general=§1§lОсновные§r
-abilities.harvest=§1§lДля копания§r
-abilities.weapon=§1§lДля оружия§r
-abilities.interact=§1§lДля взаимодействия§r
+abilities=Способности
+abilities.subtext=Способности намного мощны, чем улучшения, но ещё имеют больше ограниченных слотов улучшений.
+abilities.group_general=Основные
+abilities.group_harvest=Сбор
+abilities.group_weapon=Оружие
+abilities.group_interact=Взаимодействующие
+abilities.group_armor=Броня
+abilities.unarmed=Рукопашная атака
+upgrades.subtext=Инструменты можно усилить улучшениями, хотя, можно наложить только ограниченное число для каждого инструмента.
+
+defense=Оборона
+defense.subtext=Защитные модификаторы можно наложить только на броню, при помощи слотов обороны.
+defense.group_protection=Защита
+defense.group_special=Особые

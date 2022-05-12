@@ -1,11 +1,11 @@
 {
-  "title": "Обожжённые блоки",
+  "title": "Seared Blocks",
   "item": {
     "tag": "tconstruct:seared_blocks"
   },
   "text": [
     {
-      "text": "Эти блоки можно использовать для любой части плавильни, как для пола, так и для стен. Они также полезны для украшения вашей базы.",
+      "text": "These blocks can be used for any part of the smeltery, as floors or walls. They are also useful for decorating your base.",
       "paragraph": true
     }
   ]

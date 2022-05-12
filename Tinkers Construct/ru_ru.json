@@ -1,5 +1,4 @@
 {
-"_translators_comment": "Переведено DrHesperus.",
 "_comment": "Tinkers Common",
 
 "block.tconstruct.sky_slime": "Блок небесной слизи",
@@ -26,9 +25,9 @@
 "block.tconstruct.mud_bricks_slab": "Плита из глинобитных кирпичей",
 "block.tconstruct.mud_bricks_stairs": "Ступени из глинобитных кирпичей",
 
-"block.tconstruct.lavawood": "Лава-древесина",
-"block.tconstruct.lavawood_slab": "Плита из лава-древесины",
-"block.tconstruct.lavawood_stairs": "Ступени из лава-древесины",
+"block.tconstruct.lavawood": "Магмовая древесина",
+"block.tconstruct.lavawood_slab": "Плита из магмовой древесины",
+"block.tconstruct.lavawood_stairs": "Ступени из магмовой древесины",
 
 "block.tconstruct.blazewood": "Пламенная древесина",
 "block.tconstruct.blazewood_slab": "Плита из пламенной древесины",
@@ -46,6 +45,7 @@
 "block.tconstruct.obsidian_pane": "Обсидиановое оконное стекло",
 "block.tconstruct.gold_bars": "Золотые прутья",
 "block.tconstruct.gold_bars.tooltip": "Выступает в роли пустой отливной формы в разливочных столах.",
+
 "block.tconstruct.gold_platform": "Золотая платформенная часть",
 "block.tconstruct.gold_platform.tooltip": "Выступает в роли пустой отливной формы в разливочных ковшах.",
 "block.tconstruct.iron_platform": "Железная платформенная часть",
@@ -99,7 +99,7 @@
 "block.tconstruct.soul_glass_pane": "Оконное стекло душ",
 
 "block.tconstruct.glow": "Накал",
-"block.tconstruct.silky_jewel_block": "Шёлковая драгоценность",
+"block.tconstruct.silky_jewel_block": "Блок шёлковой драгоценности",
 
 
 "__comment": "Ore Metals",
@@ -111,7 +111,7 @@
 "block.tconstruct.raw_cobalt_block": "Блок рудного кобальта",
 
 "block.tconstruct.cobalt_block": "Блок кобальта",
-"block.tconstruct.cobalt_block.tooltip": "Можно использовать в качестве основания маяка.",
+"block.tconstruct.cobalt_block.tooltip": "Можно использовать как основание маяка.",
 "item.tconstruct.cobalt_ingot": "Слиток кобальта",
 "item.tconstruct.cobalt_nugget": "Кусочек кобальта",
 
@@ -138,22 +138,22 @@
 "__comment": "Tier 4 Metals",
 
 "block.tconstruct.manyullyn_block": "Блок манилина",
-"block.tconstruct.manyullyn_block.tooltip": "Можно использовать в качестве основания маяка.",
+"block.tconstruct.manyullyn_block.tooltip": "Можно использовать как основание маяка.",
 "item.tconstruct.manyullyn_ingot": "Слиток манилина",
 "item.tconstruct.manyullyn_nugget": "Кусочек манилина",
 
 "block.tconstruct.hepatizon_block": "Блок гепатизона",
-"block.tconstruct.hepatizon_block.tooltip": "Можно использовать в качестве основания маяка.",
+"block.tconstruct.hepatizon_block.tooltip": "Можно использовать как основание маяка.",
 "item.tconstruct.hepatizon_ingot": "Слиток гепатизона",
 "item.tconstruct.hepatizon_nugget": "Кусочек гепатизона",
 
 "block.tconstruct.queens_slime_block": "Блок из слизи королевы",
-"block.tconstruct.queens_slime_block.tooltip": "Можно использовать в качестве основания маяка.",
+"block.tconstruct.queens_slime_block.tooltip": "Можно использовать как основание маяка.",
 "item.tconstruct.queens_slime_ingot": "Слиток из слизи королевы",
 "item.tconstruct.queens_slime_nugget": "Кусочек из слизи королевы",
 
 "block.tconstruct.soulsteel_block": "Блок стали душ",
-"block.tconstruct.soulsteel_block.tooltip": "Можно использовать в качестве основания маяка.",
+"block.tconstruct.soulsteel_block.tooltip": "Можно использовать как основание маяка.",
 "item.tconstruct.soulsteel_ingot": "Слиток стали душ",
 "item.tconstruct.soulsteel_nugget": "Кусочек стали душ",
 
@@ -225,7 +225,7 @@
 "block.tconstruct.budding_ender_slime_crystal": "Распустившийся кристалл эндер-слизи",
 
 "item.tconstruct.iron_reinforcement": "Железное укрепление",
-"item.tconstruct.iron_reinforcement.tooltip": "Снижает шанс повреждение инструмента.",
+"item.tconstruct.iron_reinforcement.tooltip": "Понижает вероятность повреждения инструмента.",
 "item.tconstruct.slimesteel_reinforcement": "Укрепление из слизневой стали",
 "item.tconstruct.slimesteel_reinforcement.tooltip": "Увеличивает объём для слизневой стали.",
 "item.tconstruct.seared_reinforcement": "Обожжённое укрепление",
@@ -238,7 +238,7 @@
 "item.tconstruct.emerald_reinforcement.tooltip": "Увеличивает сопротивляемость брони от взрывов.",
 "item.tconstruct.cobalt_reinforcement": "Кобальтовое укрепление",
 "item.tconstruct.cobalt_reinforcement.tooltip": "Увеличивает сопротивляемость брони от общих атак.",
-"item.tconstruct.jeweled_apple": "Ювелирное яблоко",
+"item.tconstruct.jeweled_apple": "Драгоценное яблоко",
 "item.tconstruct.silky_cloth": "Бархатная ткань",
 "item.tconstruct.silky_cloth.tooltip": "Препятствует поломке инструмента от добытых блоков.",
 "item.tconstruct.silky_jewel": "Бархатное драгоценность",
@@ -465,10 +465,10 @@
 "fluid.tconstruct.flowing_sky_slime": "Текучая небеослизь",
 "item.tconstruct.sky_slime_bucket": "Ведро с небослизи",
 
-"block.tconstruct.magma_cream_fluid": "Сгусток лавы",
-"fluid.tconstruct.magma_cream": "Сгусток лавы",
-"fluid.tconstruct.flowing_magma_cream": "Текучий сгусток лавы",
-"item.tconstruct.magma_cream_bucket": "Ведро со сгустками лавы",
+"block.tconstruct.magma_fluid": "Сгусток лавы",
+"fluid.tconstruct.magma": "Сгусток лавы",
+"fluid.tconstruct.flowing_magma": "Текучий сгусток лавы",
+"item.tconstruct.magma_bucket": "Ведро со сгустками лавы",
 
 "block.tconstruct.ender_slime_fluid": "Эндер-слизь",
 "fluid.tconstruct.ender_slime": "Эндер-слизь",
@@ -839,7 +839,7 @@
 
 "item.tconstruct.flint_and_brick": "Кремень и кирпич",
 
-"item.tconstruct.travelers_helmet": "Защитные очки путешественника",
+"item.tconstruct.travelers_helmet": "Очки путешественника",
 "item.tconstruct.travelers_chestplate": "Жилетка путешественника",
 "item.tconstruct.travelers_leggings": "Штаны путешественника",
 "item.tconstruct.travelers_boots": "Ботинки путешественника",
@@ -849,23 +849,23 @@
 "item.tconstruct.plate_leggings": "Латные поножи",
 "item.tconstruct.plate_boots": "Латные ботинки",
 
-"item.tconstruct.slime_helmet": "Слизечереп",
+"item.tconstruct.slime_helmet": "Слизневый череп",
 "item.tconstruct.slime_chestplate": "Слизневые элитры",
 "item.tconstruct.slime_leggings": "Слизневый панцирь",
 "item.tconstruct.slime_boots": "Слизневые ботинки",
-"item.tconstruct.slime_helmet.material.tconstruct.gunpowder": "Слизечереп крипера",
-"item.tconstruct.slime_helmet.material.tconstruct.ender_pearl": "Слизечереп череп эндермена",
-"item.tconstruct.slime_helmet.material.tconstruct.bone": "Слизечереп скелета",
-"item.tconstruct.slime_helmet.material.tconstruct.bloodbone": "Слизечереп зимогора",
-"item.tconstruct.slime_helmet.material.tconstruct.necrotic_bone": "Слизечереп визер-скелета",
-"item.tconstruct.slime_helmet.material.tconstruct.venom": "Слизечереп пещерного паука",
-"item.tconstruct.slime_helmet.material.tconstruct.rotten_flesh": "Слизечереп зомби",
-"item.tconstruct.slime_helmet.material.tconstruct.potato": "Слизечереп кадавра",
-"item.tconstruct.slime_helmet.material.tconstruct.fish": "Слизечереп утопленника",
-"item.tconstruct.slime_helmet.material.tconstruct.blazing_bone": "Слизечереп ифрита",
-"item.tconstruct.slime_helmet.material.tconstruct.gold": "Слизечереп пиглина",
-"item.tconstruct.slime_helmet.material.tconstruct.rose_gold": "Слизечереп жестокого пиглина",
-"item.tconstruct.slime_helmet.material.tconstruct.pig_iron": "Слизечереп зомбифицированного пиглина",
+"item.tconstruct.slime_helmet.material.tconstruct.glass": "Слизневый череп крипера",
+"item.tconstruct.slime_helmet.material.tconstruct.ender_pearl": "Слизневый череп эндермена",
+"item.tconstruct.slime_helmet.material.tconstruct.bone": "Слизневый череп скелета",
+"item.tconstruct.slime_helmet.material.tconstruct.bloodbone": "Слизневый череп зимогора",
+"item.tconstruct.slime_helmet.material.tconstruct.necrotic_bone": "Слизневый череп визер-скелета",
+"item.tconstruct.slime_helmet.material.tconstruct.string": "Слизневый череп паука",
+"item.tconstruct.slime_helmet.material.tconstruct.darkthread": "Слизневый череп пещерного паука",
+"item.tconstruct.slime_helmet.material.tconstruct.iron": "Слизневый череп кадавра",
+"item.tconstruct.slime_helmet.material.tconstruct.copper": "Слизневый череп утопленника",
+"item.tconstruct.slime_helmet.material.tconstruct.blazing_bone": "Слизневый череп ифрита",
+"item.tconstruct.slime_helmet.material.tconstruct.gold": "Слизневый череп пиглина",
+"item.tconstruct.slime_helmet.material.tconstruct.rose_gold": "Слизневый череп жестокого пиглина",
+"item.tconstruct.slime_helmet.material.tconstruct.pig_iron": "Слизневый череп зомбифицированного пиглина",
 
 
 "_comment": "Tinkers Tool Parts",
@@ -890,12 +890,12 @@
 
 "_conment": "Tool Descriptions",
 
-"item.tconstruct.pickaxe.description": "Кирка — это точный шахтёрский инструмент. Она эффективна на камнях и рудах.\nОна ломает блоки, ПОНЯТНО?",
+"item.tconstruct.pickaxe.description": "Кирка — это точный шахтёрский инструмент. Она эффективна по отношению к камням и рудам.\nОна ломает блоки, ПОНЯТНО?",
 "item.tconstruct.sledge_hammer.description": "Кузнечный молоток — это широкий шахтёрский инструмент. Он собирает блоки в широком диапазоне.\nА ещё эффективен против Живых мертвецов.",
 "item.tconstruct.vein_hammer.description": "Жильный молот — это широкий шахтёрский инструмент. Он собирает много соединённых блоков того же типа, идеально подходит для руд.",
 
-"item.tconstruct.mattock.description": "Режущая киркомотыга — это разносторонний сельский инструмент. Она эффективна на брёвнах, грязи, песка, гравия, и растений.\nТолько не копай собственную могилу!",
-"item.tconstruct.pickadze.description": "Киркотеслó — это разносторонний шахтёрский инструмент. Она эффективна на камне, земле, песке и гравии, но недостаточно острая для добычи прочных каменных блоков, как многие руды.",
+"item.tconstruct.mattock.description": "Режущая киркомотыга — это универсальное сельское инструментальное средство. Она эффективна по отношению к брёвнам, земле, песка, гравия, и урожая.\nТолько не копай собственную могилу!",
+"item.tconstruct.pickadze.description": "Киркотеслó — это универсальное шахтёрское инструментальное средство. Оно эффективно по отношению к камне, земле, песке и гравии, но недостаточно острая для добычи прочных каменных блоков, как многие руды.",
 "item.tconstruct.excavator.description": "Землекоп — это широкий землеройный инструмент. Он вскапывает большие площади почвы и снега в широком диапазоне.\nТерраформирование!",
 
 "item.tconstruct.hand_axe.description": "Плотничный топор разрубает древесину и быстро справляется с листвой. Он также делает оружие эффективным.\nХоп-хоп!",
@@ -933,12 +933,12 @@
 "death.attack.tconstruct.self_destruct.player": "%1$s саморазрушился во время боя с %2$s.",
 
 "gui.tconstruct.melting.no_recipe": "Предмет нельзя переплавить.",
-"gui.tconstruct.melting.no_heat": "Недостаточно тепла для плавки данного предмета.",
+"gui.tconstruct.melting.no_heat": "Недостаточно тепла для плавки этого предмета.",
 "gui.tconstruct.melting.no_space": "Недостаточно свободного места для жидкотекучести.",
 
 "gui.tconstruct.melting.fuel.no_tank": "В конструкции нет резервуара",
-"gui.tconstruct.melting.fuel.empty": "Топливо не найдено",
-"gui.tconstruct.melting.fuel.solid": "Твёрдое топливо.",
+"gui.tconstruct.melting.fuel.empty": "Не найдено топливо",
+"gui.tconstruct.melting.fuel.solid": "Твёрдое топливо",
 "gui.tconstruct.melting.fuel.temperature": "Температура: %s°C",
 "gui.tconstruct.melting.fuel.invalid": "Недопустимое топливо для плавки!",
 
@@ -996,7 +996,7 @@
 "block.tconstruct.seared_triangle_bricks.tooltip": "Составляющая часть плавильни.",
 
 "block.tconstruct.seared_glass": "Обожжённое стекло",
-"block.tconstruct.seared_glass.tooltip": "Составляющая часть плавильни.\nНеспособно хранить жидкотекучести.",
+"block.tconstruct.seared_glass.tooltip": "Составляющая часть плавильни.\nНеможет хранить жидкотекучести.",
 "block.tconstruct.seared_glass_pane": "Обожжённая оконное стекло",
 "block.tconstruct.seared_glass_pane.tooltip": "Нельзя использовать в Плавильне.",
 
@@ -1029,10 +1029,10 @@
 "gui.tconstruct.melter": "Плавильщик",
 "gui.tconstruct.melting.capacity": "Объём:",
 "gui.tconstruct.melting.available": "Свободно:",
-"gui.tconstruct.melting.used": "Используется:",
+"gui.tconstruct.melting.used": "Использовано:",
 
 "block.tconstruct.seared_heater": "Обожжённый нагреватель",
-"block.tconstruct.seared_heater.tooltip": "Твёрдое топливо — это источник для Нагревателя.",
+"block.tconstruct.seared_heater.tooltip": "Твёрдое топливо источник для Нагревателя.",
 "gui.tconstruct.heater": "Нагреватель",
 
 "block.tconstruct.smeltery_controller": "Регулятор плавильни",
@@ -1040,11 +1040,11 @@
 "gui.tconstruct.smeltery": "Плавильня",
 
 "block.tconstruct.seared_drain": "Обожжённый слив",
-"block.tconstruct.seared_drain.tooltip": "Вход / выход для жидкотекучести плавильни.",
+"block.tconstruct.seared_drain.tooltip": "Вход/выход для жидкотекучести плавильни.",
 "block.tconstruct.seared_duct": "Обожжённый жидкоход",
-"block.tconstruct.seared_duct.tooltip": "Отфильтровывает вход / выход жидкотекучести, используя медные банки или вёдра.",
+"block.tconstruct.seared_duct.tooltip": "Отфильтровывает вход/выход жидкотекучести, используя медные банки или вёдра.",
 "block.tconstruct.seared_chute": "Обожжённый жёлоб",
-"block.tconstruct.seared_chute.tooltip": "Предмет плавильни для входа / выхода.",
+"block.tconstruct.seared_chute.tooltip": "Предмет плавильни для входа/выхода.",
 
 
 "_comment": "Tinkers Foundry",
@@ -1115,6 +1115,7 @@
 "block.tconstruct.scorched_duct.tooltip": "Отфильтровывает вход / выход жидкотекучести литейной, используя медные банки или вёдра.",
 "block.tconstruct.scorched_chute": "Выжженный жёлоб",
 "block.tconstruct.scorched_chute.tooltip": "Вход / выход для предмета из литейны.",
+
 
 "gui.tconstruct.fluid.kilobucket": "%s кв",
 "gui.tconstruct.fluid.bucket": "%s в",
@@ -1237,7 +1238,7 @@
 "block.tconstruct.ichor_slime_fern": "Слизневый ихоровые корни",
 "block.tconstruct.ender_slime_fern": "Слизневый эндер-папоротник",
 
-"block.tconstruct.earth_slime_sapling": "Саженец гринхарта",
+"block.tconstruct.earth_slime_sapling": "Саженец мыльного дерева",
 "block.tconstruct.earth_slime_sapling.tooltip": "Растёт только на слизневой земле/траве.",
 "block.tconstruct.sky_slime_sapling": "Саженец из небесного корня",
 "block.tconstruct.sky_slime_sapling.tooltip": "Растёт только на слизневой земле/траве.",
@@ -1254,22 +1255,22 @@
 
 "_comment": "Wood",
 
-"block.tconstruct.greenheart_planks": "Доски из гринхарта",
-"block.tconstruct.greenheart_planks_slab": "Плита из гринхарта",
-"block.tconstruct.greenheart_planks_stairs": "Ступени из гринхарта",
-"block.tconstruct.greenheart_log": "Бревно гринхарта",
-"block.tconstruct.stripped_greenheart_log": "Обтёсанное бревно гринхарта",
-"block.tconstruct.greenheart_wood": "Древесина гринхарта",
-"block.tconstruct.stripped_greenheart_wood": "Обтёсанная древесина из гринхарта",
+"block.tconstruct.greenheart_planks": "Доски из мыльного дерева",
+"block.tconstruct.greenheart_planks_slab": "Плита из мыльного дерева",
+"block.tconstruct.greenheart_planks_stairs": "Ступени из мыльного дерева",
+"block.tconstruct.greenheart_log": "Бревно мыльного дерева",
+"block.tconstruct.stripped_greenheart_log": "Обтёсанное бревно мыльного дерева",
+"block.tconstruct.greenheart_wood": "Древесина мыльного дерева",
+"block.tconstruct.stripped_greenheart_wood": "Обтёсанная древесина из мыльного дерева",
 
-"block.tconstruct.greenheart_fence": "Забор из гринхарта",
-"block.tconstruct.greenheart_fence_gate": "Калитка из гринхарта",
-"block.tconstruct.greenheart_door": "Дверь из гринхарта",
-"block.tconstruct.greenheart_trapdoor": "Люк из гринхарта",
-"block.tconstruct.greenheart_pressure_plate": "Нажимная плита из гринхарта",
-"block.tconstruct.greenheart_button": "Кнопка из гринхарта",
-"block.tconstruct.greenheart_sign": "Табличка из гринхарта",
-"block.tconstruct.greenheart_wall_sign": "Настенная табличка из гринхарта",
+"block.tconstruct.greenheart_fence": "Забор из мыльного дерева",
+"block.tconstruct.greenheart_fence_gate": "Калитка из мыльного дерева",
+"block.tconstruct.greenheart_door": "Дверь из мыльного дерева",
+"block.tconstruct.greenheart_trapdoor": "Люк из мыльного дерева",
+"block.tconstruct.greenheart_pressure_plate": "Нажимная плита из мыльного дерева",
+"block.tconstruct.greenheart_button": "Кнопка из мыльного дерева",
+"block.tconstruct.greenheart_sign": "Табличка из мыльного дерева",
+"block.tconstruct.greenheart_wall_sign": "Табличка из мыльного дерева",
 
 "block.tconstruct.skyroot_planks":  "Доски из небесного корня",
 "block.tconstruct.skyroot_planks_slab": "Плита из небесного корня",
@@ -1321,7 +1322,7 @@
 "material.tconstruct.wood.bamboo": "Бамбук",
 "material.tconstruct.wood.format": "Деревянный %s",
 "material.tconstruct.wood.flavor": "Сколько дров может напилить сурок, если сурок может пилить дрова?", 
-"material.tconstruct.wood.encyclopedia": "Делает починку на 50% более эффективно за каждую часть.",
+"material.tconstruct.wood.encyclopedia": "Делает починку на 50% более эффективно с каждой части.",
 
 "material.tconstruct.rock": "Каменная порода",
 "material.tconstruct.rock.stone": "Камень",
@@ -1330,18 +1331,8 @@
 "material.tconstruct.rock.granite": "Гранит",
 "material.tconstruct.rock.blackstone": "Чернит",
 "material.tconstruct.rock.deepslate": "Глубинный сланец",
-"material.tconstruct.stone.flavor": "Твёрдый камень",
-"material.tconstruct.stone.encyclopedia": "Заставляет инструмент добывать быстрее вполовину квадратичного корня потерянной прочности.",
-
-"material.tconstruct.rock": "Горная порода",
-"material.tconstruct.rock.stone": "Камень",
-"material.tconstruct.rock.andesite": "Андезит",
-"material.tconstruct.rock.diorite": "Диорит",
-"material.tconstruct.rock.granite": "Гранит",
-"material.tconstruct.rock.blackstone": "Базальтовая лава",
-"material.tconstruct.rock.deepslate": "Глубокий сланец",
-"material.tconstruct.rock.flavor": "Твёрдая горная порода",
-"material.tconstruct.rock.encyclopedia": "Заставляет инструмент добывать быстрее наполовину квадратного корня из потерянной прочности.",
+"material.tconstruct.rock.flavor": "Твёрдый камень",
+"material.tconstruct.rock.encyclopedia": "Заставляет инструмент добывать быстрее вполовину квадратичного корня потерянной прочности.",
 
 "material.tconstruct.flint": "Кремень",
 "material.tconstruct.flint.basalt": "Базальт",
@@ -1362,7 +1353,9 @@
 
 "material.tconstruct.string": "Нить",
 "material.tconstruct.string.flavor": "Гипотетически лучший материал.",
-"material.tconstruct.string.encyclopedia": "Позволяет отремонтировать инструмент используя нитку в станции лудильщика или станции ремесла.",
+"material.tconstruct.string.encyclopedia": "Позволяет отремонтировать инструмент используя нить в Литейном рабочем месте или верстаке.",
+"material.tconstruct.string.skull_flavor": "Пауки — мастера зелий, возможно, их секрет может помочь мне усилить зелья...",
+"material.tconstruct.string.skull_encyclopedia": "Заставляет позитивным эффектам от зелий длиться на 25% дольше.",
 
 "material.tconstruct.leather": "Кожа",
 "material.tconstruct.leather.flavor": "Убил корову, выдубил эту шкуру.",
@@ -1386,7 +1379,7 @@
 
 "material.tconstruct.scorched_stone": "Выжженный камень",
 "material.tconstruct.scorched_stone.flavor": "Бонус для издания литейной.",
-"material.tconstruct.scorched_stone.encyclopedia": "Даёт +2 урона на каждый уровень против горящих целей.",
+"material.tconstruct.scorched_stone.encyclopedia": "Даёт +2 урона с каждым уровнем против горящих целей.",
 
 "material.tconstruct.copper": "Медь",
 "material.tconstruct.copper.flavor": "Не позволь ему очернить твой день.",
@@ -1399,11 +1392,11 @@
 "material.tconstruct.slimewood.skyroot": "Небесный корень",
 "material.tconstruct.slimewood.bloodshroom": "Кровавый гриб",
 "material.tconstruct.slimewood.flavor": "Это дерево слизи или слизь, которая была наполнена деревом?",
-"material.tconstruct.slimewood.encyclopedia": "Даёт 5% шанс на каждый уровень регенерации слизневого покрытия в секунду.",
+"material.tconstruct.slimewood.encyclopedia": "Даёт 5% шанс с каждым уровнем регенерации слизневого покрытия в секунду.",
 
 "material.tconstruct.bloodbone": "Кровавая кость",
 "material.tconstruct.bloodbone.flavor": "Разве, кровь не должна быть в кости?",
-"material.tconstruct.bloodbone.encyclopedia": "Увеличивает урон при низком здоровье, до +4 урона на каждый уровень при 1 сердце.",
+"material.tconstruct.bloodbone.encyclopedia": "Увеличивает урон при низком здоровье, до +4 урона с каждым уровнем при 1 сердце.",
 "material.tconstruct.bloodbone.skull_flavor": "Мурашки прям до костей.",
 "material.tconstruct.bloodbone.skull_encyclopedia": "Снаряды замедляют жертв. После выпивания молока, атаки ближнего боя причиняют замедление и уровень становится сильнее.",
 
@@ -1425,7 +1418,7 @@
 "__comment": "Tier 3 Materials",
 "material.tconstruct.slimesteel": "Слизневая сталь",
 "material.tconstruct.slimesteel.flavor": "Ты можешь стащить слизь для получения слизневой стали.",
-"material.tconstruct.slimesteel.encyclopedia": "Даёт 25 дополнительного слизневого покрытия, +50% общей на каждый уровень.",
+"material.tconstruct.slimesteel.encyclopedia": "Даёт 25 дополнительного слизневого покрытия, +50% общей с каждым уровнем.",
 
 "material.tconstruct.nahuatl": "Науатль",
 "material.tconstruct.nahuatl.flavor": "Это не обсидиановая деталь, если было бы так, сказал бы \"Обсидиан\".",
@@ -1437,27 +1430,33 @@
 
 "material.tconstruct.pig_iron": "Чугунная чушка",
 "material.tconstruct.pig_iron.flavor": "Абсолютно лучший материал без споров.",
-"material.tconstruct.pig_iron.encyclopedia": "Можно съесть для восстановления 1 очка голода и 0.1 насыщенности на каждый уровень.",
+"material.tconstruct.pig_iron.encyclopedia": "Можно съесть для восстановления 1 очка голода и 0.1 насыщенности с каждым уровнем.",
 "material.tconstruct.pig_iron.skull_flavor": "Лучше тебе не видеть меня в гневе!",
 "material.tconstruct.pig_iron.skull_encyclopedia": "Даёт 15 секунд силы при повреждении другим монстром.",
+
+"material.tconstruct.darkthread": "Тёмная нить",
+"material.tconstruct.darkthread.flavor": "Перейди на тёмную сторону, мы засеем.",
+"material.tconstruct.darkthread.encyclopedia": "Повышает шансы на выпадение предмета с монстров, суммируется удачей.",
+"material.tconstruct.darkthread.skull_flavor": "Идеально подходит для боя с ведьмами, когда ты решишься и выпьешь, станет известно, кто прав.",
+"material.tconstruct.darkthread.skull_encyclopedia": "Делает владельца невосприимчивым к отравлению, разве что не снимет уже имеющийся отравление.",
 
 
 "__comment": "Tier Nether Materials",
 "material.tconstruct.cobalt": "Кобальт",
 "material.tconstruct.cobalt.flavor": "Кобальт. Материал красной армии.",
-"material.tconstruct.cobalt.encyclopedia": "Повышает скорость добычи и атаки на 7% на каждый уровень.",
+"material.tconstruct.cobalt.encyclopedia": "Повышает скорость добычи и атаки на 7% с каждым уровнем.",
 
 "material.tconstruct.manyullyn": "Манилин",
 "material.tconstruct.manyullyn.flavor": "Металл, который большинство лудильщиков никогда не произнесут правильно. Также известен как Звезда режущий материал.",
-"material.tconstruct.manyullyn.encyclopedia": "Даёт +2 урона на каждый уровень после 8 последовательных ударов.",
+"material.tconstruct.manyullyn.encyclopedia": "Даёт +2 урона после 8 последовательных ударов с каждым уровнем.",
 
 "material.tconstruct.hepatizon": "Гепатизон",
 "material.tconstruct.hepatizon.flavor": "Ге-па-ти-зон — сварить, намять, положить в рагу.",
-"material.tconstruct.hepatizon.encyclopedia": "Повышает скорость добычи на 25% на каждый уровень, после добычи 32 последовательных блоков.",
+"material.tconstruct.hepatizon.encyclopedia": "Повышает скорость добычи на 25% с каждым уровнем, после добычи 32 последовательных блоков.",
 
 "material.tconstruct.queens_slime": "Слизь королевы",
 "material.tconstruct.queens_slime.flavor": "Принцессы злые, найди себе Королеву.",
-"material.tconstruct.queens_slime.encyclopedia": "Снижает прочность на 15% на каждый уровень, 66% от это суммы в сторону сверхслизневости.",
+"material.tconstruct.queens_slime.encyclopedia": "Снижает прочность на 15% с каждым уровнем, 66% от это суммы в сторону слизневого покрытия.",
 
 "material.tconstruct.blazing_bone": "Пылающая кость",
 "material.tconstruct.blazing_bone.flavor": "Использовать полную мощь Крепости незера — кость и ифрит.",
@@ -1479,22 +1478,14 @@
 "material.tconstruct.enderslime_vine.flavor": "Энд?",
 "material.tconstruct.enderslime_vine.encyclopedia": "Телепортирует держателя на местоположение добытых блоков или убитых монстров.",
 
-"__comment": "Материалы для склизкого костюма",
-"material.tconstruct.gunpowder": "Порох",
-"material.tconstruct.gunpowder.skull_flavor": "Чьи сейчас крипер уничтожил хорошие вещи?",
-"material.tconstruct.gunpowder.skull_encyclopedia": "Удерживая клавишу связанную со шлемом заставляет носителя взорваться.",
+"__comment": "Slimesuit materials",
+"material.tconstruct.glass": "Стекло",
+"material.tconstruct.glass.skull_flavor": "Чьи сейчас крипер уничтожил хорошие вещи?",
+"material.tconstruct.glass.skull_encyclopedia": "Удерживая клавишу связанную со шлемом заставляет носителя взорваться.",
 
 "material.tconstruct.ender_pearl": "Эндер-жемчуг",
 "material.tconstruct.ender_pearl.skull_flavor": "Странник края знает, как избегать ранений и учёные. Они неделями игнорировали мои запросы на интервью!",
 "material.tconstruct.ender_pearl.skull_encyclopedia": "При попадании снаряда, автоматически телепортируется, а от ближнего урона случайным образом. Имеет 15 секундный откат.",
-
-"material.tconstruct.spider": "Паук",
-"material.tconstruct.spider.skull_flavor": "Пауки мастера в зельях, возможно, их секрет может помочь мне усилить зелья...",
-"material.tconstruct.spider.skull_encyclopedia": "Заставляет положительным эффектам зелий на 25% дольше длиться.",
-
-"material.tconstruct.venom": "Яд",
-"material.tconstruct.venom.skull_flavor": "Идеален для битв умов, если ты решишься и выпьешь, чтобы понять, кто — прав.",
-"material.tconstruct.venom.skull_encyclopedia": "Делает владельца невосприимчивым к яду, однако он не будет убирать имеющиеся отравление.",
 
 "material.tconstruct.rotten_flesh": "Гнилая плоть",
 "material.tconstruct.rotten_flesh.skull_flavor": "Это нормально",
@@ -1504,15 +1495,19 @@
 "material.tconstruct.gold.skull_flavor": "Такое блестящее",
 "material.tconstruct.gold.skull_encyclopedia": "Заставляет некоторым золотым рудам скидывать дополнительные золотые самородки, и увеличивает вероятность выпадения золотой брони на 4%. Количество самородков и выпадений брони дополнительно увеличивается с каждым надетым куском золотой брони.",
 
+"material.tconstruct.obsidian": "Обсидиан",
+"material.tconstruct.debris": "Осколок",
 "material.tconstruct.netherite": "Незерит",
 "material.tconstruct.earthslime": "Земляная слизь",
-"material.tconstruct.skyslime": "Небеснослизь",
+"material.tconstruct.skyslime": "Небослизь",
 "material.tconstruct.blood": "Кровь",
 "material.tconstruct.ichor": "Ихор",
-"material.tconstruct.enderslime": "Эндер-слизь",
+"material.tconstruct.enderslime": "Эндер-слищь",
+"material.tconstruct.clay": "Глина",
+"material.tconstruct.honey": "Мёд",
+"material.tconstruct.venom": "Яд",
 "material.tconstruct.phantom": "Мембрана фантома",
 "material.tconstruct.chorus": "Хорус",
-"material.tconstruct.rabbit": "Кроличья шкурка",
 
 "material.tconstruct.aluminum": "Алюминий",
 "material.tconstruct.nickel": "Никель",
@@ -1528,7 +1523,7 @@
 
 "material.tconstruct.tungsten": "Вольфрам",
 "material.tconstruct.tungsten.flavor": "Ты не думал о создании группы тяжёлого металла?",
-"material.tconstruct.tungsten.encyclopedia": "Даёт +10% скорости добычи и -10% скорости передвижения на каждый уровень.",
+"material.tconstruct.tungsten.encyclopedia": "Даёт +10% скорости добычи и -10% скорости передвижения с каждым уровнем.",
 
 "material.tconstruct.platinum": "Платина",
 "material.tconstruct.platinum.flavor": "Это то, что используют победители!",
@@ -1536,25 +1531,25 @@
 
 "material.tconstruct.lead": "Свинец",
 "material.tconstruct.lead.flavor": "Можешь попробовать и сделать из этого бутерброд.",
-"material.tconstruct.lead.encyclopedia": "Даёт +10% атаки и -10% скорости движения на каждый уровень.",
+"material.tconstruct.lead.encyclopedia": "Даёт +10% атаки и -10% скорости движения с каждым уровнем.",
 
 "material.tconstruct.silver": "Серебро",
 "material.tconstruct.silver.flavor": "Ты знаешь, этот инструмент не будет выглядеть так сияющее через несколько дней.",
-"material.tconstruct.silver.encyclopedia": "Даёт +2.5 урона против нежити на каждый уровень.",
+"material.tconstruct.silver.encyclopedia": "Даёт +2.5 урона против нежити с каждым уровнем.",
 
 "material.tconstruct.whitestone": "Белый камень",
 "material.tconstruct.whitestone.flavor": "Забирает твои бесполезные белые металлы и делает полезный инструмент.",
-"material.tconstruct.whitestone.encyclopedia": "Добывание камня имеет 20% на каждый уровень предоставления +3 каменного щита.",
+"material.tconstruct.whitestone.encyclopedia": "Добывание камня имеет 20% с каждым уровнем предоставления +3 каменного щита.",
 
 
 "__comment": "Tier 3 Integration Materials",
 "material.tconstruct.steel": "Сталь",
 "material.tconstruct.steel.flavor": "В основном 90% материаловедения.",
-"material.tconstruct.steel.encyclopedia": "Даёт +4% прочности, урона и скорости на каждый уровень.",
+"material.tconstruct.steel.encyclopedia": "Даёт +4% прочности, урона и скорости с каждым уровнем.",
 
 "material.tconstruct.bronze": "Бронза",
 "material.tconstruct.bronze.flavor": "Не путать с аметистовой бронзой.",
-"material.tconstruct.bronze.encyclopedia": "Даёт +6 скорости добычи на каждый уровень при полной прочности, 0 способствует росту ниже 50% прочности.",
+"material.tconstruct.bronze.encyclopedia": "Даёт +6 скорости добычи с каждым уровнем при полной прочности, 0 способствует росту ниже 50% прочности.",
 
 "material.tconstruct.constantan": "Константан",
 "material.tconstruct.constantan.flavor": "Констан-тан-тан-тан-тан-тан-тан... Извини, это весело добавлять больше \"танов\".",
@@ -1566,7 +1561,7 @@
 
 "material.tconstruct.electrum": "Электрум",
 "material.tconstruct.electrum.flavor": "Хорош для электронных компонентов.",
-"material.tconstruct.electrum.encyclopedia": "Даёт +50% опыта на каждый уровень от блоков и монстров.",
+"material.tconstruct.electrum.encyclopedia": "Даёт +50% опыта с каждым уровнем от блоков и монстров.",
 
 "material.tconstruct.necronium": "Некроний",
 "material.tconstruct.necronium.flavor": "Настолько разлагаемый, что возможно, остаётся только четверть жизни.",
@@ -2629,7 +2624,7 @@
 "advancements.tconstruct.world.slimesuit.title": "Слизневый костюм",
 "advancements.tconstruct.world.slimesuit.description": "Создай целый слизневый костюм.",
 "advancements.tconstruct.world.slimeskull.title": "Сборщик черепов",
-"advancements.tconstruct.world.slimeskull.description": "Создай каждый вид слизечерепа.",
+"advancements.tconstruct.world.slimeskull.description": "Создай каждый вид слизневого черепа.",
 "advancements.tconstruct.world.clay_island.title": "Глиняный остров",
 "advancements.tconstruct.world.clay_island.description": "Найди глиняный остров в небе.",
 "advancements.tconstruct.world.slime_collector.title": "Сборщик слизи",

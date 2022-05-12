@@ -1,12 +1,11 @@
 {
-  "title": "Контроллер плавильни",
+  "title": "Smeltery Controller",
   "image": {
-	"file": "tconstruct:book/images/scontroller.png"
+    "file": "tconstruct:book/images/scontroller.png"
   },
   "text": [
     {
-      "text": "Используя плавильную печь, вылейте четыре медных слитка на нагреватель, чтобы получить контроллер плавильни."
+      "text": "Using your melter, pour four ingots worth of copper on a heater to get your smeltery controller."
     }
-	
   ]
 }

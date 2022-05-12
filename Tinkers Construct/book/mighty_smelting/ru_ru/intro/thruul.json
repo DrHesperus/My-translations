@@ -1,11 +1,11 @@
 {
-  "title":"Выплавка для Знатоков",
+  "title": "Mighty Smelting",
   "text": [
     {
-      "text": "Значит ты ещё жив, товарищ Литейщик, возможно, ты умнее, чем я думал. Тогда давай возьмем эту жалкую плавильную печь и эти жалкие металлы и сделаем их еще сильнее. "
+      "text": "So you survived this far fellow Tinker, perhaps you are smarter than I believed. Well then let's take that puny melter and those puny metals and make them even stronger. "
     },
     {
-      "text": "Я надеюсь, что вы готовы, товарищ Литейщик, это продвижение будет очень быстрым.",	
+      "text": "I hope you are ready fellow Tinker, this is going to get really advanced really fast.",	
 	  "paragraph": true
     }
   ]

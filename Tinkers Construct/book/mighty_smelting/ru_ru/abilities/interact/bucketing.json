@@ -2,35 +2,31 @@
   "modifier_id": "tconstruct:bucketing",
   "text": [
     {
-      "text": "§oЭто ведро.§r"
+      "text": "§oThis is a bucket.§r"
     },
-	{
+    {
       "text": "\n"
     },
-	{
-      "text": "§lДорогой Бог.§r",
-	  "pargraph": true
+    {
+      "text": "§lDear God.§r"
     },
-	{
+    {
       "text": "\n"
     },
-	 {
-      "text": "§oЕсть ещё кое-что.§r",
-	  "pargraph": true
+    {
+      "text": "§oThere's more.§r"
     },
-	{
+    {
       "text": "\n"
     },
-	 {
-      "text": "§lНееет.§r",
-	  "pargraph": true
+    {
+      "text": "§lNooo.§r"
     }
-	
   ],
   "effects": [
-    "Теперь ваш инструмент - это ведро",
-	"Ёмкость резервуара может быть увеличена с помощью улучшения Резервуар",
-    "Одноуровневый",
-    "Требуется 1 слот для умений"
+    "Your tool is now a bucket",
+    "Tank size can be increased with Tank Upgrade",
+    "Single Level",
+    "Requires 1 Ability Slot"
   ]
 }

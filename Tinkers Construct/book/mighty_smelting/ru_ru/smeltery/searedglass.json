@@ -1,15 +1,13 @@
 {
-  "title": "Обожжённое стекло",
-  "item": {
-    "id": "tconstruct:seared_glass"
-  },
+  "title": "Seared Glass",
+  "item": "tconstruct:seared_glass",
   "text": [
     {
-      "text": "Через это стекло можно смотреть на ваши могущественные расплавленные материалы, не замедляя работу плавильни. Обратите внимание, что в отличие от резервуаров, в нём нельзя хранить жидкость.",
+      "text": "Looking at your mighty marvels of molten materials without invalidating your smeltery can be done with this glass. Do note it doesn't store fluid unlike tanks.",
       "paragraph": true
     },
 	{
-      "text": "Стекло нельзя использовать для пола плавильни.",
+      "text": "Glass cannot be used for the floor of the smeltery.",
       "paragraph": true
     }
   ]

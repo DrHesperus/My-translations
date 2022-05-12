@@ -1,11 +1,9 @@
 {
-  "title": "Обожжённая лестница",
-  "item": {
-    "id": "tconstruct:seared_ladder"
-  },
+  "title": "Seared Ladder",
+  "item": "tconstruct:seared_ladder",
   "text": [
     {
-      "text": "Обожжённая лестница может быть использована для лёгкого подъёма или спуска с вашей плавильни, что полезно, если вы планируете построить её ещё выше!",
+      "text": "The seared ladder can be used to easily climb up or out of your smeltery, useful for if you plan to build it bigger later!",
       "paragraph": true
     }
   ]

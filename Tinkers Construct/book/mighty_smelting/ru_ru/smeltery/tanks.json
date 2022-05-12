@@ -1,15 +1,15 @@
 {
-  "title": "Обожжённые резервуары",
+  "title": "Seared Tanks",
   "item": {
     "tag": "tconstruct:seared_tanks"
   },
   "text": [
     {
-      "text": "Резервуары хороши для хранения расплавленных жидкостей или топлива. Если вы хотите плавить металлы в своей плавильне, вам понадобится такой резервуар! В резервуары также можно переливать жидкости из плавильни, если вы хотите сохранить их на потом.",
+      "text": "Tanks are good for storing molten fluids or fuels. If you want to melt metals in your smeltery you'll need one! Tanks can also be poured into from the smeltery if you want to store stuff for later.",
       "paragraph": true
     },
-	{
-      "text": "Резервуары нельзя использовать для пола плавильни.",
+    {
+      "text": "Tanks cannot be used for the floor of the smeltery.",
       "paragraph": true
     }
   ]

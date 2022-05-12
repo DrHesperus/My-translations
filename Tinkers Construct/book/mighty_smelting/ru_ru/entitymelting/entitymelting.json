@@ -1,15 +1,15 @@
 {
-  "title":"Переплавка существ",
+  "title":"Entity Melting",
   "text": [
     {
-      "text": "Переплавка существ так же проста, как и помещение существ в вашу плавильню. Единственное требование — наличие топлива в плавильне."
+      "text": "Entity melting is as simple as getting the entity inside your smeltery. The only requirement is that the smeltery has fuel."
     },
-	{
-      "text": "Почти любой моб может быть переплавлен, однако некоторые из них будут гораздо полезнее других.",
+    {
+      "text": "Almost any mob can be melted, some however will be much more useful than others.",
 	  "paragraph": true
     },
-	{
-      "text": "У меня есть вызов для самого могущественнейшего Литейщика: если вам удастся расплавить Эндер-Дракона, вы получите сокрушительную силу!",
+    {
+      "text": "I have a challenge for the mightiest of Tinkers: if you can manage to melt the Ender Dragon, you will receive awesome power!",
 	  "paragraph": true
     }
   ]
