@@ -1,6 +1,8 @@
 {
-  "title": "Special Defense Modifiers",
+  "title": "Особые оборонительные модификаторы",
   "text": [
-    { "text": "Special defense boosts protection in ways other than raw defense." }
+    {
+		"text": "Особые оборонительные модификаторы усиливают защиту по своему, за исключением открытой обороны."
+	}
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "title": "Seared Chute",
+  "title": "Выжженный жёлоб",
   "item": "tconstruct:seared_chute",
   "text": [
     {
-      "text": "The seared chute is your way to input/output items in and out of the smeltery. Best placed somewhere easily accessible by a hopper.",
+      "text": "Выжженный жёлоб — это способ ввода/вывода предметов в и из плавильни. Лучше всего поместить где-нибудь в легкодоступном месте для воронки.",
       "paragraph": true
     }
 	]

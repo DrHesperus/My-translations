@@ -1,11 +1,11 @@
 {
-  "title": "Seared Blocks",
+  "title": "Выжженные блоки",
   "item": {
     "tag": "tconstruct:seared_blocks"
   },
   "text": [
     {
-      "text": "These blocks can be used for any part of the smeltery, as floors or walls. They are also useful for decorating your base.",
+      "text": "Эти блоки можно использовать для любой части плавильни, в качестве полов или стен. Ещё они полезны для декорирования базы.",
       "paragraph": true
     }
   ]

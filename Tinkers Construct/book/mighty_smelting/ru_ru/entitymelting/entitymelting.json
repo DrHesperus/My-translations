@@ -1,15 +1,15 @@
 {
-  "title":"Entity Melting",
+  "title":"Плавка сущности",
   "text": [
     {
-      "text": "Entity melting is as simple as getting the entity inside your smeltery. The only requirement is that the smeltery has fuel."
+      "text": "Плавка сущности настолько проста, как получить предмет внутри своей плавильни. Единственное требование — это наличие топлива в плавильни."
     },
     {
-      "text": "Almost any mob can be melted, some however will be much more useful than others.",
+      "text": "Почти любой монстр может быть переплавлен, однако некоторые из них будут гораздо полезнее других.",
 	  "paragraph": true
     },
     {
-      "text": "I have a challenge for the mightiest of Tinkers: if you can manage to melt the Ender Dragon, you will receive awesome power!",
+      "text": "У меня для великих литейщиков испытание: если Вы умудритесь переплавить Эндер-дракона, Вы получите потрясающую силу!",
 	  "paragraph": true
     }
   ]

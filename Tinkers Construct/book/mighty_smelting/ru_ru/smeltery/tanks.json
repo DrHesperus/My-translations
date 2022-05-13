@@ -1,15 +1,15 @@
 {
-  "title": "Seared Tanks",
+  "title": "Выжженные баки",
   "item": {
     "tag": "tconstruct:seared_tanks"
   },
   "text": [
     {
-      "text": "Tanks are good for storing molten fluids or fuels. If you want to melt metals in your smeltery you'll need one! Tanks can also be poured into from the smeltery if you want to store stuff for later.",
+      "text": "Баки хороши для хранения расплавленных жидкостей или топлива. Если тебе захочется плавить металлы в плавильне, тебе понадобится один! Ещё в баки можно налить металлы из плавильни, если ты хочешь сохранить материал на потом.",
       "paragraph": true
     },
     {
-      "text": "Tanks cannot be used for the floor of the smeltery.",
+      "text": "Баки не могут быть предназначены для пола плавильни.",
       "paragraph": true
     }
   ]

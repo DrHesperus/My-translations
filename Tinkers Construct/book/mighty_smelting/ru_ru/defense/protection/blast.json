@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:blast_protection",
   "text": [
     {
-      "text": "Creeper, Aw man."
+      "text": "Крипер, ай, чел."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Reduces explosive damage and knockback",
-    "Multiple levels, each level further increases resistance",
-    "Requires 1 defense slot"
+    "Понижает урон от взрыва и отбрасывание.",
+    "Многоуровневый, каждый уровень ещё сильнее повышает сопротивляемость.",
+    "Требует 1 слот обороны."
   ]
 }

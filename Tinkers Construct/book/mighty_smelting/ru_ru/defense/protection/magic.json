@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:magic_protection",
   "text": [
     {
-      "text": "You're not a very good wizard Harry if you have to use this. Use more deflection spells."
+      "text": "Волшебник из тебя не очень хороший Гарри, если ты используешь это. Используй больше отражающих заклинаний."
     }
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases magic damage",
-    "Multiple levels, each level further decreases magic damage",
-    "Requires 1 defense slot"
+    "Понижает магический урон.",
+    "Многоуровневый, каждый уровень ещё сильнее понижает магический урон.",
+    "Требует 1 слот обороны."
   ]
 }

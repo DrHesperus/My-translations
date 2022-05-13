@@ -1,5 +1,5 @@
 {
-  "title": "Smeltery GUI",
+  "title": "GUI плавильни",
   "image": {
     "file": "tconstruct:book/images/smeltergui.png",
     "width": 179,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Your basic smeltery GUI. No more, no less.",
+      "text": "Твоё основное GUI плавильни. Ни много ни мало.",
       "paragraph": true
     }
 	]

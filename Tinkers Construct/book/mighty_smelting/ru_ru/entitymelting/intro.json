@@ -1,11 +1,11 @@
 {
-  "title": "Entity Melting",
+  "title": "Плавка сущности",
   "image": {
     "file": "tconstruct:book/images/entitymelting.png"
   },
   "text": [
     {
-      "text": "The mighty smeltery can be used to melt away the useless part of entities in order to harvest their true insides."
+      "text": "Мощную плавильню можно использовать, чтобы оплавить бесполезную часть существ для того, чтобы собрать их истинные внутренности."
     }
   ]
 }

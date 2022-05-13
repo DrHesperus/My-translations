@@ -1,6 +1,8 @@
 {
-  "title": "Protection Defense Modifiers",
+  "title": "Защитные/Оборонительные модификаторы",
   "text": [
-    { "text": "Protection defense modifiers increase resistance to a particular type of damage. All damage sources should fit into one of the five types, and types can be freely mixed on armor." }
+    {
+		"text": "Защитные/Оборонительные модификаторы повышают сопротивляемость к конкретному типу урона. Все источники урона следует вместить 1 из 5 типов, а типы можно смешивать на броне по своему усмотрению."
+	}
   ]
 }

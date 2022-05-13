@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:melee_protection",
   "text": [
     {
-      "text": "Mobile punching bag."
+      "text": "Мобильная боксёрская груша."
     }
    
   ],
   "more_text_space": true,
   "effects": [
-    "Decreases damage from swords, unarmed attacks, and more",
-    "Multiple levels, each level further decreases damage.",
-    "Requires 1 defense slot"
+    "Понижает урон от мечей, рукопашных атак, и не только.",
+    "Многоуровневый, каждый уровень ещё сильнее понижает урон.",
+    "Требует 1 слот обороны."
   ]
 }
