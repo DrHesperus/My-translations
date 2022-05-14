@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:shield_strap",
   "text": [
     {
-      "text": "He protec, he attac, but most importantly he bring the torches bac."
+      "text": "Он защищ, он атак, но прежде всего — он приносит факелы обратно."
     }
   ],
   "effects": [
-    "Grants an extra offhand slot",
-    "Leggings interact allows swapping offhand",
-    "Multiple levels, each level gives +1 slot",
-    "Requires 1 ability slot"
+    "Даёт дополнительный слот для левой руки.",
+    "Взаимодействие для понож позволит обмениваться с левой рукой.",
+    "Многоуровневый, каждый уровень даёт +1 слот.",
+    "Требует 1 слот способности."
   ]
 }

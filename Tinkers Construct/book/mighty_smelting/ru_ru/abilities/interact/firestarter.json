@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:firestarter",
   "text": [
     {
-      "text": "Everything changed when the firestarter modifier attacked."
+      "text": "Всё изменилось, когда модификатор Поджигатель атаковал."
     }
   ],
   "effects": [
-    "Interact to start fires",
-    "Single Level",
-    "Requires 1 Ability Slot",
-    "Using on flint and bronze increases radius, requiring 1 Upgrade slot"
+    "Взаимодействуй, чтобы поджечь огонь.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
+    "Использование по кремнию и кирпичу повысит радиус, требуя 1 слот улучшения."
   ]
 }

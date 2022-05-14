@@ -2,16 +2,17 @@
   "modifier_id": "tconstruct:slurping",
   "text": [
     {
-      "text": "He was number one!"
+      "text": "Он был №1!"
     },
     {
-      "text": "Right clicking a tank with helmet fills it", "paragraph": true
+      "text": "ПКМ шлемом по баку наполнит его.",
+	  "paragraph": true
     }
   ],
   "effects": [
-    "Drink fluids stored in the helmet",
-	"Keybind is used to drink",
-    "Single level",
-    "Requires 1 ability slot"
+    "Выпитые жидкости хранятся в шлеме.",
+	"Используется привязка клавиши для питья.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
   ]
 }

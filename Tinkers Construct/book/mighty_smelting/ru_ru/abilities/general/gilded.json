@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:gilded",
   "text": [
     {
-      "text": "It's a 2 for 1 special!"
+      "text": "Специальное предложение: два по цене одного!"
     }
   ],
   "effects": [
-    "Trades 1 ability slot for 2 upgrade slots",
-    "Multiple levels",
-    "Requires 1 Ability Slot"
+    "Обменивает 1 слот способности на 2 слота улучшения.",
+    "Многоуровневый",
+    "Требует 1 слот способности."
   ]
 }

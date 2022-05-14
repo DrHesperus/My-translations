@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:exchanging",
   "text": [
     {
-      "text": "Using this may or may not make a giant boulder start chasing you since you can't exchange things right."
+      "text": "Использование этого возможно, а возможно и нет, но гигантский булыжник начнёт преследовать тебя, поскольку ты не можешь обменять вещи в хорошем состоянии."
     }
   ],
   "effects": [
-     "Blocks broken are replaced by blocks in the offhand",
-    "Single Level",
-    "Requires 1 Ability Slot"
+    "Разрушенные блоки заменяются на блоки в левой руке.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
   ]
 }

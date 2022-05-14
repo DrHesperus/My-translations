@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:flamewake",
   "text": [
     {
-      "text": "Who thought it was a good idea to combine flint and bronze with boots? I cannot safely step anywhere now!"
+      "text": "Кто сообразил, что это хорошая идея объединить кремний и кирпич с ботинками? Я не могу ходить где-либо не нанося вреда!"
     }
   ],
   "effects": [
-    "Leaves fires where you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "Оставляет за тобой огненный след.",
+    "Повышенная область за счёт расширенный.",
+    "Максимально 1 уровень.",
+    "Требует 1 слот способности."
   ]
 }

@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:path_maker",
   "text": [
     {
-      "text": "Tired of forgetting the way back home? Why not leave a constant trail? Trample the earth as you walk and never forget where you have been!"
+      "text": "Устал забывать дорогу домой? Почему бы не оставить постоянную тропу? Растопчи землю, где ты ходишь и ты никогда не забудешь, где был!"
     }
   ],
   "effects": [
-    "Creates paths as you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "Создаёт тропинки, где ты ходишь.",
+    "Повышенная область за счёт расширенный.",
+    "Максимально 1 уровень.",
+    "Требует 1 слот способности."
   ]
 }

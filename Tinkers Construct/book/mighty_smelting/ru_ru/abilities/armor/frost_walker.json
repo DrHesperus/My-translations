@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:frost_walker",
   "text": [
     {
-      "text": "Gain the ability to walk on water. Well, not exactly, but it's pretty close."
+      "text": "Получи способность ходить по воде. Ну скажем так, не совсем верно, но это довольно близко."
     }
   ],
   "effects": [
-    "Water freezes as you walk",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "Замораживает воду, где ты ходишь.",
+    "Повышенная область за счёт расширенный.",
+    "Максимально 1 уровень.",
+    "Требует 1 слот способности."
   ]
 }

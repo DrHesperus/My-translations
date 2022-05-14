@@ -2004,7 +2004,7 @@
 "modifier.tconstruct.gilded.description": "Обменивает слот способности на 2 слота улучшения!",
 "modifier.tconstruct.draconic": "Драконовский",
 "modifier.tconstruct.draconic.flavor": "Завоёван краем!",
-"modifier.tconstruct.draconic.description": "Голова большого зверя даёт твоему инструменту 2-й слот улучшения!",
+"modifier.tconstruct.draconic.description": "Голова большого зверя даст инструменту 2-й слот улучшения!",
 
 "__comment": "Three more +1 upgrade modifiers for modpacks",
 "modifier.tconstruct.red_extra_upgrade": "Красное доп. улучшение",

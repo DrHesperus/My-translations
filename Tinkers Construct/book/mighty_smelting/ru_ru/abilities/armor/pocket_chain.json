@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:pocket_chain",
   "text": [
     {
-      "text": "Ever find stuff is too hard to reach in your pocket?"
+      "text": "Поиск вещей в своих карманах слишком труднодоступно?"
     }
   ],
   "effects": [
-    "Access legging inventory with sneaking and leggings interact",
-    "Requires tool belt or shield strap",
-    "Grants +1 slot to tool belt and shield strap",
-    "Requires 1 upgrade slot"
+    "Доступ к инвентарю поножам, используя приседание и взаимодействие с поножами.",
+    "Требует пояс для инструментов и ремешок щита.",
+    "Даёт +1 слот в пояс для инструментов и ремешок щита.",
+    "Требует 1 слот способности."
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Weapon Abilities",
+  "title": "Орудийные способности",
   "text": [
     {
-      "text": "With these abilities perhaps you could forge the strongest weapon of all. Of course what weapon you choose is up to you."
+		"text": "С этими способностями, возможно, ты сможешь сковать сильнейшее оружие из всех. Разумеется, какое оружие ты выберешь это твоё дело."
     },
     {
-      "text": "These upgrades can provide your weapon with extra effects or boost your overall rate of attack.",
-      "paragraph": true
+		"text": "Эти улучшения могут предоставить твоему оружию дополнительные эффекты или увеличить общую скорость атаки.",
+		"paragraph": true
     }
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:unarmed",
   "text": [
     {
-      "text": "Everybody is Kung Fu Fighting."
+      "text": "Все сражаются в кунг-фу."
     }
   ],
   "effects": [
-    "Increases unarmed damage",
-    "Single level",
-    "Requires 1 ability slot"
+    "Повышает рукопашный урон.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
   ]
 }

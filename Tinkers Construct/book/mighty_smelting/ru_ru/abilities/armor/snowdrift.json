@@ -2,14 +2,14 @@
   "modifier_id": "tconstruct:snowdrift",
   "text": [
     {
-      "text": "Look at the snow golem. Isn't he so cool, leaving trails of snow? Don't you wish you could leave trails of snow too?"
+		"text": "Посмотри на снеговика. Разве он не очень крут, оставляя снежные следы? Разве ты не хотел бы тоже оставлять снежные следы?"
     }
   ],
   "effects": [
-    "Creates snow as you walk",
-    "Does not work in warm biomes",
-    "Area boosted by expanded",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "Создаёт снег при хождении.",
+    "Не работает в тёплых биомах.",
+    "Повышенная область за счёт расширенный.",
+    "Максимально 1 уровень.",
+    "Требует 1 слот способности."
   ]
 }

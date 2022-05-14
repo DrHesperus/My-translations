@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:reach",
   "text": [
     {
-      "text": "Reach for the stars! Or the top shelf... Or the medium height shelf if you are short..."
+      "text": "Тянуться за звёздами! Или до верхней полки... Или до полки средней высоты, если ты низкий..."
     }
   ],
   "effects": [
-    "Increases reach distance for blocks and mining",
-    "Multiple levels, each level allows you to reach further",
-    "Requires 1 Ability Slot per level"
+    "Повышает расстояние досягаемости.",
+    "Многоуровневый, с каждым уровнем позволит дотянуться ещё дальше.",
+    "Требует 1 слот способности с каждым уровнем."
   ]
 }

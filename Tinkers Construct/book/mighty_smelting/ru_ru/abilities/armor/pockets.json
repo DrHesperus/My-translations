@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:pockets",
   "text": [
     {
-      "text": "Only thing you need now is a pocket calculator so you can properly add up the number of pockets."
+      "text": "1 вещь, которая тебе сейчас понадобится — это карманный калькулятор, т.к ты верно сможешь посчитать количество карманов."
     }
   ],
   "effects": [
-    "Adds more inventory space",
-    "Access with sneaking and leggings interact",
-    "Multiple levels, each level gives +9 slots",
-    "Requires 1 ability slot"
+    "Добавит больше места в инвентарь.",
+    "Доступ при помощи приседание и взаимодействие с поножами.",
+    "Многоуровневый, каждый уровень даёт +9 слотов.",
+    "Требует 1 слот способности."
   ]
 }

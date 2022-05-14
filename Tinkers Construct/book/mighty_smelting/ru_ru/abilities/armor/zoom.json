@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:zoom",
   "text": [
     {
-      "text": "I spy with my little eyes, something off in the vast distance."
+      "text": "Я высматриваю своими маленькими глазками, кое-что в далёком просторе."
     }
   ],
   "effects": [
-    "Allows you to zoom in",
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
+    "Позволит увеличивать масштаб.",
+    "Максимально 1 уровень.",
+    "Требует 1 слот способности."
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:double_jump",
   "text": [
     {
-      "text": "Bunny hopping increases your skills and makes you way better at the game. Don't forget to throw in some proning for maximum effect."
+      "text": "Распрыжка повысит твои навыки и сделает тебя значительно лучше в игре. Для достижения максимального эффекта не забудь немного попрыгать."
     }
   ],
   "effects": [
-    "Allows an extra jump",
-	"Multiple levels, each level gives an extra jump",
-    "Requires 1 ability slot"
+    "Допускает лишний прыжок.",
+	"Многоуровневый, каждый уровень даёт лишний прыжок.",
+    "Требует 1 слот способности."
   ]
 }

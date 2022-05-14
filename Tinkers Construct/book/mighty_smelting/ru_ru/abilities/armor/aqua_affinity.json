@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:aqua_affinity",
   "text": [
     {
-      "text": "An alluring attunement to the aquaeous area that anti activates all air afflictions."
+      "text": "Заманчивая гармония для водной области, которая контрактивирует все воздушные недуги."
     }
   ],
   "effects": [
-    "Increases underwater mining speed",
-    "Single level",
-    "Requires 1 ability slot"
+    "Повышает подводную скорость добычи.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
   ]
 }

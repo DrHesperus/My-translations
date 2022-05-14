@@ -2,15 +2,16 @@
   "modifier_id": "tconstruct:wetting",
   "text": [
     {
-      "text": "Its okay if you wet yourself a bit when you get hurt. Wait, you did not add this modifier to your pants?"
+      "text": "Ничего страшного, если ты при ударе немного намочишь себя. Погоди, ты же не добавишь этот модификатор на свои штаны?"
     },
     {
-      "text": "Right clicking a tank with pants fills it", "paragraph": true
+      "text": "ПКМ штанами по баку наполнит их.",
+	  "paragraph": true
     }
   ],
   "effects": [
-    "Applies fluid effects when damaged",
-    "Single level",
-    "Requires 1 ability slot"
+    "При повреждении налаживает жидкостные эффекты.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
   ]
 }

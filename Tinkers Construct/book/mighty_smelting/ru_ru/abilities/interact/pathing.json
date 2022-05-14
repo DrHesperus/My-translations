@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:pathing",
   "text": [
     {
-      "text": "If you can't find the golden brick road make your own dirt path road."
+      "text": "Если ты не можешь найти дорогу из золотого кирпича, проложи свою собственную тропинку."
     }
   ],
   "effects": [
-     "Allows you to make paths with your tools",
-    "Single Level",
-    "Requires 1 Ability Slot"
+    "Позволяет делать тропинки инструментом.",
+    "Одноуровневый.",
+    "Требует 1 слот способности."
   ]
 }

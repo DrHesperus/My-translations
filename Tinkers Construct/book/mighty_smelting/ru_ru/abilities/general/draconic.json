@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:draconic",
   "text": [
     {
-      "text": "It's time to get a§ohead§r of the competition!"
+      "text": "Настало время §oнавлечь на себя§r конкурента!"
     }
   ],
   "effects": [
-    "Adds another ability slot",
-    "Single Level",
-    "Does not require an ability slot"
+    "Добавит ещё 1 слот способности.",
+    "Одноуровневый",
+    "Не требует слот способности."
   ]
 }

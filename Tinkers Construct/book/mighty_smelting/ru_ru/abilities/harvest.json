@@ -1,12 +1,12 @@
 {
-  "title": "Harvest Abilities",
+  "title": "Способности для сбора",
   "text": [
     {
-      "text": "Harvest crops with ease! Er wrong type of harvest... These abilities can help you harvest blocks better in special situations!"
+		"text": "Собирать урожай на раз-два! Ну ... неправильный тип сбора ... Эти способности могут помочь тебе лучше добывать блоки в особых ситуациях!"
     },
     {
-      "text": "These abilities can be used to expand your power of harvesting by allowing harvesting in unique ways.",
-      "paragraph": true
+		"text": "Эти способности можно использовать для расширения возможностей добывания, позволяя добывать уникальными способами.",
+		"paragraph": true
     }
   ]
 }

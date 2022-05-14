@@ -1,12 +1,12 @@
 {
-  "title": "General Abilities",
+  "title": "Основные способности",
   "text": [
     {
-      "text": "Abilities are a special type of modifier that can drastically alter how your tool performs. These require an ability slot specifically, which are rarer than upgrade slots, but stronger per slot."
+		"text": "Способности — это особый тип модификатора, которые могут серьёзно исказить действия инструмента. Если говорить конкретнее они требуют слот способности, которые очень редки, чем слоты улучшения, но сильнее с каждым слотом."
     },
     {
-      "text": "These abilities will enhance your tool all around!",
-      "paragraph": true
+		"text": "Эти способности усилят инструмент в целом!",
+		"paragraph": true
     }
   ]
 }
