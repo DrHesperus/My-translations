@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:magnetic",
   "text": [
     {
-      "text": "Сила в этом инструменте велика"
+      "text": "The force is strong with this tool."
     }
   ],
   "effects": [
-    "Притягивайте предметы во время копания или атакуя мобов",
-    "Многоуровневый, магнитная сила увеличивается с каждым уровнем",
-    "Требуется 1 слот для улучшения за уровень"
+    "Attacking mobs or mining brings items towards you",
+    "Multiple levels, each level increases magnetic strength",
+    "Requires 1 Upgrade Slot per level"
   ]
 }

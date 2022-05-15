@@ -2,15 +2,15 @@
   "modifier_id": "tconstruct:antiaquatic",
   "text": [
     {
-      "text": "Морские твари трепещут от страха перед теми, кто владеет подобным оружием."
+      "text": "The enemies of the sea tremble in fear from those wielding weapons with this trait. "
     },
     {
-      "text": "Предупреждение: Вы ужасный человек, если используете это на рыбах, черепахах, дельфинах или любых других мирных морских обитателях."
+      "text": "Disclaimer: You are a horrible person for using this on fish, turtles, dolphins, or any other peaceful sea life."
     }
   ],
   "effects": [
-    "Увеличивает урон, наносимый морским существам",
-	"Многоуровневый, с каждым уровнем урон увеличивается ещё больше",
-    "Требуется 1 слот для улучшения за уровень"
+    "Increases damage to sea creatures",
+	"Multiple levels, each level increases damage further",
+    "Requires 1 Upgrade Slot per level"
   ]
 }

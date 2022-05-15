@@ -1,15 +1,15 @@
 {
-  "title": "Функциональность",
+  "title": "Operation",
   "text": [
     {
-      "text": "1: В эти 3 слота Вы помещаете то, что хотите расплавить. Это могут быть руды, слитки или что-то ещё!"
+      "text": "1: These 3 slots are where you put in what you want to melt. It may be ores, ingots, or anything else you feel like attempting to melt!"
     },
     {
-      "text": "2: Здесь будет отображаться расплавленный материал. Помните, что в плавильной печи одновременно может находиться только один расплавленный материал.",
+      "text": "2: This is where your molten material will show. Remember that you may only have one molten material at a time in the melter.",
       "paragraph": true
     },
     {
-      "text": "3: Здесь отображается топливо. Если вы используете нагреватель, он будет отображён как показано на рисунке, и вы сможете положить любой предмет, который может быть использован в качестве топлива. Если вы исплользуете резервуар, то отобразится индикатор жидкого топлива.",
+      "text": "3: This is where your fuel shows. If you have a heater it will appear as shown and you will be able to insert any item that can be used as fuel. If you have a seared tank it will show a bar with liquid fuel in it.",
       "paragraph": true
     }
   ]

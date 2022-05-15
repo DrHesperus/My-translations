@@ -1,15 +1,18 @@
-// Sections - Puny Smelting
-intro=Вступление
-melter=Плавильная печь
+intro=Ознакомление
+melter=Плавильщик
 moving_fluids=Перемещение жидкостей
 casting=Литьё
-tier_two_materials=Материалы 2-го уровня
+tier_two_materials=Материалы 2 уровня
 
-upgrades=Улучшения
-upgrades.general=§1§lОсновные§r
-upgrades.harvest=§1§lДля копания§r
-upgrades.weapon=§1§lДля оружия§r
+upgrades=Upgrades
+upgrades.subtext=Инструменты можно усилить при помощи улучшений, впрочем, только ограниченное число можно наложить на инструмент.
+upgrades.group_general=Основные
+upgrades.group_harvest=Добыча
+upgrades.group_weapon=Оружие
+upgrades.group_damage=Повышен. урон
+upgrades.group_armor=Броня
 
-slotless=Бесслотовые модификаторы
-slotless.slotless=§1§lБесслотовые§r
-slotless.bonus_upgrades=§1§lУлучшения++§r
+slotless=Безслотовые модификаторы
+slotless.subtext=Эти модификаторы не требуют для наложения каких-либо слотов, по желанию ты можешь иметь все.
+slotless.group_slotless=Безслотовые
+slotless.group_bonus_upgrades=Улучшения++

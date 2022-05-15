@@ -1,17 +1,16 @@
 {
-  "title":"Выплавка для Начинающих",
+  "title": "Puny Smelting",
   "text": [
     {
-      "text": "Ладно, теперь, когда Вы закончили возиться с этими слабыми материалами, которые, по мнению Селены вы должны были использовать, настало время для НАСТОЯЩИХ ЛИТЕЙНЫХ МАТЕРИАЛОВ, ТАКИХ КАК МЕТАЛЛ."
+      "text": "Alright, now that you are done tinkering with those wimpy materials Selena thinks you should use, it's time for some REAL TINKER MATERIALS LIKE I USE. METAL"
     },
     {
-      "text": "Очевидно, что ты никогда не станешь таким же крутым и сильным, как я, ибо я — единственный и неповторимый §lTHRUUL M'GON§r, однако я уверен, что такой начинающий литейщик, как Ты, сможет кое-чему научиться и дать жару.",	
-	  "paragraph": true
+      "text": "Obviously you will never be as cool and strong as I am for I am the one true §lTHRUUL M'GON§r however, I'm sure a novice tinker such as yourself can learn a thing or two and turn up the heat.",
+      "paragraph": true
     },
-	 {
-      "text": "Не забудьте присоединиться ко мне в моей следующей литейной книге. Как только у вас появится плавильная печь, просто вылейте немного обожжёного камня на книгу!",	
-	  "paragraph": true
+    {
+      "text": "Don't forget to join me in my next book Tinker. Once you have your melter simply pour some seared stone over a book!",
+      "paragraph": true
     }
-	
   ]
 }

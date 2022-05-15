@@ -2,15 +2,17 @@
   "modifier_id": "tconstruct:spilling",
   "text": [
     {
-      "text": "Kinda gross that your tool is leaking. But also very effective!"
+      "text": "Немного стрёмно, что твой инструмент протекает. Но также и эффективно!"
     },
     {
-      "text": "Right clicking a tank with tool fills it", "paragraph": true
+      "text": "ПКМ по баку инструментом наполнит его.",
+	  "paragraph": true
     }
   ],
   "effects": [
-    "Drains tank on attacking",
-    "Various effects based on fluid, including fire and poison",
-    "Requires 1 Ability Slot, single level"
+    "Опустошает бак при ударе.",
+    "Различные эффекты на основе жидкости, включая огонь и отравление.",
+    "Требует 1 слот способности."
+	"Одноуровневый."
   ]
 }
