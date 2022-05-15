@@ -1,11 +1,11 @@
 {
-  "title": "Sand Casts",
+  "title": "Песочные литейные формы",
   "text": [
     {
-      "text": "To cast your tool part: first craft a blank sand cast and use the interact button to put it into a casting table. Craft a tool part in the part builder and use it on the blank sand cast, then use it again to remove the part. You can then pour molten metal into the table and grab your part once it's cooled. The sand cast is used up in the process."
+      "text": "Чтобы отлить часть инструмента: прежде всего создай пустую песочную литейную форму и используй клавишу взаимодействия, чтобы положить её на разливочный стол. Создай часть инструмента в сборщике частей и используй её на пустой песочной литейной форме, затем используй её снова, чтобы убрать часть. Затем ты можешь вылить расплавленный металл на стол и забрать часть, когда она остынет. При этом песочная литейная форма израсходуется."
     },
     {
-      "text": "Non-blank sand casts will revert into blank sand casts when picked up.",
+      "text": "Не пустая песочная литейная форма возвратится в пустую песочную литейную форму, если она взята.",
       "paragraph": true
     }
   ]

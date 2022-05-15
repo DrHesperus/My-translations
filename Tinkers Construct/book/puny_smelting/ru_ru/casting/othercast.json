@@ -1,5 +1,5 @@
 {
-  "title": "Composite Casts",
+  "title": "Биметаллические литейные формы",
   "image": {
     "file": "tconstruct:book/images/compositecast.png",
     "width": 177,
@@ -7,10 +7,10 @@
   },
   "text": [
     {
-      "text": "Composite casting allows you to make new materials by pouring fluid over an item/block in a casting table/basin."
+      "text": "Биметалл позволяет тебе сделать новый материалы путём заливки жидкости на предмет/блок в разливочный стол/ковш."
     },
     {
-      "text": "Notable materials are Slimewood and Nahuatl, which are made by pouring slime or molten obsidian, respectively, over wooden tool parts.",
+      "text": "Примечательные материалы — Слизневое дерево и Науатль, которые делаются путём разливания слизи или переплавленного обсидиана, соответственно, на деревянные части инструмента.",
       "paragraph": true
     }
   ]

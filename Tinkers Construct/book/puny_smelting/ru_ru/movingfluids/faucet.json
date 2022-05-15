@@ -1,11 +1,11 @@
 {
-  "title": "Faucets",
+  "title": "Краны",
   "image": {
     "file": "tconstruct:book/images/faucet_pour.png"
   },
   "text": [
     {
-      "text": "For all your kitchen and bathroom... er fluid moving needs."
+      "text": "Невзирая на твою кухню и ванную... как бы это сказать, нужно перемещать жидкость."
     }
   ] 
 }

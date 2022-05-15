@@ -1,15 +1,15 @@
 {
-  "title": "Operation",
+  "title": "Функционирование",
   "text": [
     {
-      "text": "1: These 3 slots are where you put in what you want to melt. It may be ores, ingots, or anything else you feel like attempting to melt!"
+      "text": "1: Эти 3 слота, куда ты поместишь то, что хочешь переплавить. Это могут быть руды, слитки, или ещё что-нибудь, что тебе захочется попытаться переплавить!"
     },
     {
-      "text": "2: This is where your molten material will show. Remember that you may only have one molten material at a time in the melter.",
+      "text": "2: Это место, где отображаются переплавленные материалы. Запомни, что в плавильщике одновременно можешь иметь только 1 переплавленный материал.",
       "paragraph": true
     },
     {
-      "text": "3: This is where your fuel shows. If you have a heater it will appear as shown and you will be able to insert any item that can be used as fuel. If you have a seared tank it will show a bar with liquid fuel in it.",
+      "text": "3: Это место отображает топливо. Если ты разместишь нагреватель, он отобразится, как показано ниже и ты сможешь вставить любой предмет, который можно использовать как топливо. Если ты разместишь выжженный бак, он отобразит в нём полоску с жидким топливом.",
       "paragraph": true
     }
   ]

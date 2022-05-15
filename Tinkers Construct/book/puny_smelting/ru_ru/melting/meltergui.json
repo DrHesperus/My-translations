@@ -1,5 +1,5 @@
 {
-  "title": "Melter GUI",
+  "title": "GUI плавильщика",
   "image": {
     "file": "tconstruct:book/images/meltergui.png",
     "width": 172,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Your basic melter GUI. No more, no less."
+      "text": "Основное GUI плавильщика. Ни много на мало."
     }
 	]
 }

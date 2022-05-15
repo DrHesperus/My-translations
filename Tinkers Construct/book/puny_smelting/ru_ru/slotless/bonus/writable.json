@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:writable",
   "text": [
     {
-      "text": "As words flow through your head, your tool feels as if it could learn a little more as well. Perhaps you could also write with your tool."
+      "text": "Хоть и поток слов поступает по твоей голове, твой инструмент чувствует, как будто он тоже может научиться немногим больше. Вероятно, ты также мог бы писать с помощью инструмента."
     }
   ],
   "effects": [
-    "Adds an upgrade slot",
-    "Single Use"
+    "Добавляет слот улучшения.",
+    "Разовое применение."
   ]
 }

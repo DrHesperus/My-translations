@@ -1,11 +1,11 @@
 {
-  "title": "The Melter",
+  "title": "Плавильщик",
   "image": {
     "file": "tconstruct:book/images/melter.png"
   },
   "text": [
     {
-      "text": "This here is your most basic melter able to perform a variety of simple tasks."
+      "text": "Самый простой плавильщик, может выполнять различные простые задачи."
     }
   ]
 }

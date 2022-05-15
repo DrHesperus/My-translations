@@ -1,15 +1,15 @@
 {
-  "title": "Copper Cans",
+  "title": "Медные банки",
   "text": [
     {
-      "text": "Copper cans (and buckets!) can be used to manually transfer fluids around."
+      "text": "Медные банки (и вёдра!) можно использовать для ручного перемещения жидкостей."
     },
     {
-      "text": "Copper cans hold 1 ingot worth of fluid.",
+      "text": "Медные банки могут хранить в общей стоимость 1 слиток жидкости.",
       "paragraph": true
     },
     {
-	    "text": "Copper cans will stack up to 16.",
+	    "text": "Медные банки складывают до 16 предметов.",
       "paragraph": true
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "title": "Moving Fluids",
+  "title": "Перемещение жидкостей",
   "image": {
     "file": "tconstruct:book/images/movingfluids.png"
   },
   "text": [
     {
-      "text": "Now that you know how to use your puny melter you may be asking 'But Thruul, how do I get these metals out?' Good question Tinker!"
+      "text": "Теперь ты знаешь, как использовать маленький плавильщик. Ты можешь спросить 'Но Thruul, как мне достать эти металлы?' Толковый вопрос, Литейщик!"
     }
   ]
 }

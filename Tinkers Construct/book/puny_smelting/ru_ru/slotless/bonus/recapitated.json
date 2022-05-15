@@ -2,11 +2,11 @@
   "modifier_id": "tconstruct:recapitated",
   "text": [
     {
-      "text": "So first you want to take their heads off, and now you want to put them back on? Who are you? Frankenstein?"
+      "text": "Итак, сначала ты хочешь взять и отсечь их головы, а теперь ты хочешь положить их обратно? Ты кто такой? Франкенштейн?"
     }
   ],
   "effects": [
-    "Adds an Upgrade Slot",
-    "Single Use"
+    "Добавляет слот улучшения.",
+    "Разовое применение."
   ]
 }

@@ -1014,10 +1014,10 @@
 "block.tconstruct.seared_lantern": "Выжженный фонарь",
 "block.tconstruct.seared_lantern.tooltip": "Идеален для декорирования, хранит 100 мв жидкости.\nХранит жидкость после разрушения.",
 
-"block.tconstruct.seared_faucet": "Выжженный горн",
-"block.tconstruct.seared_faucet.tooltip": "Сливает жидкотекучести из Плавилен или Баков.",
+"block.tconstruct.seared_faucet": "Выжженный кран",
+"block.tconstruct.seared_faucet.tooltip": "Сливает жидкотекучести из плавилен или баков.",
 "block.tconstruct.seared_channel": "Выжженный сток",
-"block.tconstruct.seared_channel.tooltip": "Распространяет разлитую сверху расплав.",
+"block.tconstruct.seared_channel.tooltip": "Распространяет расплав, вылитый сверху.",
 
 "block.tconstruct.seared_basin": "Выжженный разливочный ковш",
 "block.tconstruct.seared_basin.tooltip": "Отливает предметы, используя расплавленные металлы из Плавильни.",
@@ -1025,14 +1025,14 @@
 "block.tconstruct.seared_table.tooltip": "Отливает предметы, используя расплавленные металлы из Плавильни.",
 
 "block.tconstruct.seared_melter": "Выжженный плавильщик",
-"block.tconstruct.seared_melter.tooltip": "Первая плавильня.\nПоставь выше Бак или Нагреватель, чтобы заправить его топливом.",
+"block.tconstruct.seared_melter.tooltip": "Первая плавильня.\nПоставь выше бак или нагреватель, чтобы заправить его топливом.",
 "gui.tconstruct.melter": "Плавильщик",
 "gui.tconstruct.melting.capacity": "Объём:",
 "gui.tconstruct.melting.available": "Свободно:",
 "gui.tconstruct.melting.used": "Использовано:",
 
 "block.tconstruct.seared_heater": "Выжженный нагреватель",
-"block.tconstruct.seared_heater.tooltip": "Твёрдое топливо источник для Нагревателя.",
+"block.tconstruct.seared_heater.tooltip": "Твёрдое топливо источник для нагревателя.",
 "gui.tconstruct.heater": "Нагреватель",
 
 "block.tconstruct.smeltery_controller": "Регулятор плавильни",
@@ -1091,7 +1091,7 @@
 "block.tconstruct.scorched_lantern": "Обожжённый фонарь",
 "block.tconstruct.scorched_lantern.tooltip": "Идеален для декорирования, хранит 100 мб жидкости.\nХранит жидкость после разрушения.",
 
-"block.tconstruct.scorched_faucet": "Обожжённый горн",
+"block.tconstruct.scorched_faucet": "Обожжённый кран",
 "block.tconstruct.scorched_faucet.tooltip": "Сливает жидкотекучести из литейн и баков.",
 "block.tconstruct.scorched_basin": "Обожжённый разливочный ковш",
 "block.tconstruct.scorched_basin.tooltip": "Отливает предметы, используя расплавленные металлы из Литейной, требует литейную форму или золотую платформенную часть для литья.",
@@ -2514,8 +2514,8 @@
 
 "jei.tconstruct.casting.basin": "Разливочный ковш",
 "jei.tconstruct.casting.table": "Разливочный стол",
-"jei.tconstruct.casting.cast_kept": "Заготовку можно снова использовать в недавних рецептах.",
-"jei.tconstruct.casting.cast_consumed": "Форма предмета употребляется после отливки.",
+"jei.tconstruct.casting.cast_kept": "Литейную форму можно снова использовать в недавних рецептах.",
+"jei.tconstruct.casting.cast_consumed": "Литейная форма предмета тратится после отливки.",
 
 "jei.tconstruct.molding.title": "Формовка",
 "jei.tconstruct.molding.pattern_consumed": "Модель употребляется при изготовлении.",
@@ -2576,7 +2576,7 @@
 "advancements.tconstruct.smeltery.puny_smelting.title": "Новобранец плавильни",
 "advancements.tconstruct.smeltery.puny_smelting.description": "Создай справочник лёгкая выплавка.",
 "advancements.tconstruct.smeltery.melter.title": "Основная плавильня",
-"advancements.tconstruct.smeltery.melter.description": "Сформируй начальную структуру из плавильщика, нагревателя/резервуара, разливочного ковша, разливочного стола и горна.",
+"advancements.tconstruct.smeltery.melter.description": "Сформируй начальную структуру из плавильщика, нагревателя/резервуара, разливочного ковша, разливочного стола и крана.",
 "advancements.tconstruct.smeltery.sand_casting.title": "Песочное литьё",
 "advancements.tconstruct.smeltery.sand_casting.description": "Сформируй одноразовые Начальные песочные заготовки.",
 "advancements.tconstruct.smeltery.gold_casting.title": "Яркие заготовки",
@@ -2598,7 +2598,7 @@
 "advancements.tconstruct.foundry.fantastic_foundry.title": "Выплавка в незере",
 "advancements.tconstruct.foundry.fantastic_foundry.description": "Создай фантастическую литейную, справочник выплавка в незере.",
 "advancements.tconstruct.foundry.alloyer.title": "Основной сплавщик",
-"advancements.tconstruct.foundry.alloyer.description": "Создай начальную конструкцию легирования используя сплавитель, топливный резервуар, несколько резервуаров для слитков, разливочный стол, разливочный ковш и горн.",
+"advancements.tconstruct.foundry.alloyer.description": "Создай начальную конструкцию легирования используя сплавитель, топливный резервуар, несколько резервуаров для слитков, разливочный стол, разливочный ковш и кран.",
 "advancements.tconstruct.foundry.structure.title": "Фантастическая литейная",
 "advancements.tconstruct.foundry.structure.description": "Создай регулятор литейной из расплавленного обсидиана, построй литейную и открой интерфейс литейной.",
 "advancements.tconstruct.foundry.blaze.title": "Пылающая кровь",

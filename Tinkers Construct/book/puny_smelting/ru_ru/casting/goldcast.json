@@ -1,5 +1,5 @@
 {
-  "title": "Gold Casts",
+  "title": "Золотая литейная форма",
   "image": {
     "file": "tconstruct:book/images/gold_pick.png",
     "width": 170,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Gold casts are reusable. To make one, simply pour one ingots worth of molten gold over a tool part placed in a casting table. The tool part is used up in the process."
+      "text": "Золотые литейные формы — многоразовые. Чтобы сделать 1, просто вылей на общую сумму 1 слиток переплавленного золота на часть инструмента, помещённую на разливочный стол. Часть инструмента израсходуется в ходе дела."
     }
   ]
 }

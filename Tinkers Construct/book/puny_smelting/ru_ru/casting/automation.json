@@ -1,5 +1,5 @@
 {
-  "title": "Automation",
+  "title": "Автоматизация",
   "image": {
     "file": "tconstruct:book/images/cast_automation.png",
     "width": 88,
@@ -7,10 +7,10 @@
   },
   "text": [
     {
-      "text": "Casting basins and tables interact with hoppers, allowing items to easily be inserted and cooled items to be removed."
+      "text": "Разливочные ковши и столы взаимодействуют с воронками, позволяя без труда помещать предметы и охлаждать их для последующего снятия."
     },
     {
-      "text": "Comparators also make redstone turn funny colors when connected to a basin or table, and a redstone pulse can be used to swap the input and output.",
+      "text": "Компараторы также заставляют редстоун гореть прикольными цветами при присоединении к ковшу или столу, а импульс редстоуна можно использовать, чтобы поменять местами ввод и вывод.",
       "paragraph": true
     }
   ]

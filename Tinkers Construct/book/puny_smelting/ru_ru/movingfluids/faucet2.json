@@ -1,15 +1,15 @@
 {
-  "title": "Faucets",
+  "title": "Краны",
   "text": [
     {
-      "text": "Faucets are your main way to get fluids out from melters, smelteries, tanks, or any valid fluid container. Simply place it on the block, and right click to pour into a fluid container below."
+      "text": "Краны — это основной способ вывода жидкости из плавильщиков, плавилен, баков, или любого допустимого жидкостного контейнера. Просто помести его на блок, и пкм по нему, чтобы вылить в жидкостный контейнер, расположенный ниже."
     },
     {
-      "text": "Faucets will pour out from the sides or bottom of the connected block to the block directly below the faucet itself.",
+      "text": "Краны выльет из боковых и нижних присоединённых блоков в блок прямо вниз самого крана.",
       "paragraph": true
     },
     {
-      "text": "Faucets respond to redstone signals, so simply placing an activated lever next to it will make it constantly pour out its contents. A redstone pulse will pour out its contents until the destination is full or the source is empty.",
+      "text": "Краны реагируют на сигналы редстоуна, поэтому, просто поставив и активировав рядом рычаг, ты заставишь его постоянно сливать содержимое. По редстоун-импульсу содержимое будет выливаться до тех пор, пока место назначения не будет заполнено или источник не опустеет.",
       "paragraph": true
     }
   ]
