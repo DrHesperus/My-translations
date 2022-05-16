@@ -1,6 +1,8 @@
 {
-  "title": "Armor Upgrades",
+  "title": "Улучшения для брони",
   "text": [
-    { "text": "Armor upgrades provide ways to modify your jump, speed, and other such factors." }
+    {
+		"text": "Улучшения для брони предоставят способы изменить прыжок, скорость, и другие подобные показатели."
+	}
   ]
 }

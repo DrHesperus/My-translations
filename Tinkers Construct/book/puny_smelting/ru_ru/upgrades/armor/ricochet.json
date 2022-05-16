@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:ricochet",
   "text": [
     {
-      "text": "Time to make a daring escape."
+      "text": "Пора совершить дерзкий побег."
     }
   ],
   "effects": [
-    "Increases knockback you receive",
-    "Multiple levels, each level further increases knockback",
-    "Requires 1 upgrade slot per level"
+    "Увеличивает полученное отбрасывание.",
+    "Многоуровневый, каждый уровень сильнее увеличивает отбрасывание.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

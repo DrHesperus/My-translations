@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:overforced",
   "text": [
     {
-      "text": "Overforced... what a name, using too much force?"
+      "text": "Перекованный... какое название использующее слишком много силы?"
     }
   ],
   "effects": [
-     "Increases overslime capacity",
-    "Multiple levels, each level increases overslime capacity further",
-    "Requires 1 Upgrade Slot per level"
+    "Повышает ёмкость слизи.",
+    "Многоуровневый, каждый уровень ещё повышает ёмкость слизи.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

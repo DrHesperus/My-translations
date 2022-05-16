@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:item_frame",
   "text": [
     {
-      "text": "Tired of holding your clock and compass? Why not wear it instead?"
+      "text": "Устал держать часы и компас? А почему бы их вместо этого не носить?"
     }
   ],
   "effects": [
-    "Adds slots to the helmet, interact to access",
-    "Helmet will render items when worn",
-    "Requires 1 Upgrade Slot per level"
+    "Добавляет слоты в шлем, доступ через взаимодействие.",
+    "Шлем отобразит предметы при ношении.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

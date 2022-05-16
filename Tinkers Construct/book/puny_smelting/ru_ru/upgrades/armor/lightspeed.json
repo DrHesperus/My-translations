@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:lightspeed_armor",
   "text": [
     {
-      "text": "The light flows through your boots and helps you run faster faster."
+      "text": "Свет проходит через твои ботинки и помогает тебе бежать быстрее."
     }
   ],
   "effects": [
-    "Run faster in well lit areas",
-    "Multiple levels, increases speed further with each level",
-    "Requires 1 Upgrade Slot per level"
+    "Бегай быстрее в хорошо освещённых областях.",
+    "Многоуровневый, ещё сильнее увеличивает скорость с каждым уровнем.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

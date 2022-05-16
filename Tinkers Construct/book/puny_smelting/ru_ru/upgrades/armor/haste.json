@@ -2,16 +2,16 @@
   "modifier_id": "tconstruct:haste_armor",
   "text": [
     {
-      "text": "Adding redstone to a chestplate seems to make all tools faster, like your arms become more efficient."
+      "text": "Добавив редстоун в нагрудник, кажется, сделает все инструменты быстрее, будто твои руки стали более эффективны."
     },
     {
-      "text": "Like really, crazy stuff, amiright?",
+      "text": "Как взаправду, сумасшедшая вещь, я прав?",
       "paragraph": true
     }
   ],
   "effects": [
-    "Increases mining speed",
-    "Multiple levels, each level increases speed a bit more",
-    "Requires 1 Upgrade Slot per level"
+    "Повышает скорость добычи.",
+    "Многоуровневый, каждый уровень немного повышает скорость добычи.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

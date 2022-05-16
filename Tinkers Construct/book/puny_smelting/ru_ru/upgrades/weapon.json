@@ -1,12 +1,12 @@
 {
-  "title": "Weapon Upgrades",
+  "title": "Улучшения для оружия",
   "text": [
     {
-      "text": "With these upgrades perhaps you could forge the strongest weapon of all. Of course what weapon you choose is up to you."
+		"text": "С этими улучшениями, вполне вероятно, что ты сможешь сковать прочнейшие инструменты из всех. Разумеется, какое оружие ты выберешь это на твоё усмотрение."
     },
     {
-      "text": "These upgrades can help increase your weapon's potential, increase the damage you do overall, to specific mobs, or to both. The choice is yours.",
-      "paragraph": true
+		"text": "Эти улучшения могут помочь тебе усилить возможности оружия, увеличить общий наносимый урон, по конкретным монстрам, или и тем, и другим. Выбирать тебе.",
+		"paragraph": true
     }
   ]
 }

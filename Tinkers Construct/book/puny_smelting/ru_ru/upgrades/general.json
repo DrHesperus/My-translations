@@ -1,16 +1,16 @@
 {
-  "title": "General Upgrades",
+  "title": "Основные улучшения",
   "text": [
     {
-      "text": "Upgrades are modifiers added to tools using upgrade recipes. Each tool has a limited number of upgrade slots to start, though the number of slots can be increased in a few ways."
+		"text": "Улучшения — это модификаторы, добавляемые на инструменты, используя рецепты улучшений. Для начала каждый инструмент имеет ограниченное количество слотов улучшений. Впрочем, количество слотов можно увеличить несколькими способами."
     },
 	{
-      "text": "Many of the upgrades listed in general, weapon, bonus damage, and general work on armor as well!",
-	  "paragraph": true
+		"text": "Множество улучшений перечислены в основные, оружие, повышен. урон, а вот основные с таким же успехом работают на броне!",
+		"paragraph": true
     },
     {
-      "text": " General upgrades work well on any tool! These upgrades will enhance your tool all around, by increasing its attack damage, mining speed, durability, and more!",
-      "paragraph": true
+		"text": "Основные улучшения хорошо подходят к любым инструментам! Эти улучшения усилят инструмент во всех отношениях, увеличив его урон атаки, скорость добычи, прочность, и многое другое!",
+		"paragraph": true
     }
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:experienced",
   "text": [
     {
-      "text": "You feel a little smarter with some experience under your belt."
+      "text": "Ты чувствуешь чуточку умнее, имея за плечами некоторый опыт."
     }
   ],
   "effects": [
-    "Increases XP gain from blocks and mobs",
-    "Multiple levels, increases experience gained with each level",
-    "Requires 1 Upgrade Slot per level"
+    "Увеличивает полученный опыт от блоков и монстров.",
+    "Многоуровневый, увеличивает полученный опыт с каждым уровнем.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

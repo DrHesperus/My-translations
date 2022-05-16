@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:feather_falling",
   "text": [
     {
-      "text": "Lighter than a feather, but more than twice as deadly."
+      "text": "Легче пера, но сверх убийственный."
     }
   ],
   "effects": [
-    "Reduces fall damage",
-	"Multiple levels, each level decreases fall damage further",
-	"Requires 1 Upgrade Slot per level"
+    "Снижает урон от падения.",
+	"Многоуровневый, каждый уровень ещё больше снижает урон от падения.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

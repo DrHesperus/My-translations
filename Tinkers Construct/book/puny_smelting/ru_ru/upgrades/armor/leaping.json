@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:leaping",
   "text": [
     {
-      "text": "Leap for the stars, and if you cannot reach them, climb a mountain then try and reach them."
+      "text": "Прыгни до звёзд, а если ты не сможешь достать их, взберись на гору, затем попробуй и достань их."
     }
   ],
   "effects": [
-    "Increases jump height and safe fall height",
-    "Multiple levels, each level increases jump and fall damage height further",
-    "Requires 1 upgrade slot per level"
+    "Повышает высоту прыжка и высоту безопасного падения.",
+    "Многоуровневый, каждый уровень сильнее увеличивает прыжок и высоту урона от падения.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

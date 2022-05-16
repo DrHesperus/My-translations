@@ -2,13 +2,13 @@
   "modifier_id": "tconstruct:emerald",
   "text": [
     {
-      "text": "A villager's best friend, don't let the villagers see you applying this! These aren't your lucky charms."
+      "text": "Лучший друг крестьянина, не позволяй крестьянам видеть, как ты накладываешь его! Эти талисманы удачи не для тебя."
     }
   ],
   "effects": [
-    "Increases tool durability depending on base durability",
-    "Increases conditional damage and mining speed",
-    "Single Level",
-    "Requires 1 Upgrade Slot"
+    "Увеличивает прочность в зависимости от базовой прочности.",
+    "Увеличивает условный урон и скорость добычи.",
+    "Одноуровневый.",
+    "Требует 1 слот улучшения."
   ]
 }

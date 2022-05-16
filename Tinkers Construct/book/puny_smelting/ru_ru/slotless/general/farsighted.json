@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:farsighted",
   "text": [
     {
-      "text": "Manyullyn is a great material, but there are many good materials that are easier to access, take some time and try them out before rushing to the end."
+      "text": "Манилин — это восхитительный материал, но встречаются множество качественных материалов, которых нетрудно получить, отними немного времени и опробуй их, прежде чем броситься в Энд."
     }
   ],
   "effects": [
-    "Decreases FOV on the held tool or worn armor",
-    "Multi-use",
-    "Slotless"
+    "Снижает FOV при удержании инструмента или ношения брони.",
+    "Многоразовый.",
+    "Безслотовый."
   ]
 }

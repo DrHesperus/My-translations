@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:diamond",
   "text": [
     {
-      "text": "Diamonds are forever!"
+      "text": "Алмазы вечны!"
     }
   ],
   "effects": [
-    "Increases durability, mining speed, and attack damage",
-    "Single Level",
-    "Requires 1 Upgrade Slot"
+    "Увеличивает прочность, скорость добычи и урон атаки.",
+    "Одноуровневый.",
+    "Требует 1 слот улучшения."
   ]
 }

@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:dyed",
   "text": [
     {
-      "text": "Does it come in black?"
+      "text": "Получается он вошёл в моду чёрного цвета?"
     }
   ],
   "effects": [
-    "Can use dyes to change the color of traveler's gear",
-    "Multi-use",
-    "Slotless"
+    "Можно использовать красители для смены окраса одежды путешественника.",
+    "Многоразовый",
+    "Безслотовый"
   ]
 }

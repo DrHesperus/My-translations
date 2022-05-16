@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:nearsighted",
   "text": [
     {
-      "text": "You need to move on from cobblestone tools eventually."
+      "text": "По большому счёту тебе нужно уйти от инструментов из булыжника."
     }
   ],
   "effects": [
-    "Increases FOV on the held tool or worn armor",
-    "Multi-use",
-    "Slotless"
+    "Увеличивает FOV при удержании инструмента или ношения брони.",
+    "Многоразовый",
+    "Безслотовый"
   ]
 }

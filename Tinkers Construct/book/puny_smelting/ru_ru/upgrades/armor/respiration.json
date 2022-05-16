@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:respiration",
   "text": [
     {
-      "text": "Who needs air to breathe anyway."
+      "text": "Короче, кому нужен воздух, чтобы дышать."
     }
   ],
   "effects": [
-    "Reduces air consumption underwater", 
-    "Multiple levels, each level further decreases air consumption",
-    "Requires 1 upgrade slot per level"
+    "Понижает расход воздуха под водой.", 
+    "Многоуровневый, каждый уровень ещё понижает расход воздуха.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

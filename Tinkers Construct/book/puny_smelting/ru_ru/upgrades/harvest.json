@@ -1,12 +1,12 @@
 {
-  "title": "Harvest Upgrades",
+  "title": "Улучшения для добычи",
   "text": [
     {
-      "text": "Harvest crops with ease! Er wrong type of harvest... These upgrades can help you harvest blocks better in special situations!"
+		"text": "Сбор урожая на раз-два! Как бы это сказать, неправильный тип сбора ... Эти улучшения помогут тебе лучше добывать блоки в особых условиях!"
     },
     {
-      "text": "These upgrades can be used to create the fastest tools around these parts. Perhaps you could combine them to make your tools faster than ever.",
-      "paragraph": true
+		"text": "Эти улучшения можно использовать для создания более быстрых инструментов приблизительно с этими частями. Разве что ты можешь объединить их для создания в более быстрые инструменты.",
+		"paragraph": true
     }
   ]
 }

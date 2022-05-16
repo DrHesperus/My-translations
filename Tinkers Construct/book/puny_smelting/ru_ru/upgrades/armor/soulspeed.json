@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:soulspeed",
   "text": [
     {
-      "text": "Apparently, souls are ideal running fast. Is this ethically okay?"
+      "text": "По всей видимости, души идеально быстро бегают. Разве это с этической точки зрения хорошо?"
     }
   ],
   "effects": [
-    "Increases movement speed on soul sand",
-    "Multiple levels, each level further increases speed",
-    "Requires 1 Upgrade Slot per level"
+    "Повысит скорость движения на песке душ.",
+    "Многоуровневый, каждый уровень ещё повышает скорость.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }
