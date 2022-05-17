@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:necrotic",
   "text": [
     {
-      "text": "Harvest the life of your foes in order to survive longer."
+      "text": "Собирает жизнь из врагов для того, чтобы дольше выжить."
     }
   ],
   "effects": [
-    "Critical hits steal life from your enemies to heal you",
-    "Multiple levels, increases chance of life steal per level",
-    "Requires 1 Upgrade Slot per level"
+    "Критические удары крадут жизнь из врагов, чтобы исцелить тебя.",
+    "Многоуровневый, увеличивает шанс кражи жизни с каждым уровнем.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

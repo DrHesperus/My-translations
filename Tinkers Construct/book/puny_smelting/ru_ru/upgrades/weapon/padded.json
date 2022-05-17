@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:padded",
   "text": [
     {
-      "text": "A little bit of floofhips never hurt anyone."
+      "text": "Чуть-чуть floofhips никому не повредит."
     }
   ],
   "effects": [
-    "Reduces knockback of tool",
-    "Multiple levels, each level decreases knockback further",
-    "Requires 1 Upgrade Slot per level"
+    "Снижает отбрасывание инструмента.",
+    "Многоуровневый, каждый уровень ещё больше снизит отбрасывание.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

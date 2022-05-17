@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:hydraulic",
   "text": [
     {
-      "text": "Using the magic of pumps and fluids you can move things with ease. I mean you can just not in this case."
+      "text": "Используя магию насосов и жидкостей, ты можешь двигать вещи на раз два. Я хочу сказать, что можно, только не в нашем случае."
     }
   ],
   "effects": [
-    "Mines faster underwater or in the rain",
-    "Multiple levels, increases speed further with each level",
-    "Requires 1 Upgrade Slot per level"
+    "Быстрее добывает под водой или под дождём.",
+    "Многоуровневый, ещё больше увеличивает скорость с каждым уровнем.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

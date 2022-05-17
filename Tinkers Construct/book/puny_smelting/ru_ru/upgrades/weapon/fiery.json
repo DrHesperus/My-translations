@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:fiery",
   "text": [
     {
-      "text": "The fires of the nether work to punish your foes."
+      "text": "Огни незера стараются наказать твоих врагов."
     }
   ],
   "effects": [
-    "Burns targets on hit",
-    "Multiple levels, higher levels increase burn duration",
-    "Requires 1 Upgrade Slot per level"
+    "Поджигает цели при ударе.",
+    "Многоуровневый, более высокие уровни увеличивают время горения.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

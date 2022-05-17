@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:blasting",
   "text": [
     {
-      "text": "This upgrade might blow you away if you are not careful."
+      "text": "Это улучшение может тебя убить, если ты будешь не аккуратен."
     }
   ],
   "effects": [
-    "Mines blocks weaker to explosives faster, such as ores",
-    "Multiple levels, increases speed further with each level",
-    "Requires 1 Upgrade Slot per level"
+    "Быстрее добывает блоки менее прочные к взрывам, например, руды.",
+    "Многоуровневый, сильнее увеличивает скорость с каждым уровнем.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

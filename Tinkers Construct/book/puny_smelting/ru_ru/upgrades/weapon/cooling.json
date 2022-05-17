@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:cooling",
   "text": [
     {
-      "text": "The best way to beat the fires of nether is to freeze them, extinguishing their eternal flame."
+      "text": "Лучший способ победить огни незера — это заморозить их, погасив их предвечный огонь."
     }
   ],
   "effects": [
-    "Increases damage to fire based creatures",
-	"Multiple levels, each level increases damage further",
-    "Requires 1 Upgrade Slot per level"
+    "Увеличивает урон по огненным существам.",
+	"Многоуровневый, каждый уровень ещё больше увеличит урон.",
+    "Требует 1 слот улучшения с каждым уровнем."
   ]
 }

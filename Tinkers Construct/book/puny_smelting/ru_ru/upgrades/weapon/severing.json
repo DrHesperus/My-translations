@@ -2,12 +2,12 @@
   "modifier_id": "tconstruct:severing",
   "text": [
     {
-      "text": "Who knew you could blow heads clean off with some well placed explosives? Just a little off the top."
+      "text": "Кто бы мог подумать, что ты можешь начисто снести головы с помощью удачно расположенной взрывчатки? Чуть-чуть не в своём уме."
     }
   ],
   "effects": [
-    "Enemies drop their heads",
-    "Multiple levels, each level increases decapitation chance further",
-	"Requires 1 Upgrade Slot per level"
+    "Враги скидывают свои головы.",
+    "Многоуровневый, каждый уровень ещё больше увеличит шанс обезглавливания.",
+	"Требует 1 слот улучшения с каждым уровнем."
   ]
 }
