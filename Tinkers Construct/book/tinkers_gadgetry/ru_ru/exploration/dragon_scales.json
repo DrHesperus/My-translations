@@ -1,9 +1,9 @@
 {
-  "title": "Dragon Scales",
+  "title": "Чешуйки дракона",
   "item": "tconstruct:dragon_scale",
   "text": [
     {
-      "text": "If you can hit the ender dragon with the force of an explosion, it may drop one of its scales. I was told the easiest way to do this is breaking an end crystal while it is healing the dragon, though TNT can also be effective. So far I have been unsuccessful in obtaining a scale, though once I do I have heard that Thruul has found a way to use them to make tools more powerful.",
+		"text": "Если ты сможешь ударить Эндер дракона при помощи силой взрыва, он может скинуть с себя одну из своих чешуек. Я слышал, что это проще сделать — это сломать Кристалл Энда, пока он исцеляет дракона, впрочем, Динамит также может быть эффективным средством. На данный момент я не увенчался успехом получить чешуйку, однако в своё время я слышал, что Thruul нашёл способ использовать их для создания более мощных инструментов.",
       "paragraph": true
     }
   ]

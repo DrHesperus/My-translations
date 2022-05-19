@@ -1,10 +1,10 @@
 {
-  "title": "Necrotic Bones",
+  "title": "Омертвевшая кость",
   "item": "tconstruct:necrotic_bone",
   "text": [
     {
-      "text": "Bones from wither skeletons seem to have unique properties compared to the bones of regular skeletons. Selena and Nemea have managed to create tools out of these, and Thruul has used them in some clever modifiers. I have been working on producing a powder similar to bonemeal as I want to see the effect bones infused with wither would have on plants",
-      "paragraph": true
+		"text": "Кажется, что кости из визер-скелетов имеют уникальные свойства по сравнению с костями обычных скелетов. Selena и Nemea удалось создать из них инструменты, а Thruul использовал их в некоторых толковых модификаторах. Я работаю над созданием порошка, похожего на костную муку, поскольку хочу посмотреть, какой эффект кости, пропитанные иссушением, окажут на растения.",
+		"paragraph": true
     }
   ]
 }

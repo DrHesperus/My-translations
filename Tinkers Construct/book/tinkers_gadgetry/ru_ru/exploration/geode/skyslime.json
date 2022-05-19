@@ -1,5 +1,5 @@
 {
-  "title": "Skyslime Geodes",
+  "title": "Небослизневые жеоды",
   "image": {
     "file": "tconstruct:book/images/geodes/skyslime.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Skyslime geodes are found in caves near the surface, and rarely even I have seen one on the surface leading me to believe they might have origins in space. For some reason the geodes are often cold even in warm biomes, leading to packed ice forming around the crystals."
+		"text": "Небослизневые жеоды встречаются в пещерах ближе к поверхности, и я даже редко видел одну на поверхности, что приводит меня на то, что они могут происходить из космоса. По некоторым причинам жеоды, как правило, вообще холодны в тёплых биомах, что приводит к формированию плотного льда вокруг кристаллов."
     }
   ]
 }

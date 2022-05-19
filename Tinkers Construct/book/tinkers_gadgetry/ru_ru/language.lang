@@ -1,25 +1,25 @@
-intro=Introduction
+intro=Ознакомление
 
-gadgets=Gadgets
+gadgets=Приспособления
 
-modifiers=Odd Modifiers
+modifiers=Диковинные модификаторы
 
-exploration=Exploration
-exploration.necrotic_bones=Necrotic Bone
+exploration=Исследование
+exploration.necrotic_bones=Омертвелая кость
 
-exploration.skyslime_island=Skyslime
-exploration.earthslime_island=Earthslime
-exploration.clay_island=Clay
-exploration.blood_island=Blood
-exploration.enderslime_island=Enderslime
+exploration.skyslime_island=Небослизневые
+exploration.earthslime_island=Земле-слизневые
+exploration.clay_island=Глиняные
+exploration.blood_island=Кровавые
+exploration.enderslime_island=Эндер-слизневые
 
-exploration.skyslime_geode=Skyslime
-exploration.earthslime_geode=Earthslime
-exploration.ichor_geode=Ichor
-exploration.enderslime_geode=Enderslime
+exploration.skyslime_geode=Небослизневые
+exploration.earthslime_geode=Земле-слизневые
+exploration.ichor_geode=Ихоровые
+exploration.enderslime_geode=Эндер-слизневые
 
-armor=Armor
-armor.subtext=Mixing slime with various mob parts produces an interesting set of armor. Its not the most defensive, but it can really enhance your abilities.
+armor=Броня
+armor.subtext=Смешивание слизи с различными частями монстра изготовит интересный комплект брони. Она не самая защищённая, но действительно сможет значительно усилить твои способности.
 
-skull_materials=Skull Materials
-skull_materials.subtext=Placing one of these skulls in a casting basin and adding enderslime can enhance their ability as a helmet.
+skull_materials=Материалы для черепа
+skull_materials.subtext=Поместив один из этих черепов в разливочный ковш и добавив эндер-слизь, можно усилить их способности в качестве шлема.

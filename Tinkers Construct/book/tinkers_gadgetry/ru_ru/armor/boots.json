@@ -1,14 +1,19 @@
 {
   "tool": "tconstruct:slime_boots",
   "text": [
-    { "text": "These boots combine the power of the rabbit with slime to allow you to jump around with ease." },
-    { "text": "To create these fantastic boots, pour enderslime on a rabbits foot. The boots can later be repaired using rabbit hide.", "paragraph": true }
+    {
+		"text": "Эти ботинки объединят силу кролика со слизью, что позволяет тебе с лёгкостью прыгать."
+	},
+    {
+		"text": "Чтобы создать эти фантастические ботинки, вылей Эндер-слизь на Кроличью лапку. В дальнейшем, ботинки можно починить с помощью Кроличьей шкурки.",
+		"paragraph": true
+	}
   ],
   "properties": [
-    "High Durability",
-    "No Armor or Defense Slots",
-    "5 Upgrade Slots",
-    "1 Ability Slot",
-    "Bouncy and Leaping"
+    "Высокая прочность.",
+    "Без брони или слотов обороны.",
+    "Слоты улучшения 5",
+    "Слот способности 1"
+    "Упругость и Прыганье."
   ]
 }
