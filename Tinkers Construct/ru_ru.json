@@ -1664,7 +1664,7 @@
 "modifier.tconstruct.knockback": "Отбрасывание",
 "modifier.tconstruct.knockback.flavor": "У-и-и-и-и-и-и!",
 "modifier.tconstruct.knockback.description": "Удар по вещам заставит их отлететь подальше!",
-"modifier.tconstruct.padded": "Обитый",
+"modifier.tconstruct.padded": "Мягкий",
 "modifier.tconstruct.padded.flavor": "Пушистый!",
 "modifier.tconstruct.padded.description": "Снижает отбрасывание инструмента, чтобы не дать врагам скрыться.",
 "modifier.tconstruct.severing": "Разделка",
@@ -1873,8 +1873,7 @@
 "modifier.tconstruct.double_jump.description": "Позволяет тебе прыгать между небом и землёй. Чем выше уровни, тем добавляет ещё больше прыжков!",
 "modifier.tconstruct.bouncy": "Упругость",
 "modifier.tconstruct.bouncy.flavor": "Связь с небом",
-"modifier.tconstruct.bouncy.description": "Заставляет землю отражать тебя, как будто ты постоянно на склизких блоках.",
-
+"modifier.tconstruct.bouncy.description": "Заставляет землю тебя отбрасывать, словно ты постоянно на слизневых блоках.",
 "modifier.tconstruct.frost_walker": "Ледоход",
 "modifier.tconstruct.frost_walker.flavor": "Где мой супер костюм?",
 "modifier.tconstruct.frost_walker.description": "Временно замораживает воду.",
