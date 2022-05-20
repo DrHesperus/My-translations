@@ -1,5 +1,5 @@
 {
-  "title": "Remove Modifiers",
+  "title": "Снятие модификаторов",
   "image": {
     "file": "tconstruct:book/images/remove_modifiers.png",
     "width": 135,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "I have discovered that it is possible to remove modifiers from tools using a wet sponge. Removing the modifier gives me back space for new modifiers, and some of the item can be salvaged as well. Based on where I scrub the tool and how many sponges are used, different modifiers are removed."
+		"text": "Я обнаружил, что можно снять модификатор из инструментов с помощью мокрой губки. Снятие модификатора даст обратно место для новых модификаторов, а также сохранятся несколько предметов. В зависимости от того, где я вычищаю инструмент и сколько используются губок, снимаются разные модификаторы."
     }
   ]
 }

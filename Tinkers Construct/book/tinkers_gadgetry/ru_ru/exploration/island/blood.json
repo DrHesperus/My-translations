@@ -1,5 +1,5 @@
 {
-  "title": "Blood Islands",
+  "title": "Кровавые острова",
   "image": {
 	"file": "tconstruct:book/images/islands/blood.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "These blood red islands are occasionally found in the lava oceans of the nether. They tend to have a higher concentration of magma cubes than the rest of the nether, and also include an odd variant of fungus that seems to be a source of ichor."
+		"text": "Эти кроваво-красные острова периодически обнаруживаются в океанах лавы Незера. Они обычно имеют повышенную концентрацию магмовых кубов, чем в остальной части Незера, а ещё включают в себя странные варианты грибов, которые, по-видимому источник ихора."
     }
   ]
 }

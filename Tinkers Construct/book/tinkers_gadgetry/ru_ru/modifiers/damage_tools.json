@@ -1,5 +1,5 @@
 {
-  "title": "Damage Tools",
+  "title": "Повреждение инструментов",
   "image": {
     "file": "tconstruct:book/images/damage_tools.png",
     "width": 135,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Apparently tools do not react well to certain potions. Thick and mundane potions appear to do minor damage to the tool, while potions of harming, especially splash potions, do quite a bit more damage to the tool. Now if I could just find some dragon's breath to test with a lingering potion of harming..."
+		"text": "По всей видимости инструменты совершенно не реагируют на определённые зелья. Густые и заурядные зелья, кажется, наносят незначительный урон по инструменту, при этом зелья вреда, особенно это касается взрывных зелий, наносят довольно больше урона по инструменту. Теперь, если бы я только смог найти драконье дыханье, чтобы испытать его с зельем вреда..."
     }
   ]
 }

@@ -762,7 +762,7 @@
 "item.tconstruct.quartz_shuriken": "Кварцевый сюрикэн",
 "item.tconstruct.quartz_shuriken.tooltip": "Бросаемое оружие с наивысшим уроном.",
 "item.tconstruct.flint_shuriken": "Кремниевый сюрикэн",
-"item.tconstruct.flint_shuriken.tooltip": "Бросаемое оружие с высоким отбрасыванием.",
+"item.tconstruct.flint_shuriken.tooltip": "Бросаемое оружие с сильным отбрасыванием.",
 
 "block.tconstruct.earth_cake": "Слизневый торт",
 "block.tconstruct.sky_cake": "Небослизневый торт",
@@ -773,9 +773,9 @@
 
 "item.tconstruct.earth_slime_sling": "Слизневая рогатка",
 "item.tconstruct.earth_slime_sling.tooltip": "Заряжай, целься ниже, швыряй!\nИспользуй слизневые ботинки, если дорожишь своей жизнью!",
-"item.tconstruct.sky_slime_sling": "Рогатка из Небесной слизи",
+"item.tconstruct.sky_slime_sling": "Небослизневая рогатка",
 "item.tconstruct.sky_slime_sling.tooltip": "Заряжай, отпускай, возвращай в воздух!\nИспользуй слизневые ботинки, если дорожишь своей жизнью!",
-"item.tconstruct.ender_slime_sling": "Рогатка из эндер слизи",
+"item.tconstruct.ender_slime_sling": "Эндер-слизневая рогатка",
 "item.tconstruct.ender_slime_sling.tooltip": "Заряжай, наведи на ограду, появись с другой стороны!",
 "item.tconstruct.ichor_slime_sling": "Ихоровая рогатка",
 "item.tconstruct.ichor_slime_sling.tooltip": "Заряжай, наведи на существо, и отбрось его!",

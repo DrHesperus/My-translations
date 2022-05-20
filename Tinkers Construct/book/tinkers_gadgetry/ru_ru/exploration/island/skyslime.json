@@ -1,5 +1,5 @@
 {
-  "title": "Skyslime Islands",
+  "title": "Небослизневые острова",
   "image": {
     "file": "tconstruct:book/images/islands/skyslime.png",
     "width": 180,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Skyslime islands can be found around the overworld floating above the terrain, and contain grass which is essential for skyslime breeding. Legend tells that skyslimes were invaders from another realm, though they are mostly confined to areas near the islands."
+		"text": "Небослизневые острова можно найти по всему надземному миру, парящие над местностью и содержат траву, которая является неотъемлемой частью для размножения небесной слизи. Легенда гласит, что небесные слизи были растение-захватчиками из другого царства, хотя в основном они обитают только вблизи островов."
     }
   ]
 }

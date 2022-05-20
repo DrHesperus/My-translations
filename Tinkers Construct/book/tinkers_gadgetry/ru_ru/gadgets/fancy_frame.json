@@ -1,5 +1,5 @@
 {
-  "title": "Fancy Item Frames",
+  "title": "Причудливые рамки",
   "image": {
     "file": "tconstruct:book/images/fancy_frames.png",
     "width": 140,
@@ -7,7 +7,7 @@
   },
   "text": [
     {
-      "text": "Making use of rarer metals, I have managed to create variants of item frames with unique properties."
+		"text": "Пользуясь редкими металлами, мне удалось создать разновидности рамок с уникальными свойствами."
     }
   ]
 }

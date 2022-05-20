@@ -1,9 +1,9 @@
 {
-  "title": "Glowball",
+  "title": "Светошар",
   "item": "tconstruct:glow_ball",
   "text": [
     {
-      "text": "Combining glowstone and snowballs lets me create a throwable light source. It's effective for lighting up hard to reach areas, or finding danger hiding in a dark space without exposing yourself to harm.",
+      "text": "Объединение светокамня и снежков позволило мне создать метательный источник света. Он эффективен для освещения труднодоступных областей, или определения скрытых угроз в тёмном пространстве не причинив себе вред.",
       "paragraph": true
     }
   ]

@@ -1,14 +1,32 @@
 {
-  "title": "Fancy Item Frames",
+  "title": "Причудливые рамки",
   "text": [
-    { "text": "• Clear: Turn invisible when an item is placed inside, and allow interacting with the block behind when filled and not sneaking." },
-    { "text": "\n" },
-    { "text": "• Gold: Gradually rotates the item automatically. Crafting with a redstone torch reverses the direction." },
-    { "text": "\n" },
-    { "text": "• Diamond: Gradually reduces the rotation until the item is upright. Supports more rotations than a standard frame." },
-    { "text": "\n" },
-    { "text": "• Manyullyn: Always appears fully lit, even in darkness." },
-    { "text": "\n" },
-    { "text": "• Netherite: Resistant to fire and explosions." }
+    {
+		"text": "• Прозрачная: Становится невидимой, когда внутри расположен предмет, и позволяет взаимодействовать с блоком позади, когда наполнен и не скрыт."
+	},
+    {
+		"text": "\n"
+	},
+    {
+		"text": "• Золотая: Постепенно автоматически вращает предмет. Создание с редстоуновым факелом обратит направление."
+	},
+    {
+		"text": "\n"
+	},
+    {
+		"text": "• Алмазная: Постепенно уменьшает вращение, пока предмет вертикален. Поддерживает больше вращений, чем стандартная рамка."
+	},
+    {
+		"text": "\n"
+	},
+    {
+		"text": "• Манилиновая: Всегда полностью освещена, даже в темноте."
+	},
+    {
+		"text": "\n"
+	},
+    {
+		"text": "• Незеритовая: Устойчива к огню и взрывам."
+	}
   ]
 }
