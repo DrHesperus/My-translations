@@ -1138,6 +1138,7 @@
 "_comment": "Tinkers World",
 
 "entity.tconstruct.earth_slime": "Слизень",
+"item.tconstruct.earth_slime_spawn_egg": "Яйцо призыва слизня",
 "entity.tconstruct.sky_slime": "Небесный слизень",
 "item.tconstruct.sky_slime_spawn_egg": "Яйцо призыва небесного слизня",
 "entity.tconstruct.ender_slime": "Эндер слизень",
@@ -2261,6 +2262,7 @@
 "effect.tconstruct.teleport_cooldown": "Перезарядка телепортации",
 "effect.tconstruct.fireball_cooldown": "Перезарядка огненного шара",
 "effect.tconstruct.calcified": "Окостеневший",
+"effect.tconstruct.self_destructing": "Самоуничтожение",
 
 "_comment": "Roman numerals",
 "roman_numeral.value.1": "I",
@@ -2301,7 +2303,7 @@
 "tool_stat.tconstruct.armor.description": "Насколько оно защищает когда надето.",
 "tool_stat.tconstruct.armor_toughness": "Прочность брони: ",
 "tool_stat.tconstruct.armor_toughness.description": "Насколько эта броня сопротивляется от ударов с высоким уроном.",
-"tool_stat.tconstruct.knockback_resistance": "Сопротив. отбрасывания: ",
+"tool_stat.tconstruct.knockback_resistance": "Сопротивление отбрасывания: ",
 "tool_stat.tconstruct.knockback_resistance.description": "Насколько эта броня снижает отбрасывание.",
 
 "stat.tconstruct.handle": "Ручка",
