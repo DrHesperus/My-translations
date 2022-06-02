@@ -448,6 +448,18 @@
 "item.tconstruct.rabbit_stew_bucket": "Ведро с тушёным кроликом",
 
 
+"_comment": "Potion",
+
+"fluid.tconstruct.potion": "Зелье",
+
+"item.tconstruct.potion_bucket": "Несоздаваемое ведро зелья",
+"item.tconstruct.potion_bucket.effect.water": "Ведро воды",
+"item.tconstruct.potion_bucket.contents": "Ведро %s",
+
+"item.tconstruct.splash_bottle": "Взрывная бутылочка",
+"item.tconstruct.lingering_bottle": "Туманная бутылочка",
+
+
 "_comment": "Slime",
 
 "block.tconstruct.blood_fluid": "Кровь",
