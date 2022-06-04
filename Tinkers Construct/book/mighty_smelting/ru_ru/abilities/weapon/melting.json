@@ -3,13 +3,16 @@
   "text": [
     {
       "text": "Плавильня недостаточно переносная? Попробуй превратить инструмент в ручную плавильню!"
+    },
+    {
+      "text": "ПКМ по баку при удержании инструмента, чтобы опустошить жидкость.", 
+	  "paragraph": true
     }
   ],
   "effects": [
-    "Плавит атакуемый монстров в бак инструмента.",
-    "Ещё переплавляет выпавшие, если возможно.",
-    "Инструмент можно опустошить в бак или в слив плавильни.",
-    "Требует 1 слот способности."
-	"Одноуровневый."
+    "Melts attacked mobs into the tool's tank",
+    "Dropped items also are melted if possible",
+    "Tool can be emptied into a tank or a smeltery drain",
+    "Requires 1 Ability Slot, single level"
   ]
 }

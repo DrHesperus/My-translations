@@ -1,0 +1,30 @@
+modLoader="javafml" #mandatory
+loaderVersion="[38,)" #mandatory 
+issueTrackerURL="https://github.com/TelepathicGrunt/Bumblezone/issues" #optional
+license="https://github.com/TelepathicGrunt/Bumblezone/blob/latest-released/LICENSE"
+
+[[mods]] #mandatory
+modId="the_bumblezone" #mandatory
+logoFile="the_bumblezone_logo.png"
+logoBlur=false
+version="${file.jarVersion}" #mandatory
+displayName="The Bumblezone" #mandatory
+displayURL="https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge"
+authors="TelepathicGrunt"
+credits="Спасибо Commoble за предложение этого великолепного названия для этого мода! Особая благодарность всем Forge учебным материалам и помощь в отладке от других моддеров в т.ч за помощь сделать этот мод возможным!"
+description='''Великолепное измерения, полная пчёл, которые станут ДЕЙСТВИТЕЛЬНО злыми, если ты возьмёшь их мёд! Войди в измерение, бросив Эндер-жемчуг в пчелиное гнездо, и, выйдя из него за пределами Y = 256 ниже Y = 0.'''
+
+[[dependencies.the_bumblezone]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+
+[[dependencies.the_bumblezone]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.0.14,)"
+
+[[dependencies.the_bumblezone]]
+    modId="feature_nbt_deadlock_be_gone"
+    mandatory=true
+    versionRange="*"

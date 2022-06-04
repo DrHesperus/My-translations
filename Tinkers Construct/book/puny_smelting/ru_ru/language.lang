@@ -4,7 +4,7 @@ moving_fluids=Перемещение жидкостей
 casting=Литьё
 tier_two_materials=Материалы 2 уровня
 
-upgrades=Upgrades
+upgrades=Улучшения
 upgrades.subtext=Инструменты можно усилить при помощи улучшений, впрочем, только ограниченное число можно наложить на инструмент.
 upgrades.group_general=Основные
 upgrades.group_harvest=Добыча

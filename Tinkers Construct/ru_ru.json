@@ -1984,8 +1984,8 @@
 "modifier.tconstruct.spilling": "Разлив",
 "modifier.tconstruct.spilling.flavor": "Буль-буль!",
 "modifier.tconstruct.spilling.description": "Жидкость, содержащаяся в оружие, выливается в атакуемые цели, или при нападении доспехами, причиняя эффекты на основе жидкости.",
-"modifier.tconstruct.wetting": "Намачивание",
-"modifier.tconstruct.wetting.flavor": "Не такой уж намоченный.",
+"modifier.tconstruct.wetting": "Вымывание",
+"modifier.tconstruct.wetting.flavor": "Не такой уж вымытый.",
 "modifier.tconstruct.wetting.description": "Причиняет намочить себя при нападении, налаживая разные эффекты на основе содержащейся жидкости.",
 
 "_comment": "Bonus modifier slots",
@@ -2145,7 +2145,7 @@
 "modifier.tconstruct.heavy.description": "Тяжело двигаться при владении, но обладает убойной мощью.",
 "modifier.tconstruct.stoneshield": "Каменный щит",
 "modifier.tconstruct.stoneshield.flavor": "Мастерский изгиб камня.",
-"modifier.tconstruct.stoneshield.description": "Добытые камни защищают инструмент от будущих повреждений.",
+"modifier.tconstruct.stoneshield.description": "Добытые камни имеют шанс защитить инструмент от будущих повреждений.",
 
 
 "__comment": "Tier 3 Mod Compat Traits",
