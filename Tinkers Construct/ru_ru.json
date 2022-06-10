@@ -1794,6 +1794,10 @@
 "modifier.tconstruct.dragonborn.flavor": "Стать Strixiki",
 "modifier.tconstruct.dragonborn.description": "Увеличивает защиту и атаку находясь в воздухе.",
 "modifier.tconstruct.dragonborn.resistance": "Воздушное сопротивление",
+"modifier.tconstruct.shulking": "Панцирный",
+"modifier.tconstruct.shulking.flavor": "Этот панцирь мой дом.",
+"modifier.tconstruct.shulking.description": "Увеличит сопротивление при приседании, но также снизит урон.",
+"modifier.tconstruct.shulking.resistance": "Противоснарядный",
 
 "_comment": "Armor - counterattack",
 "modifier.tconstruct.thorns": "Шипы",
