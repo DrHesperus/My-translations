@@ -477,10 +477,10 @@
 "fluid.tconstruct.flowing_sky_slime": "Текучая небеослизь",
 "item.tconstruct.sky_slime_bucket": "Ведро с небослизи",
 
-"block.tconstruct.magma_fluid": "Сгусток лавы",
-"fluid.tconstruct.magma": "Сгусток лавы",
-"fluid.tconstruct.flowing_magma": "Текучий сгусток лавы",
-"item.tconstruct.magma_bucket": "Ведро со сгустками лавы",
+"block.tconstruct.magma_fluid": "Магма",
+"fluid.tconstruct.magma": "Магма",
+"fluid.tconstruct.flowing_magma": "Текучая магма",
+"item.tconstruct.magma_bucket": "Ведро магмы",
 
 "block.tconstruct.ender_slime_fluid": "Эндер-слизь",
 "fluid.tconstruct.ender_slime": "Эндер-слизь",
